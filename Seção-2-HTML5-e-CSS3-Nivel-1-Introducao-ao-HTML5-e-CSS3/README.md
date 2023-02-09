@@ -67,6 +67,27 @@
 ```
 ! + ENTER
 ```
+......
+
+
+  <p align="center">
+    <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-4.jpg" width="50%">
+  </p>
+
+  <p align="center">
+    <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-9.jpg" width="50%">
+  </p>
+  
+  <p align="center">
+    <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-10.jpg" width="60%">
+  </p>
+  
+  <p align="center">
+    <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-11.jpg" width="60%">
+  </p>
+
+### Elementos para conteúdo de texto
+
 
 **Elemento de HTML**
 
@@ -95,9 +116,6 @@
 ```
 
 
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-4.jpg" width="50%">
-</p>
 
 - Elementos Normais
 
@@ -177,17 +195,6 @@
 </p>
 
 
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-9.jpg" width="50%">
-</p>
-
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-10.jpg" width="60%">
-</p>
-
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-11.jpg" width="60%">
-</p>
 
 **Importante**
 
@@ -198,7 +205,6 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 - Configurações, teclas de atalhos e plugins
 
 
-### Elementos para conteúdo de texto
 ```html
 <p>Parágrafo</p>
 ```
@@ -215,6 +221,23 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 
 <p align="center">
   <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-01.jpg" width="60%">
+</p>
+
+
+- Quebra de linha (line break)
+```html
+<!-- Quebra de linha (line break) -->
+
+<p>Esta é a primeira frase.</p>
+<p>Esta é a segunda frase.</p>
+
+
+<p>Esta é a primeira frase.<br>
+E esta é a segunda frase.</p>
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-03.jpg" width="60%">
 </p>
 
 
