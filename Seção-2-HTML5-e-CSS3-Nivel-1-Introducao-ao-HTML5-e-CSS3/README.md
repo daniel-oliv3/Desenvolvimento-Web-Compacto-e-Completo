@@ -77,30 +77,77 @@
 <p>Texto de um parágrafo de HTML</p>
 ```
 
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-2.jpg" width="80%">
-</p>
+```html
+<!DOCKTYPE html>
+<html>
+  <head>
+    <title>Título da página</title>
+    <!-- Icones, Scripts, Metadados, Etc... -->
+  </head>
+  <body>
+    <!-- Elemento estrutural body -->
+    <h1>Título da notícia</h1>
+    <h3>Sumário da notícia</h3>
+    <p>Parágrafo da notícia com texto</p>
+    <img src="imagem.jpg">
+  </body>
+</html>
+```
 
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-3.jpg" width="80%">
-</p>
 
 <p align="center">
   <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-4.jpg" width="80%">
 </p>
 
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-5.jpg" width="80%">
-</p>
+- Elementos Normais
 
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-6.jpg" width="80%">
-</p>
+```html
+<!-- Elementos normais -->
+<h3>...</h3>
+<p>...</p>
+<small>...</small>
+<i>...</i>
+<u>...</u>
+```
 
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-7.jpg" width="80%">
-</p>
+- Elementos Vazios
 
+```html
+<!-- Elementos vazios -->
+<hr>
+
+<br>
+```
+
+- Listas ordenadas
+
+```html
+<!-- Listas ordenadas -->
+<ol>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+</ol>
+```
+
+- Listas desordenadas
+
+```html
+<!-- Listas ordenadas -->
+<ul>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+</ul>
+```
+
+- Links / Hiperligações
+
+```html
+<!-- Links / Hiperligações -->
+
+<a href="www.google.com">Ir para o Google</a>
+```
 <p align="center">
   <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-8.jpg" width="80%">
 </p>
@@ -124,6 +171,29 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 - Emmet Abbreviations
 - Sistema de autocompletion
 - Configurações, teclas de atalhos e plugins
+
+
+### Elementos para conteúdo de texto
+```html
+<p>Parágrafo</p>
+```
+
+```html
+<!-- Heading (Título) -->
+<h1>Heading 1 (Título 1)</h1>
+<h2>Heading 2 (Título 2)</h2>
+<h3>Heading 3 (Título 3)</h3>
+<h4>Heading 4 (Título 4)</h4>
+<h5>Heading 5 (Título 5)</h5>
+<h6>Heading 6 (Título 6)</h6>
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-01.jpg" width="80%">
+</p>
+
+
+
 
 
 ##
