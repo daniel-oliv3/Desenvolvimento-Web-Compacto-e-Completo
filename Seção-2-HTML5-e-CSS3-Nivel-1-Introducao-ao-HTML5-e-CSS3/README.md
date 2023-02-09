@@ -62,6 +62,13 @@
 </html>
 ```
 
+- VSCODE
+- Criar a estrutura HTML automaticamente no visual studio code
+```
+! + ENTER
+```
+
+
 **Elemento de HTML**
 
 - HTML
