@@ -68,7 +68,6 @@
 ! + ENTER
 ```
 
-
 **Elemento de HTML**
 
 - HTML
@@ -77,6 +76,7 @@
 
 <p>Texto de um parágrafo de HTML</p>
 ```
+
 
 
 ##
