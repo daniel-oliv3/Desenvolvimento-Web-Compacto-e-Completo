@@ -17,6 +17,11 @@
 - Site: https://code.visualstudio.com/download
 
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-e-css.jpg" width="80%">
+</p>
+
+
 ##
 ### HTML5
 ##
@@ -30,6 +35,32 @@
 - Serve para construir a estrutura de uma página web
 - Construímos o código com elementos HTML
 
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-1.jpg" width="80%">
+</p>
+
+
+**HTML** = Estrutura e conteúdo com elementos
+- Todas as páginas HTML devem ter uma **estrutura base**
+
+- Estrutura base de uma página HTML
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Web</title>
+</head>
+<body>
+	<!-- Conteúdo do Site -->
+    
+</body>
+</html>
+```
 
 **Elemento de HTML**
 
@@ -53,9 +84,8 @@
 - Muitos outras funcionalidades
 
 
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-e-css.jpg" width="80%">
-</p>
+##
+
 
 
 
