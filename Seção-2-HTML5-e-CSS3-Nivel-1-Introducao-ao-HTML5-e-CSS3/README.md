@@ -41,12 +41,21 @@
 ```
 
 
+##
+### CSS3
+##
 
 
+**C**ascading **S**tyle **S**heets
+
+- Organização dos elementos de HTML
+- Aplicação de estilos (cores, tamanhos, etc...)
+- Muitos outras funcionalidades
 
 
-
-
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-e-css.jpg" width="80%">
+</p>
 
 
 
