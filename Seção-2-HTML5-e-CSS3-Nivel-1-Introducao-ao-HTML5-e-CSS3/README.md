@@ -96,7 +96,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-4.jpg" width="80%">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-4.jpg" width="50%">
 </p>
 
 - Elementos Normais
@@ -119,10 +119,10 @@
 <br>
 ```
 
-- Listas ordenadas
+- Listas Ordenadas
 
 ```html
-<!-- Listas ordenadas -->
+<!-- Listas Ordenadas -->
 <ol>
   <li>...</li>
   <li>...</li>
@@ -130,10 +130,10 @@
 </ol>
 ```
 
-- Listas desordenadas
+- Listas Desordenadas
 
 ```html
-<!-- Listas ordenadas -->
+<!-- Listas Desordenadas -->
 <ul>
   <li>...</li>
   <li>...</li>
@@ -148,12 +148,19 @@
 
 <a href="www.google.com">Ir para o Google</a>
 ```
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-8.jpg" width="80%">
-</p>
+
+- Imagens
+
+```html
+<!-- Imagens -->
+
+<img src="imagem.jpg">
+```
+
+
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-9.jpg" width="80%">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-9.jpg" width="50%">
 </p>
 
 <p align="center">
