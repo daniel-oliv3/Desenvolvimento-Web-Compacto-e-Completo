@@ -67,8 +67,8 @@
 ```
 ! + ENTER
 ```
-......
 
+- Resumo
 
   <p align="center">
     <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-4.jpg" width="50%">
@@ -86,8 +86,17 @@
     <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-11.jpg" width="60%">
   </p>
 
-### Elementos para conteúdo de texto
 
+**Importante**
+  
+O editor de código ajuda a indentificar as tags, deves tirar vantagem na utilização dos recursos do editor
+  
+- Emmet Abbreviations
+- Sistema de autocompletion
+- Configurações, teclas de atalhos e plugins
+
+
+### Elementos para conteúdo de texto
 
 **Elemento de HTML**
 
@@ -196,15 +205,6 @@
 
 
 
-**Importante**
-
-O editor de código ajuda a indentificar as tags, deves tirar vantagem na utilização dos recursos do editor
-
-- Emmet Abbreviations
-- Sistema de autocompletion
-- Configurações, teclas de atalhos e plugins
-
-
 ```html
 <p>Parágrafo</p>
 ```
@@ -241,7 +241,30 @@ E esta é a segunda frase.</p>
 </p>
 
 
+- Separador horizontal (Horizontal rules)
+```html
+<!-- hr -->
 
+<p>Primeira frase</p>
+<hr>
+<p>Segunda frase</p>
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-04.jpg" width="60%">
+</p>
+
+
+- Contentor genérico em linhas (inline text container)
+```html
+<!-- span -->
+
+<p>Esta frase <span>Contém</span> um span</p>
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-05.jpg" width="60%">
+</p>
 
 
 ##
