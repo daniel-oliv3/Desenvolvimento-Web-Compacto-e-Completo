@@ -116,8 +116,6 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 </p>
 
 
-  
-
 
 ### Elementos para conteúdo de texto
 
@@ -190,6 +188,28 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
   <li>...</li>
 </ul>
 ```
+
+- `<ol>` e `<ul>` Listas ordenadas e listas desordenadas
+```html
+<!-- Exemplo -->
+
+<ol>
+  <li>Primeiro elemento</li>
+  <li>Segundo elemento</li>
+  <li>Terceiro elemento</li>
+</ol>
+
+<ul>
+  <li>Primeiro elemento</li>
+  <li>Segundo elemento</li>
+  <li>Terceiro elemento</li>
+</ul>
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-06.jpg" width="60%">
+</p>
+
 
 - Links / Hiperligações
 
@@ -293,6 +313,38 @@ E esta é a segunda frase.</p>
 <p align="center">
   <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-05.jpg" width="60%">
 </p>
+
+
+- Outros elementos relacionados com texto
+
+```html
+<!-- text -->
+
+<p>Texto a <strong>negrito</strong></p>
+<p>Texto em <i>itálico</i></p>
+<p>Texto em <em>itálico</em></p>
+<p>Texto a <u>sublinhado</u></p>
+<p>Texto a <s>rasurado</s></p>
+<p>Texto com <q>aspas</q></p>
+<p>Texto com <mark>realce</mark></p>
+<p>Texto com <abbr title="Importante!">notas</abbr></p>
+<p>Texto com <small>tamanho mais pequeno</small></p>
+<p>A fórmula é 2mc<sup>2</sup></p>
+<p>Água = H<sub>2</sub>O</p>
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-07.jpg" width="60%">
+</p>
+
+
+
+
+### O que são atributos nos elementos HTML?
+
+
+
+
 
 
 ##
