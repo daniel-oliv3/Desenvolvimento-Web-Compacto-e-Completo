@@ -1,5 +1,5 @@
 ##
-### Seção 2 - HTML5 CSS3 Nível 1 - Introdução ao HTML5 e CSS3
+### Seção 2 - HTML5 e CSS3 Nível 1 - Introdução ao HTML5 e CSS3
 ##
 
 
