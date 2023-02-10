@@ -376,7 +376,7 @@ E esta é a segunda frase.</p>
 - `class` lista de classes de um elemnto HTML
 
 
-
+### ExercÍcio prático com atributos de HTML
 
 
 
