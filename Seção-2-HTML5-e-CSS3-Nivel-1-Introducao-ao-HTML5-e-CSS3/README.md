@@ -185,29 +185,14 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 ```
 
 
-- Um exemplo de combinação de títulos e paágrafos
 
-```html
-<!-- Um exemplo de combinação de títulos e paágrafos -->
-
-<h1>Agência Viagens a Marte</h1>
-<h3>Quem somos?</h3>
-<p>Uma agência de viagens para levar qualquer um a Marte.</p>
-<h3>Onde estamos?</h3>
-<p>Podemos encontrar-nos no nosso site na Internet.</p>
-<h3>Qual é o nosso objetivo?</h3>
-<p>Proporcionar-te a melhor experiência da tua vida</p>
-```
-
-<p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-02.jpg" width="60%">
-</p>
-
-
+- Parágrafos
 
 ```html
 <p>Parágrafo</p>
 ```
+
+- Headings
 
 ```html
 <!-- Heading (Título) -->
@@ -224,9 +209,29 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 </p>
 
 
-- Quebra de linha (line break)
+- Um exemplo de combinação de títulos e parágrafos
+
 ```html
-<!-- Quebra de linha (line break) -->
+<!-- Um exemplo de combinação de títulos e parágrafos -->
+
+<h1>Agência Viagens a Marte</h1>
+<h3>Quem somos?</h3>
+<p>Uma agência de viagens para levar qualquer um a Marte.</p>
+<h3>Onde estamos?</h3>
+<p>Podemos encontrar-nos no nosso site na Internet.</p>
+<h3>Qual é o nosso objetivo?</h3>
+<p>Proporcionar-te a melhor experiência da tua vida</p>
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-02.jpg" width="60%">
+</p>
+
+
+- Quebra de linha (line break)
+
+```html
+<!-- br -->
 
 <p>Esta é a primeira frase.</p>
 <p>Esta é a segunda frase.</p>
