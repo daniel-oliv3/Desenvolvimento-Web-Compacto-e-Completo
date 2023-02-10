@@ -68,25 +68,6 @@
 ! + ENTER
 ```
 
-- Resumo
-
-  <p align="center">
-    <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-4.jpg" width="50%">
-  </p>
-
-  <p align="center">
-    <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-9.jpg" width="50%">
-  </p>
-  
-  <p align="center">
-    <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-10.jpg" width="60%">
-  </p>
-  
-  <p align="center">
-    <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-11.jpg" width="60%">
-  </p>
-
-
 **Importante**
   
 O editor de código ajuda a indentificar as tags, deves tirar vantagem na utilização dos recursos do editor
@@ -94,6 +75,48 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 - Emmet Abbreviations
 - Sistema de autocompletion
 - Configurações, teclas de atalhos e plugins
+
+
+
+- Resumo: Elementos HTML, Tags
+
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-4.jpg" width="50%">
+</p>
+
+**Importante**
+
+- O HTML não dá importância aos espaços
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-9.jpg" width="50%">
+</p>
+  
+**Importante**
+
+- Mais do que um espaço dentro do conteúdo, é transformado num espaço só
+
+```html
+<!-- exemplo espaços em brancos são ignorados pelo interpretador -->
+
+<p>Este parágrafo tem vários            espaços.</p>
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-10.jpg" width="60%">
+</p>
+
+**Importante**
+
+- Deves usar tabulações para organizar o código
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-11.jpg" width="60%">
+</p>
+
+
+  
 
 
 ### Elementos para conteúdo de texto
