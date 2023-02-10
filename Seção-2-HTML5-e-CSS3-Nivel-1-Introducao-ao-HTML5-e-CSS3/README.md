@@ -342,6 +342,52 @@ E esta é a segunda frase.</p>
 
 ### O que são atributos nos elementos HTML?
 
+**O que é um atributo em HTML?**
+
+- Todos os elementos de HTML podem conter atributos, Em alguns casos são mesmo **obrigatórios**
+- São **propriedades adicionais** para configurar ou ajustar o comportamento dos elementos
+- Os atributos são fundamentais na relação do HTML com o **CSS** e com o **JavaScript**
+- Os atributos são definidos dentro da tag de abertura dos elementos HTML
+
+**Exemplo**
+- O elemento `a` (âncora) necessita do atributo href (Hiperlink reference)
+
+```html
+<!-- Sem Atributo -->
+
+<a>Visitar o Goggle</a>
+```
+
+- Sem o atributo href, o browser apresenta o texto sem o aspeto de link
+
+```html
+<!-- Com o Atributo (href) -->
+
+<a href="www.google.com.br">Visitar o Goggle</a>
+```
+
+**Atributos Globais**
+
+- Atributos globais podem ser usados em todos os elementos HTML
+- Existem atributos específicos para alguns elementos
+- Atributos globais muitos comuns: `id` e `class`
+
+- `id` identifica de forma única em elemento no documento HTML
+- `class` lista de classes de um elemnto HTML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
