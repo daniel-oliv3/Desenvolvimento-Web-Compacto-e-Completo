@@ -378,8 +378,11 @@ E esta é a segunda frase.</p>
 
 ### ExercÍcio prático com atributos de HTML
 
+- Exemplo
+-  ``
 
-
+- Atributo `target="_blank"`com o valor_blank abre um link em outra página
+- Atributo `alt` texto alternativo
 
 
 
