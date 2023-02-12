@@ -440,7 +440,7 @@ E esta é a segunda frase.</p>
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas
-    12/02/2022
+    12/02/2023
 -->
 ``` 
 
@@ -529,14 +529,122 @@ E esta é a segunda frase.</p>
 ### 17 - Três formas de aplicar estilos no HTML
 ##
 
+- CSS Inline
+```html
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styles inline</title>
+</head>
+<body>
+    
+    <p style="color: red; font-size: 30px;">Título do meu documento</p>
+    <p style="color: gray; font-size: 16px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit aut iure adipisci laboriosam? Quia cumque dicta quod, vero aliquam magnam debitis quidem quisquam qui quas! Doloribus facilis reiciendis fuga sit.</p>
+
+</body>
+</html>
+
+<!--
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas
+    12/02/2023
+-->
+```
+
+- Por seletor
+
+```html
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styles inline</title>
+    <style>
+        .titulo{
+            color: red;
+            font-size:30px;
+        }
+        .texto{
+            color: gray;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    
+    <p class="titulo">Título do meu documento</p>
+    <p class="texto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit aut iure adipisci laboriosam? Quia cumque dicta quod, vero aliquam magnam debitis quidem quisquam qui quas! Doloribus facilis reiciendis fuga sit.</p>
+
+</body>
+</html>
 
 
+<!--
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas
+    12/02/2023
+-->
+```
+
+- Arquivo css externo
+```html
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styles inline</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    
+    <p class="titulo">Título do meu documento</p>
+    <p class="texto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit aut iure adipisci laboriosam? Quia cumque dicta quod, vero aliquam magnam debitis quidem quisquam qui quas! Doloribus facilis reiciendis fuga sit.</p>
+
+</body>
+</html>
 
 
+<!--
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas
+    12/02/2023
+-->
+```
 
+- Arquivo css `styles.css` ou `estilos.ccs`
+- `estilos.ccs`
 
+```css
+/* estilos.css */
 
+.titulo{
+    color: red;
+    font-size:30px;
+}
+.texto{
+    color: gray;
+    font-size: 16px;
+}
 
+```
+
+**Três formas de aplicar estilos no HTML**
+
+- Estilos em linha (inline)
+  - Aplicados através de atributos ai=o nível de cada elemento
+
+- Utilização do elemento `<style>`
+  - Aplicados ao nível de cada página
+
+- Importação de folhas de estilos
+  - Importados para as páginas, ao nível dos projetos
 
 
 
