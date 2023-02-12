@@ -117,9 +117,8 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 
 
 ##
-
-
 ### 6 - Elementos para conteúdo de texto
+##
 
 **Elemento de HTML**
 
@@ -341,9 +340,8 @@ E esta é a segunda frase.</p>
 
 
 ##
-
-
 ### 9 - O que são atributos nos elementos HTML?
+##
 
 **O que é um atributo em HTML?**
 
@@ -380,8 +378,9 @@ E esta é a segunda frase.</p>
 
 
 ##
-
 ### 10 - ExercÍcio prático com atributos de HTML
+##
+
 
 - Exemplo
 -  Atributos
@@ -391,9 +390,8 @@ E esta é a segunda frase.</p>
 
 
 ##
-
-
 ### 11 - Melhorar a estrutura do HTML com elementos semânticos
+##
 
 **O que são elementos semânticos ?**
 
@@ -446,10 +444,10 @@ E esta é a segunda frase.</p>
 -->
 ``` 
 
+
 ##
-
-
 ### 12 - Construindo o primeiro website só com HTML
+##
 
 **Como vai ser o projeto?**
 
@@ -459,8 +457,14 @@ E esta é a segunda frase.</p>
 - Algumas dicas sobre VS Code
 
 
-
-
+- *Dicas*
+- `VSCode` e `Lorem ipsum`
+- Gerando textos aleatórios no vscode com `Lorem ipsum`
+- `lorem` + `tab`
+- Gerando textos com 5 palavras
+- `lorem5` + `tab`
+- Gerando 7 frases aleatórias
+- `lorem*7` + `tab`
 
 
 
