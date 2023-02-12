@@ -562,7 +562,7 @@ E esta é a segunda frase.</p>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Styles inline</title>
+    <title>Styles seletor</title>
     <style>
         .titulo{
             color: red;
@@ -598,7 +598,7 @@ E esta é a segunda frase.</p>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Styles inline</title>
+    <title>Styles externo</title>
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
@@ -648,17 +648,35 @@ E esta é a segunda frase.</p>
 
 
 
+##
+### 18 - Explorando os conceitos base do CSS3
+##
 
+**Regra de CSS (CSS rule)**
 
+- Css Rule
 
+```css
+/* Exemplo */
 
+p { font-size: 18px; }
+```
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-01.jpg" width="60%">
+</p>
 
+- O ponto e vírgula separa ou fecha cada par de propriedade / valor
 
+```css
+/* Exemplo */
 
+p { font-size: 18px; color: red; }
+```
 
-
-
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-01.jpg" width="60%">
+</p>
 
 
 
