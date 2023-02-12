@@ -116,6 +116,8 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 </p>
 
 
+##
+
 
 ### 6 - Elementos para conteúdo de texto
 
@@ -338,6 +340,7 @@ E esta é a segunda frase.</p>
 </p>
 
 
+##
 
 
 ### 9 - O que são atributos nos elementos HTML?
@@ -376,6 +379,8 @@ E esta é a segunda frase.</p>
 - `class` lista de classes de um elemnto HTML
 
 
+##
+
 ### 10 - ExercÍcio prático com atributos de HTML
 
 - Exemplo
@@ -385,7 +390,7 @@ E esta é a segunda frase.</p>
 - Atributo `alt` texto alternativo.
 
 
-
+##
 
 
 ### 11 - Melhorar a estrutura do HTML com elementos semânticos
@@ -441,7 +446,7 @@ E esta é a segunda frase.</p>
 -->
 ``` 
 
-
+##
 
 
 ### 12 - Construindo o primeiro website só com HTML
