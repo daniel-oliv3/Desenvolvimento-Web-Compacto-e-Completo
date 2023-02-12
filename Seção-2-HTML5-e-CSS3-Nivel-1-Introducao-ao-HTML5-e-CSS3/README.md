@@ -654,7 +654,7 @@ E esta é a segunda frase.</p>
 
 **Regra de CSS (CSS rule)**
 
-- Css Rule
+- CSS Rule
 
 ```css
 /* Exemplo */
@@ -697,14 +697,9 @@ p {
 
 
 
-
-
-
-
-
-
 ##
-
+### 19 - Os Seletores de CSS3 na Prática - Parte 1
+##
 
 
 
