@@ -385,6 +385,9 @@ E esta é a segunda frase.</p>
 - Atributo `alt` texto alternativo.
 
 
+
+
+
 ### Melhorar a estrutura do HTML com elementos semânticos
 
 **O que são elementos semânticos ?**
@@ -395,6 +398,71 @@ E esta é a segunda frase.</p>
 - Criar condições para usar o CSS da melhor forma
 
 - Exemplo
+
+```html
+<!-- Melhorar a estrutura do HTML com elementos semânticos -->
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Últimas notícias</title>
+</head>
+<body>
+
+    <nav>
+        <a href="#">Marte é o destino do futuro</a> |
+        <a href="#">Viagem de sonho</a> |
+        <a href="#">Descontos para famílias</a>
+    </nav>
+
+    <article>
+        <h3>Marte é o destino do futuro</h3>
+        <p>
+            Com a possibilidade de viajar para Marte, este planeta trasformou-se num destino de futuro.
+            <br>
+            Em breve, centenas de turistas irão ter a oportunidade de fazer a viagem da sua vida.
+        </p>
+    </article>
+
+    <footer>
+        <small><i>Agência de Notícias &copy; 2030</i></small>
+    </footer>
+
+</body>
+</html>
+
+
+<!--
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas
+    12/02/2022
+-->
+``` 
+
+
+
+
+### Construindo o primeiro website só com HTML
+
+**Como vai ser o projeto?**
+
+- Projeto com três páginas de HTML
+- Navegação entre as páginas com hiperligações (links)
+- Consolidação de conhecimentos
+- Algumas dicas sobre VS Code
+
+
+
+
+
+
+
+
+
+
+
 
 
 
