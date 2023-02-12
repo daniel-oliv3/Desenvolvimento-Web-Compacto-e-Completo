@@ -489,8 +489,9 @@ E esta é a segunda frase.</p>
 - Aplicação de estilos (cores, tamanhos, etc...)
 - Muitos outras funcionalidades
 
-
+##
 ### 16 - Introdução ao CSS3
+##
 
 **O que é CSS3?**
 
@@ -522,7 +523,9 @@ E esta é a segunda frase.</p>
 - Conceitos mais básicos
 
 
-
+##
+### 17 - Três formas de aplicar estilos no HTML
+##
 
 
 
