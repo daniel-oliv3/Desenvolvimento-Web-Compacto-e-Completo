@@ -379,13 +379,22 @@ E esta é a segunda frase.</p>
 ### ExercÍcio prático com atributos de HTML
 
 - Exemplo
--  ``
+-  Atributos
 
-- Atributo `target="_blank"`com o valor_blank abre um link em outra página
-- Atributo `alt` texto alternativo
+- Atributo `target=""` com o valor `_blank` abre um link em outra página
+- Atributo `alt` texto alternativo.
 
 
+### Melhorar a estrutura do HTML com elementos semânticos
 
+**O que são elementos semânticos ?**
+
+- São elementos de HTML para agrupar outros elementos
+- Não têm conteúdo
+- Permitem melhorar a organização da página HTML
+- Criar condições para usar o CSS da melhor forma
+
+- Exemplo
 
 
 
