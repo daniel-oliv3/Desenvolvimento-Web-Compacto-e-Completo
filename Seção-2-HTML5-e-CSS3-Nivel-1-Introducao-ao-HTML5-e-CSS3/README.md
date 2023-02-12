@@ -467,18 +467,13 @@ E esta é a segunda frase.</p>
 - `lorem*7` + `tab`
 
 
+**Conseguimos criar o primeiro website!**
 
-
-
-
-
-
-
-
-
-
-
-
+- No entanto...
+  - Aspecto visial pobre
+  - Fundo branco com elementos preto?
+  - Todos os elementos alinhados a esquerda!
+  - Colocar duas imagens lado a lado?!
 
 
 
@@ -487,11 +482,71 @@ E esta é a segunda frase.</p>
 ##
 
 
+
 **C**ascading **S**tyle **S**heets
 
 - Organização dos elementos de HTML
 - Aplicação de estilos (cores, tamanhos, etc...)
 - Muitos outras funcionalidades
+
+
+### 16 - Introdução ao CSS3
+
+**O que é CSS3?**
+
+- *Cascading Style Sheets*
+- Não é linguagem de programação tradicional
+- É uma linguagem de definição de estilos
+- `seletores` `declarações` `propriedades` `valores`
+
+**Objetivos do CSS**
+
+- Organização de layouts de HTML
+- Definição de estilos dos elementos
+- Visualização das páginas em diferentes dispositivos
+- `Responsividade`
+
+
+- HTML não consegue resolver tudo
+- Um código HTML > Múltiplos dispositivos
+
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/dispositivos.jpg" width="60%">
+</p>
+
+- O CSS pode ser aprendido de forma progressiva
+      - Conceitos mais avançados
+    - Mais módulos de css
+  - Mais propriedades
+- Conceitos mais básicos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ##
