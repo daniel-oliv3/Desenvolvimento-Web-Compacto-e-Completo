@@ -517,11 +517,13 @@ E esta é a segunda frase.</p>
 </p>
 
 - O CSS pode ser aprendido de forma progressiva
-      - Conceitos mais avançados
-    - Mais módulos de css
-  - Mais propriedades
-- Conceitos mais básicos
+```txt
 
+      -> Conceitos mais avançados      ^
+    -> Mais módulos de css             |
+  -> Mais propriedades                 |
+-> Conceitos mais básicos              |
+```
 
 ##
 ### 17 - Três formas de aplicar estilos no HTML
