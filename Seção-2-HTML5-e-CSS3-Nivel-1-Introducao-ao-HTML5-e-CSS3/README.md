@@ -675,8 +675,31 @@ p { font-size: 18px; color: red; }
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-01.jpg" width="60%">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-02.jpg" width="60%">
 </p>
+
+
+- A forma mais comum de vermos uma regra de CSS
+
+```css
+/* Exemplo */
+
+p { 
+    font-size: 18px; 
+    color: red; 
+  }
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-03.jpg" width="60%">
+</p>
+
+
+
+
+
+
+
 
 
 
