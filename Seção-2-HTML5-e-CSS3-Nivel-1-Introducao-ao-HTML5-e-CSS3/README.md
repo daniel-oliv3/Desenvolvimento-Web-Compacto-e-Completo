@@ -945,11 +945,11 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 /* Exemplo 2*/
 
 .estilo {
-  margin: 50px 40px 30px 20px; /*50px cima, 40px para baixo, 30px direita, 20px para esquerda*/
+  margin: 50px 40px 30px 20px; /*50px cima, 40px direita, 30px para baixo, 20px para esquerda*/
 }
 ```
 
-- Margin:  `Cima` `Baixo` `Direita` `Esquerda`;
+- Margin:  `Cima` `Direita` `Baixo` `Esquerda`;
 
 <p align="center">
   <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-inspect-01.jpg" width="60%">

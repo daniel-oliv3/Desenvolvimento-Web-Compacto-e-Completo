@@ -14,9 +14,14 @@
 
 
 .estilo {
-    margin: 30px 10px;
-    //margin: 50px 40px 30px 20px;
-    background-color: red;
+    /*margin: 30px 10px;*/
+    /*margin: 50px 40px 30px 20px;*/
+    margin: 50px auto; /*centralizar as laterias direita e esquerda automaticamente iguas*/
+    background-color: rgb(78, 75, 75);
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid red;
 }
 
 /*.estilo {
