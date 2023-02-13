@@ -754,6 +754,82 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 
+##
+### Definir cores no CSS Abordagem teórica
+##
+
+**Sistema de cores disponiveis no CSS**
+
+- Palavras-chaves de cores
+  - São cerca de 140 cores com nomes em letra minúscula
+
+- RGB e RGBA
+  - Rd, Green e Blue (Alpha)
+
+- HSL e HSLA
+  - Hue, Saturation e lightness (Alpha)
+
+- Código Hexadecimal
+  - 6 ou 8 caracteres (no caso Alpha) que permitem definir as cores
+
+- Outros ...
+
+**Palavras-Chaves de cores**
+- São cerca de 140 cores, com nomes letra minúscula, que indentificam cada cor
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-nomes.jpg" width="80%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
