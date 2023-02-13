@@ -1060,4 +1060,75 @@ h1::first-letter {
 ```
 
 
+##
+### 29 - Transformar um link num botão com CSS
+##
+
+- Exemplo 
+  - html_web-26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
