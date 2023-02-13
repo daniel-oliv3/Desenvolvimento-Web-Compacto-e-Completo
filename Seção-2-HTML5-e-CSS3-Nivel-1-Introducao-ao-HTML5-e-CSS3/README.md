@@ -896,3 +896,48 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 </p>
 
 
+##
+### 26 - Box Model nas ferramentas do programador
+##
+
+- Exemplo 
+  - html_web-23
+
+
+- Ferramentas do programador
+- `Google Chrome`
+  - `f12`
+  - Ou
+  - Clicar na página com botão o direto do mouse, selecionar (inspecionar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

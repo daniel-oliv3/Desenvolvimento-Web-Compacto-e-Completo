@@ -1,0 +1,13 @@
+/* Box Model nas ferramentas do programador */
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    background-color: rgb(117, 117, 117);
+    padding: 20px;
+    margin: 50px;
+    margin-bottom: 100px;
+    border: 10px solid rgb(56, 56, 56);
+}
