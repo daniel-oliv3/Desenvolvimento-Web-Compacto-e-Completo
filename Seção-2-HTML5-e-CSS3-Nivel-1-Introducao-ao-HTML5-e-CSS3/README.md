@@ -816,6 +816,25 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 - `Tonalidade (0* a 359*)` `Saturação (0% a 100%)` `Luminosidade (0% a 100%)` 
 
 
+**HUE** (Tonalidade)
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/circulo-cromatico.jpg" width="60%">
+</p>
+
+
+
+**HSLA**
+- **H**ue, **S**aturation **L**ightness **A**lpha
+- Função que permite usar 4 parâmetros:
+
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hsla.jpg" width="60%">
+</p>
+
+
+- `Tonalidade (0* a 359*)` `Saturação (0% a 100%)` `Luminosidade (0% a 100%)` `Transparência (0 a 1)`
 
 
 
@@ -823,23 +842,24 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 
+**Código Hexadecimal**
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hexadecimal-01.jpg" width="60%">
+</p>
 
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hexadecimal-02.jpg" width="60%">
+</p>
 
+- rgb(161, 197, 180)
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hexadecimal-03.jpg" width="60%">
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
+- hsl(152, 24%, 70%)
 
 
 
