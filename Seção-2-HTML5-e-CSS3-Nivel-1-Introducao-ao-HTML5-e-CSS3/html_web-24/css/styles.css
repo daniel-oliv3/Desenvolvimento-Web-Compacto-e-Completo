@@ -1,0 +1,28 @@
+
+/* todos os elementos  */
+* {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin: 0;
+    padding: 0;
+
+    box-shadow: 0px 0px 1px 1px inset rgb(82, 82, 82);
+}
+
+
+
+.estilo {
+    margin: 30px 10px;
+    //margin: 50px 40px 30px 20px;
+    background-color: red;
+}
+
+/*.estilo {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: red;
+}*/

@@ -906,22 +906,54 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 - Ferramentas do programador
 - `Google Chrome`
-  - `f12`
+  - `F12`
   - Ou
   - Clicar na página com botão o direto do mouse, selecionar (inspecionar)
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-inspect.jpg" width="60%">
+</p>
 
 
+##
+### 27 - Explorando melhor margins e paddings na página
+##
+
+- Exemplo 
+  - html_web-24
 
 
+- Exemplo 1
+```css
+/* Exemplo 1*/
+
+.estilo {
+  margin: 30px 10px; /*30px cima e para baixo, 10px esquerda e direita*/
+}
+```
+
+- Margin:  `Cima` `Baixo` `Direita` `Esquerda`;
 
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-inspect-02.jpg" width="60%">
+</p>
 
 
+- Exemplo 2
+```css
+/* Exemplo 2*/
 
+.estilo {
+  margin: 50px 40px 30px 20px; /*50px cima, 40px para baixo, 30px direita, 20px para esquerda*/
+}
+```
 
+- Margin:  `Cima` `Baixo` `Direita` `Esquerda`;
 
-
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-inspect-01.jpg" width="60%">
+</p>
 
 
 
