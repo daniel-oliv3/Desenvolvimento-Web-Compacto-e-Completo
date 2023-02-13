@@ -470,7 +470,7 @@ E esta é a segunda frase.</p>
 **Conseguimos criar o primeiro website!**
 
 - No entanto...
-  - Aspecto visial pobre
+  - Aspecto visual pobre
   - Fundo branco com elementos preto?
   - Todos os elementos alinhados a esquerda!
   - Colocar duas imagens lado a lado?!
@@ -713,7 +713,7 @@ p {
 
 
 ##
-### Introdução as declarações de CSS
+### 21 - Introdução as declarações de CSS
 ##
 
 **Declarações de CSS**
@@ -738,6 +738,24 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 - O Visual Studio Code dispõe de mecanismos de de ajuda
 - Permite acelerar processos e percerber que opçõess existem
+
+
+
+##
+### 22 - Duas extensões para teu Visual Studio Code
+##
+
+
+**Extensões**
+
+- *VSCode*
+- `CSS Formatter` Permite a formatação do codigo css
+- `Live Server` Atualiza o browser em tempo real
+
+
+
+
+
 
 
 
