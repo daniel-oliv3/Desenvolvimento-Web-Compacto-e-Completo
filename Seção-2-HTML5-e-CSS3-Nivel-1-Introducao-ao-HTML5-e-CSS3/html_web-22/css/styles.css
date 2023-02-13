@@ -1,0 +1,16 @@
+/* CSS Box Model */
+
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    background-color: cadetblue;
+    padding: 20px; /*espaçamento interior*/
+    /*padding-top: 20px;*/
+    margin: 50px;
+    /*margin-bottom: 50px;*/
+
+    border: 10px solid red;
+}

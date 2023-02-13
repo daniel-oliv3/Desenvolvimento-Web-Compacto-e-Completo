@@ -871,10 +871,28 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
   - html_web-21
 
 
+##
+### 25 - CSS Box Model
+##
 
 
+- Exemplo 
+  - html_web-22
 
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model.jpg" width="60%">
+</p>
 
+- CSS Box Model
+```html
+<!-- Exemplo -->
+
+<h1>Título do artigo</h1>
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-example.jpg" width="60%">
+</p>
 
 
