@@ -1,0 +1,8 @@
+h1 {
+    background-color: orange;
+    /* background-color: rgb(200, 200, 200); */
+    /* background-color: rgba(255, 0, 0, .2); */
+    /* background-color: hsl(120, 0%, 80%); */
+    /* background-color: hsla(120, 0%, 80%, .5); */
+    /* background-color: #ff000022; */
+}

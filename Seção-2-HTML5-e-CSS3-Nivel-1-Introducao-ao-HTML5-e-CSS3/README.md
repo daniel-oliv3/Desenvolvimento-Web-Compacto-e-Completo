@@ -764,7 +764,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
   - São cerca de 140 cores com nomes em letra minúscula
 
 - RGB e RGBA
-  - Rd, Green e Blue (Alpha)
+  - Red, Green e Blue (Alpha)
 
 - HSL e HSLA
   - Hue, Saturation e lightness (Alpha)
@@ -862,8 +862,13 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 - hsl(152, 24%, 70%)
 
 
+##
+### 24 - Definir cores no CSS Abordagem prática
+##
 
 
+- Exemplo 
+  - html_web-21
 
 
 
