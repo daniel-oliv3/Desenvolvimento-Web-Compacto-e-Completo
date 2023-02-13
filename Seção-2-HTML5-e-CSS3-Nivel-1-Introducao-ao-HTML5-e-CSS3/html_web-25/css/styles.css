@@ -1,0 +1,51 @@
+/* pseudo-classe.html */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.layout {
+    margin: 50px;
+    text-align: center;
+    background-color: rgb(30,30,30);
+    padding: 50px;
+}
+
+/* ------------------------------------ */
+
+.link {
+    color: rgb(10, 193, 218); /*alterando a cor do link*/
+    text-decoration: none; /*tirando o sublinhado*/
+}
+
+/*pseudo classe visited(caso elemento ja tenha sido clicado, altera a cor)*/
+.link:visited {
+    color: rgb(255, 0, 0);
+}
+
+/*pseudo classe hover(por cima)*/
+.link:hover {
+    color: rgb(229, 255, 0);
+}
+
+
+/*pseudo classe active(clique)*/
+.link:active {
+    color: rgb(0, 102, 255);
+}
+
+
+
+
+
+
+
+
+

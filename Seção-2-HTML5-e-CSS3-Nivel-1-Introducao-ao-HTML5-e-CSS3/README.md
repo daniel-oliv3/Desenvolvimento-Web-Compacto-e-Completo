@@ -932,7 +932,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 }
 ```
 
-- Margin:  `Cima` `Baixo` `Direita` `Esquerda`;
+- Margin:  `Cima` e `Baixo`, `Direita` e a `Esquerda`;
 
 
 <p align="center">
@@ -949,27 +949,115 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 }
 ```
 
-- Margin:  `Cima` `Direita` `Baixo` `Esquerda`;
+- Margin:  `Cima`, `Direita`, `Baixo`, `Esquerda`;
 
 <p align="center">
   <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-inspect-01.jpg" width="60%">
 </p>
 
 
+##
+### 28 - Pseudo-classes e Pseudo-elementos
+##
+
+- Exemplo 
+  - html_web-25
+
+**O que é uma Pseudo-classe de CSS?**
+
+- Palavra-chave adicionada ao seletor que especifica um estado
+- exemplo
+
+```html
+<!-- pseudo-classe.html -->
+
+<div class="layout">
+        <h1>Deseja visitar o site da Google? Clique no link seguinte:
+            <a href="https://www.google.com" class="link" target="_blank">Link para a Google</a>
+        </h1>
+    </div>
+```
+
+**Hover**
+
+- a:hover (passar o cursor por cima do elemento)
+```css
+/* styles.css */
+
+.link {
+    color: rgb(10, 193, 218); /*alterando a cor do link*/
+    text-decoration: none; /*tirando o sublinhado*/
+}
 
 
 
+/*pseudo classe hover(por cima)*/
+.link:hover {
+    color: rgb(229, 255, 0);
+}
+```
+
+**Visited**
+
+- visited(elemento clicado, alteração...)
+
+```css
+/* styles.css */
+
+/*pseudo classe visited(caso elemento ja tenha sido clicado, altera a cor)*/
+.link:visited {
+    color: rgb(255, 0, 0);
+}
+
+```
 
 
+**Active**
+
+- active: (clique no elemento (estado))
+```css
+/* styles.css */
+
+/*pseudo classe active(clique)*/
+.link:active {
+    color: rgb(0, 102, 255);
+}
+```
 
 
+**O que é um Pseudo-elemento de CSS?**
+
+- Palavra-chave adicionada ao seletor que permite dar estilo a uma parte específica de um elemento
+
+**First-Line**
+
+- first-line: define a cor da primeira linha
+- h1::first-line
+
+```css
+/* estilos.css */
 
 
+/*afeta apenas a primeira linha*/
+h1::first-line {
+    color: red;
+}
+```
 
+**First-Letter**
 
+- first-letter: define a cor e o tamanho da primeira letra
+- h1::first-letter
 
+```css
+/* estilos.css */
 
-
+/*afeta apenas a primeira letra*/
+h1::first-letter {
+    color: yellow;
+    font-size: 60px;
+}
+```
 
 
 
