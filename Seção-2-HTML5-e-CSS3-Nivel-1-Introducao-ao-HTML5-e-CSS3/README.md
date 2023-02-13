@@ -755,7 +755,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 ##
-### Definir cores no CSS Abordagem teórica
+### 23 - Definir cores no CSS Abordagem teórica
 ##
 
 **Sistema de cores disponiveis no CSS**
@@ -782,20 +782,38 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 </p>
 
 
+**RGB**
+- **R**ed, **G**reen **B**lue
+- Função que permite usar 3 parâmetros:
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-rgb.jpg" width="100%">
+</p>
+
+- Valores variam entre 0 e 255
 
 
+**RGB**
+- **R**ed, **G**reen **B**lue **A**lpha
+- Permite o uso de um quarto parâmetro: `Transparência` / `Opacidade`
 
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-rgba.jpg" width="60%">
+</p>
+
+- Valores variam entre 0 e 1, com uso de números decimais
 
 
+**HSL**
+- **H**ue, **S**aturation **L**ightness
+- Função que permite usar 3 parâmetros:
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hsl.jpg" width="60%">
+</p>
 
-
-
-
-
-
-
+- `Tonalidade (0* a 359*)` `Saturação (0% a 100%)` `Luminosidade (0% a 100%)` 
 
 
 
