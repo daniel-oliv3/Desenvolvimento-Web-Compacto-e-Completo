@@ -712,10 +712,32 @@ p {
   - html_web-17
 
 
+##
+### Introdução as declarações de CSS
+##
+
+**Declarações de CSS**
+
+- `Propriedades` `Valor` 
+- As propriedades têm nomes facilitadores
+
+```txt
+background (fundo)  Define a cor de fundo do elemento
+```
+
+```txt
+font-size (tamanho da letra)  Define o tamanho da letra do elemento
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-04.jpg" width="60%">
+</p>
 
 
+**Muito interessante:**
 
-
+- O Visual Studio Code dispõe de mecanismos de de ajuda
+- Permite acelerar processos e percerber que opçõess existem
 
 
 
