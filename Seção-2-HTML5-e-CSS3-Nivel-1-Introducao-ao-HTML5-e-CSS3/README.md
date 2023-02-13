@@ -778,7 +778,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 - São cerca de 140 cores, com nomes letra minúscula, que indentificam cada cor
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-nomes.jpg" width="80%">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-nomes.jpg" width="100%">
 </p>
 
 
