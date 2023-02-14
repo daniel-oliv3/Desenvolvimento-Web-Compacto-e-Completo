@@ -1095,6 +1095,10 @@ h1::first-letter {
 </p>
 
 
+##
+### 32 - Elementos semânticos lado a lado com float
+##
+
 
 
 
