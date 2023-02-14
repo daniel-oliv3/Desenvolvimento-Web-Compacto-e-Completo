@@ -1068,9 +1068,14 @@ h1::first-letter {
   - html_web-26
 
 
+##
+### 30 - Hierarquia de Estilos & a Regra !important
+##
 
+- Exemplo 
+  - html_web-27
 
-
+- `!important` se sobrepoem sobre outras regras
 
 
 
