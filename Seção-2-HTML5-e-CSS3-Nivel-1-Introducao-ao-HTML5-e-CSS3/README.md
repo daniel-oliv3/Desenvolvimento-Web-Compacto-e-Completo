@@ -1078,11 +1078,21 @@ h1::first-letter {
 - `!important` se sobrepoem sobre outras regras
 
 
+##
+### 31 - Como adicionar um Favicon a minha página
+##
 
+- Exemplo 
+  - html_web-28
 
+**O que é um Favicon?**
 
+- Do inglês Favorite icon
+- É uma imagem identificadora do site
 
-
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/favicon-aula.jpg" width="60%">
+</p>
 
 
 
