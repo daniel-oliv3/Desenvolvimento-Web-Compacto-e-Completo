@@ -1,0 +1,135 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+
+/* ------------------------------ */
+/* Geral */
+.text-center {
+    text-align: center;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
+}
+
+/* -------------- Cabeçalho -------------- */
+.container-cabecalho {
+    text-align: center;
+    padding: 20px;
+    background-color: #04233f;
+}
+
+.container-cabecalho h3 {
+    font-weight: 600;
+    font-size: 2em;
+    color: #1190ff;
+}
+
+
+/* -------------- Navegação -------------- */
+.container-navegacao {
+    text-align: center;
+    padding: 20px;
+    background-color: #06345d;
+}
+
+.container-navegacao a {
+    font-size: 1.5em;
+    margin: 0px 50px;
+    text-decoration: none;
+    color: #7cc2ff;
+}
+
+.container-navegacao a:hover {
+    color: #ffffff;
+}
+
+
+
+/* -------------- Quem-Somos -------------- */
+.container-quem-somos {
+    background-color: #05192a;
+    overflow: auto;
+}
+
+.container-quem-somos .servico {
+    float: center;
+    margin: 60px auto;
+    background-color: #061f35;
+    width: 50%;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container-quem-somos .servico .icone {
+    margin-bottom: 10px;
+}
+
+.container-quem-somos .servico-texto {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #81c4ff;
+}
+
+.container-quem-somos .servico-texto-realce {
+    color: white;
+    font-weight: bold;
+}
+
+
+/* -------------- Ver Serviços ou Contatos -------------- */
+.container-servicos-contatos {
+    background-color: #082946;
+    padding: 80px;
+    text-align: center;
+}
+
+.container-servicos-contatos .botoes-servicos-contatos {
+    padding: 60px;
+    text-align: center;
+}
+
+
+.botoes-servicos-contatos a {
+    display: block;
+    max-width: 200px;
+    text-decoration: none;
+    font-size: 1.2em;
+    background-color: #008eb9;
+    color: white;
+    padding: 20px 60px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+
+.botoes-servicos-contatos a:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+/* -------------- Rodapé -------------- */
+footer {
+    text-align: center;
+    padding: 80px;
+    background-color: #02111f;
+    color: gray;
+}
+
+
+
+
+
