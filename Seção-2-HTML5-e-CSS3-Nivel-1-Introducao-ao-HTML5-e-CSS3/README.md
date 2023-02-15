@@ -1176,7 +1176,12 @@ Viewport - O tamanho da janela do browser
   - html_web-31
 
 
+##
+### 35 - Exercício Final do Módulo - Parte 1 de 4
+##
 
+- Exemplo 
+  - html_web-33
 
 
 
