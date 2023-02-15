@@ -1133,7 +1133,7 @@ h1::first-letter {
 </p>
 
 
-**Tipos de unidaedes em CSS**
+**Tipos de unidades em CSS**
 
 - *Unidades Absolutas*
 - Dimensão fixa, medida extra
@@ -1168,7 +1168,12 @@ Viewport - O tamanho da janela do browser
 
 
 
+##
+### 34 - As unidades de CSS na prática
+##
 
+- Exemplo 
+  - html_web-31
 
 
 
