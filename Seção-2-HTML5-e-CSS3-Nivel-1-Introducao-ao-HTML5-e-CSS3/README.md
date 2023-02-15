@@ -1099,31 +1099,72 @@ h1::first-letter {
 ### 32 - Elementos semânticos lado a lado com float
 ##
 
+- Exemplo 
+  - html_web-29
 
 
+##
+### 33 - Introdução as unidades em CSS
+##
+
+- Exemplo 
+  - html_web-30
 
 
+```html
+<!--index.html-->
+
+<div class="dimensao"></div>
+```
 
 
+```css
+/*style.css*/
+
+.dimencao {
+  width: 200px;
+  height: 80px;
+  background-color: blue;
+}
+```
+
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/height-width-esquema.jpg" width="60%">
+</p>
 
 
+**Tipos de unidaedes em CSS**
+
+- *Unidades Absolutas*
+- Dimensão fixa, medida extra
+  - `cm` Centímetros
+  - `mm` Milímetros
+  - `in` Polegadas (inches)
+  - `px` Píxeis
+  - `pt` Pontos
+  - `pc` Picas
 
 
+<p align="center">
+  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/pixeis-tamanho-medidas.jpg" width="60%">
+</p>
 
 
+- *Unidades Relativas*
+- Unidades Relativas
+  - `em` Relativo ao tamanho de letra do elemento (3em = 3 vezes o tamanho)
+  - `ex` Relativo a x-height da letra atual (pouco usado)
+  - `ch` Relativo a largura do zero
+  - `rem` Relativo ao tamanho de letra do elemento raíz
+  - `vw` Relativo a 1% da largura do viewport*
+  - `vh` Relativo a 1% da altura do viewport*
+  - `vmin` Relativo a 1% da dimensão mínima do viewport*
+  - `vmax` Relativo a 1% da dimensão máxima do viewport*
+  - `%` RPorcentagem relativa ao elemento pai
 
-
-
-
-
-
-
-
-
-
-
-
-
+```
+Viewport - O tamanho da janela do browser
+```
 
 
 
