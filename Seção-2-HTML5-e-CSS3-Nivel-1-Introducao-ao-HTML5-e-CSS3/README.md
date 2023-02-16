@@ -1207,9 +1207,21 @@ Viewport - O tamanho da janela do browser
   - html_web-35
 
 
+##
+### 39 - Exercício Final do Módulo - Parte 4 de 4
+##
+
+- Exemplo 
+  - html_web-36
 
 
+- Formatação do texto no VSCode
+  - `Shift` + `Alt` + `F`
 
+
+**Projeto Final** 
+- Link 
+  - Site: https://inteligencia-artificial-ai.vercel.app/
 
 
 
