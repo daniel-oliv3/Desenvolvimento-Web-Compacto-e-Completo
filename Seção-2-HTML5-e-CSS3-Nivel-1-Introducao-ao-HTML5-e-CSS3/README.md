@@ -1175,9 +1175,16 @@ Viewport - O tamanho da janela do browser
 - Exemplo 
   - html_web-31
 
+##
+### 35 - As unidades de CSS na prática parte 2
+##
+
+- Exemplo 
+  - html_web-32
+
 
 ##
-### 35 - Exercício Final do Módulo - Parte 1 de 4
+### 36 - Exercício Final do Módulo - Parte 1 de 4
 ##
 
 - Exemplo 
@@ -1185,14 +1192,19 @@ Viewport - O tamanho da janela do browser
 
 
 ##
-### 36 - Exercício Final do Módulo - Parte 2 de 4
+### 37 - Exercício Final do Módulo - Parte 2 de 4
 ##
 
 - Exemplo 
   - html_web-34
 
 
+##
+### 38 - Exercício Final do Módulo - Parte 3 de 4
+##
 
+- Exemplo 
+  - html_web-35
 
 
 
