@@ -174,3 +174,12 @@
 <p align="center">
   <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-06.jpg" width="80%">
 </p>
+
+
+
+##
+### 53 - Tabelas - Colgroup & Col
+##
+
+- Exemplo:
+    - html_web-12
