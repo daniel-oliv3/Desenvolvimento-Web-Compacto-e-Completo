@@ -74,3 +74,10 @@
 
 - Exemplo:
     - html_web-05
+
+##
+### 47 - Hiperligações - Navegação com Bookmarks
+##
+
+- Exemplo:
+    - html_web-06
