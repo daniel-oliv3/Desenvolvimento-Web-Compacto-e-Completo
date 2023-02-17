@@ -114,3 +114,11 @@
 
 - Exemplo:
     - html_web-08
+
+
+##
+### 50 - Tabelas - Aplicar CSS as Tabelas
+##
+
+- Exemplo:
+    - html_web-09
