@@ -240,7 +240,7 @@ Todos os estilos devem ser aplicados via CSS.
 <section>
     <h1>Título do artigo</h1>
     <p>
-        Quem manda na minha terra sou euzis!Nullam volutpat risus nec leo       commodo, ut interdum diam laoreet. Sed non consequat odio.Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Não sou faixa preta cumpadi, sou preto inteiris, inteiris.       
+        Quem manda na minha terra sou euzis!Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Não sou faixa preta cumpadi, sou preto inteiris, inteiris.       
     </p>
 </section>
 ```
@@ -381,3 +381,31 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-16
+
+
+##
+### 58 - Formulários - Introdução
+##
+
+**Como funciona um formulário de HTML?**
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/fotmulario-html.jpg" width="80%">
+</p>
+
+- Como funciona um formulário de HTML?
+- Conjunto de elementos para preenchimento
+- Submissão do formulário para servidor web
+- Tratamento da informação
+- Resposta do servidor face aos dados enviados
+
+**IMPORTANT**
+
+- Endereço de internet para tratamento dos dados
+    - https://www.sys4soft.com/udemy/forms/index.php
+
+
+- Sem projeto
+
+- Exemplo:
+    - html_web-17
