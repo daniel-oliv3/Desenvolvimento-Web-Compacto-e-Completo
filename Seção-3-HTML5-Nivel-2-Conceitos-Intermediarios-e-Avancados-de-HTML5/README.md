@@ -144,3 +144,9 @@
 <p align="center">
   <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-01.jpg" width="80%">
 </p>
+
+- Exercício 02
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-02.jpg" width="80%">
+</p>
