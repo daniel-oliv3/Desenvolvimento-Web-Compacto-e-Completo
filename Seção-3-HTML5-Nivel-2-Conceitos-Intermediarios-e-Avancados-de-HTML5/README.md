@@ -122,3 +122,18 @@
 
 - Exemplo:
     - html_web-09
+
+
+##
+### 51 - Tabelas - Caption, Colspan & Rowspan
+##
+
+- Exemplo:
+    - html_web-10
+
+##
+### 52 - Tabelas - Exercícios Práticos com Colspan & Rowspan
+##
+
+- Exemplo:
+    - html_web-11
