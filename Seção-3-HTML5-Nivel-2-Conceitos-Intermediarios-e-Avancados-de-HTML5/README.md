@@ -162,3 +162,15 @@
 <p align="center">
   <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-04.jpg" width="80%">
 </p>
+
+- Exercício 05
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-05.jpg" width="80%">
+</p>
+
+- Exercício 06
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-06.jpg" width="80%">
+</p>
