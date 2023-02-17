@@ -327,3 +327,34 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-14
+
+
+##
+### 56 - Comentários em HTML
+##
+
+- HTML
+```html
+
+<!-- Comentários em uma única linha em HTML -->
+
+
+<!-- 
+    Comentários de multiplas linhas em HTML 
+-->
+```
+
+- CSS
+```css
+
+// Comentário de uma única linha
+/* Comentários de multiplas linhas em CSS */
+```
+
+- Os comentários têm 2 finalidades fundamentais
+- 1* Documentar o código, para tornar sua leitura mais fácil 
+- 2* Possibilidade de desativar certas funcionalidades do código sem eliminá-las
+
+- Exemplo:
+    - html_web-15
+
