@@ -211,3 +211,119 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-12
+
+
+##
+### 55 - Dicas sobre como escrever o código HTML
+##
+
+
+- O HTML é muito flexível
+- Usa sempre o `doctype`
+
+```html
+
+<!DOCTYPE html>
+```
+
+- Utiliza sempre letras minúsculas
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tags-minusculas.jpg" width="80%">
+</p>
+
+
+- Fechar sempre os elementos HTML
+
+```html
+
+<section>
+    <h1>Título do artigo</h1>
+    <p>
+        Quem manda na minha terra sou euzis!Nullam volutpat risus nec leo       commodo, ut interdum diam laoreet. Sed non consequat odio.Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Não sou faixa preta cumpadi, sou preto inteiris, inteiris.       
+    </p>
+</section>
+```
+
+- Valores dos **Atributos**
+
+```html
+
+<a href="pagina.html">Link</a>
+<p class="teste">
+    Lorem, Ipsum dolor.
+</p>
+<img src="mar.png" alt="Imagem do mar" width="100px" height="85px">
+```
+
+- Evita longas linhas de códigos
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/dicas-01.jpg" width="80%">
+</p>
+
+
+- Definir sempre o `<title>`
+
+```html
+
+<head>
+    <title>Página Inicial</title>
+</head>
+```
+
+- Fechar corretamente os **Elementos**
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/dicas-02.jpg" width="80%">
+</p>
+
+
+- Definir sempre o atributo lang no elemento `<html>`
+
+```html
+
+<html lang="pt-br">
+```
+- `pt-br` português do brasil
+
+
+- Elementos **meta** no head da página HTML
+
+```html
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Página Inicial</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="img/favicon.ico"/>
+</head>
+<body>
+	
+	<script src="js/script.js"></script>
+</body>
+</html>
+
+<!--
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas
+    17/02/2023
+-->
+```
+
+- meta charset="UTF-8" (Caracteres especias ~ ç ´ ^ )
+
+
+
+
+
+
+- No project
+
+- Exemplo:
+    - html_web-14
