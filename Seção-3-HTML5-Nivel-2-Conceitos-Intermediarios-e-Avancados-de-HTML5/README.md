@@ -66,3 +66,11 @@
 
 - Exemplo:
     - html_web-04
+
+
+##
+### 46 - Hiperligações - Download, Class & Id
+##
+
+- Exemplo:
+    - html_web-05
