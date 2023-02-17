@@ -34,3 +34,25 @@
     - html_web-02
 
 
+##
+### 44 - Hiperligações - Exemplos mais comuns
+##
+
+**Hiperligações**
+
+- Presença constante nas páginas web
+- Criados com elementos HTML `<a>`
+- Navegar entre páginas
+- Navegar no conteúdo da mesma página
+
+
+**Hiperligações**
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/hiperligacao-links.jpg" width="80%">
+</p>
+
+
+
+- Exemplo:
+    - html_web-03
