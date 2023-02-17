@@ -22,4 +22,15 @@
 - Exemplo:
     - html_web-01
 
+##
+### 43 - Porquê o nome index.html?
+##
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/index-porque.jpg" width="80%">
+</p>
+
+- Exemplo:
+    - html_web-02
+
 
