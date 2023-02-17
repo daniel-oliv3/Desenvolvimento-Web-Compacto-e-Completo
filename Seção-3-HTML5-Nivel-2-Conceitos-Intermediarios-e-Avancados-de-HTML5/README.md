@@ -376,5 +376,8 @@ Todos os estilos devem ser aplicados via CSS.
     - Site: https://ascii.cl/htmlcodes.htm
 
 
+- Corretor Ortográfico
+    - Site: https://languagetool.org/pt-BR
+
 - Exemplo:
     - html_web-16
