@@ -81,3 +81,11 @@
 
 - Exemplo:
     - html_web-06
+
+
+##
+### 48 - Hiperligações - Email e Chamada Telefônica
+##
+
+- Exemplo:
+    - html_web-07
