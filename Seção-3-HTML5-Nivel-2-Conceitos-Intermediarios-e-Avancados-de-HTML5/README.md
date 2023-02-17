@@ -89,3 +89,28 @@
 
 - Exemplo:
     - html_web-07
+
+
+##
+### 49 - Tabelas - Introdução as tabelas em HTML
+##
+
+**Tabelas**
+
+- Tabela = Conjunto de células
+
+<p align="center">
+  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-example.jpg" width="80%">
+</p>
+
+- Vários elementos e respetivos atributos para construção de tabelas
+- Estruturas simples ou mais complexas
+- Podem existir várias tabelas na mesma página
+
+**IMPORTANTE**:
+
+- As tabelas são apenas estruturas visuais sem funcionalidade associada
+
+
+- Exemplo:
+    - html_web-08
