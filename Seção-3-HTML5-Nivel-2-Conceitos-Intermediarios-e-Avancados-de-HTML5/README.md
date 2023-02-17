@@ -351,10 +351,30 @@ Todos os estilos devem ser aplicados via CSS.
 /* Comentários de multiplas linhas em CSS */
 ```
 
-- Os comentários têm 2 finalidades fundamentais
+- Os comentários têm duas finalidades fundamentais
 - 1* Documentar o código, para tornar sua leitura mais fácil 
 - 2* Possibilidade de desativar certas funcionalidades do código sem eliminá-las
 
 - Exemplo:
     - html_web-15
 
+
+
+##
+### 57 - HTML Entities & Symbols
+##
+
+- HTML Symbols
+    - Site: https://www.w3schools.com/html/html_symbols.asp
+    - Site: https://www.toptal.com/designers/htmlarrows/symbols/
+    - Site: https://www.dofactory.com/html/charset/symbols
+    - Site: https://www.htmlsymbols.xyz/
+    - Site: https://www.rapidtables.com/web/html/html-codes.html
+    - Site: http://cactus.io/resources/toolbox/html-symbol-codes
+    - Site: http://arquivo.devmedia.com.br/artigos/devmedia/html-entities.html
+    - Site: https://www.thoughtco.com/html-code-for-common-symbols-and-signs-2654021
+    - Site: https://ascii.cl/htmlcodes.htm
+
+
+- Exemplo:
+    - html_web-16
