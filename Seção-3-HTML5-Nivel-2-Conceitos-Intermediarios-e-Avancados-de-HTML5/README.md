@@ -465,6 +465,29 @@ Todos os estilos devem ser aplicados via CSS.
 ### 63 - Formulários - Input Types - Parte 1
 ##
 
+**Input Types**
+
+- text
+- email
+- password
+- number
+- submit
+- url
+
 
 - Exemplo:
     - html_web-21
+
+
+##
+### 64 - Formulários - Input Types - Parte 2
+##
+
+**Input Types**
+
+- *Horas e datas*
+- date
+
+
+- Exemplo:
+    - html_web-22

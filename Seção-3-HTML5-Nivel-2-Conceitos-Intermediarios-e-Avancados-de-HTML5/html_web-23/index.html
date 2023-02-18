@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+
+    <style>
+        .form-container {
+            width: 60%;
+            margin: auto;
+        }
+        .form-group {
+            margin-bottom: 10px;
+        }
+    </style>
+
+</head>
+<body>
+
+    <!-- Formulário -->
+    <div class="form-container">
+        <h3>Formulário</h3>
+        <form action="https://sys4soft.com/udemy/forms/index.php" method="post">
+            
+            <!-- Text -->
+            <div class="form-group">
+                <input type="text" name="campo_texto" minlength="5" maxlength="20" required placeholder="Indique o seu nome" size="50">
+            </div>
+            <!-- E-mail -->
+            <div class="form-group">
+                <input type="email" name="campo_email" multiple>
+            </div>
+            <!-- Senha -->
+            <div class="form-group">
+                <input type="password" name="campo_senha">
+            </div>
+            <!-- Number -->
+            <div class="form-group">
+                <input type="number" name="campo_numero" min="0" max="10">
+            </div>
+            <!-- Number, atributo step, numeros decimais -->
+            <div class="form-group">
+                <input type="number" name="campo_numero-2" min="0" max="10" step="0.01">
+            </div>
+            <!-- Submit -->
+            <div class="form-group">
+                <input type="submit" value="Enviar">
+            </div>
+            <!-- URL -->
+            <div class="form-group">
+                <input type="url" name="campo_url">
+            </div>
+
+        </form>
+    </div>
+
+</body>
+</html>
+
+
+<!--
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas
+    18/02/2023
+-->
