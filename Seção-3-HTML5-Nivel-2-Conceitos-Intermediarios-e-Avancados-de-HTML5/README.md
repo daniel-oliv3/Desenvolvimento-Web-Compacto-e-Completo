@@ -435,19 +435,36 @@ Todos os estilos devem ser aplicados via CSS.
 ### 61 - Formulários - Introdução ao Método Get & Post
 ##
 
+- Post: 
+- Get:
 
 - Exemplo:
     - html_web-20
 
-- Post: 
-- Get:
 
 
 ##
 ### 62 - Formulários - Alguns Atributos do Elemento Input
 ##
 
+**Atributos**
+
+- type
+- name
+- minlength
+- maxlength
+- required
+- placeholder
+- value
 
 - Exemplo:
     - html_web-21
 
+  
+##
+### 63 - Formulários - Input Types - Parte 1
+##
+
+
+- Exemplo:
+    - html_web-21
