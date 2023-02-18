@@ -476,7 +476,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 - Exemplo:
-    - html_web-21
+    - html_web-22
 
 
 ##
@@ -487,7 +487,10 @@ Todos os estilos devem ser aplicados via CSS.
 
 - *Horas e datas*
 - date
-
+- time
+- week
+- month
+- datetime-local
 
 - Exemplo:
-    - html_web-22
+    - html_web-23
