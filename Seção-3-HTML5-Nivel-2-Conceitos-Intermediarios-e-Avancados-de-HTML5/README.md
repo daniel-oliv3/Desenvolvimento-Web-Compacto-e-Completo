@@ -427,6 +427,17 @@ Todos os estilos devem ser aplicados via CSS.
 ##
 
 
-
 - Exemplo:
     - html_web-19
+
+
+##
+### 61 - Formulários - Introdução ao Método Get & Post
+##
+
+
+- Exemplo:
+    - html_web-20
+
+- Post: 
+- Get:
