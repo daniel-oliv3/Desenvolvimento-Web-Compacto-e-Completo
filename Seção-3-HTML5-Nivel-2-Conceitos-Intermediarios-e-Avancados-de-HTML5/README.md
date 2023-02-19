@@ -546,3 +546,19 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-27
+
+
+##
+### 69 - Formulários - Input Range
+##
+
+- range
+
+- *Atributo*
+- max
+- min
+- step
+
+
+- Exemplo:
+    - html_web-28
