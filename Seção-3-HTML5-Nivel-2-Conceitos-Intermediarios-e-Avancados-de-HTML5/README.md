@@ -511,7 +511,24 @@ Todos os estilos devem ser aplicados via CSS.
 ##
 
 - label
+
+- *Atributo*
 - for
 
 - Exemplo:
     - html_web-25
+
+
+
+##
+### 67 - Formulários - Input Checkbox
+##
+
+- checkbox
+
+- *Atributo*
+- checked
+- value
+
+- Exemplo:
+    - html_web-26
