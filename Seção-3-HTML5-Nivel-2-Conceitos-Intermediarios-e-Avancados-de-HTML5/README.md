@@ -532,3 +532,17 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-26
+
+
+##
+### 68 - Formulários - Input Radio
+##
+
+- radio
+
+- *Atributo*
+- value
+- checked
+
+- Exemplo:
+    - html_web-27
