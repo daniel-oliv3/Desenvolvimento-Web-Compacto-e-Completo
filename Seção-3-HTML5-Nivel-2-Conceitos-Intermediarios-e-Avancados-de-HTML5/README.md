@@ -504,3 +504,14 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-24
+
+
+##
+### 66 - Formulários - O Elemento Label
+##
+
+- label
+- for
+
+- Exemplo:
+    - html_web-25
