@@ -494,3 +494,13 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-23
+
+
+##
+### 65 - Formulários - Input Color
+##
+
+- color
+
+- Exemplo:
+    - html_web-24
