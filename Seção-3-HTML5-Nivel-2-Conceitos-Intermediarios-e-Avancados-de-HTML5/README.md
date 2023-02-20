@@ -626,7 +626,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 - *Atributo*
     - name
-    - col
+    - cols
     - rows
     - placeholder
     - wrap
@@ -644,8 +644,23 @@ Todos os estilos devem ser aplicados via CSS.
 - datalist
 
 - *Atributo*
-    - ...
+    - id
+    - list
 
 
 - Exemplo:
     - html_web-33
+
+
+##
+### 75 - Formulários - Fieldset & Legend
+##
+
+- fieldset / legend
+
+- *Atributo*
+    - disabled
+
+
+- Exemplo:
+    - html_web-34
