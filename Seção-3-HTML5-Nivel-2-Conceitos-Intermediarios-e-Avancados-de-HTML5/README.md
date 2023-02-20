@@ -709,3 +709,26 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-37
+
+
+##
+### 79 - Final do Módulo & Passos Seguintes
+##
+
+
+**Quais são os passos seguintes?**
+
+- Já tens um conhecimento sólido de **HTML5**
+- Deves aprofundar conhecimentos de **CSS3** e **JavaScript**
+- Tal como no módulo inicial de HTML5 é importante consolidar os conceitos através da prática
+
+
+
+
+
+
+
+
+
+
+
