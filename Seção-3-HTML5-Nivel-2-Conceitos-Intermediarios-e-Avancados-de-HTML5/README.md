@@ -449,13 +449,14 @@ Todos os estilos devem ser aplicados via CSS.
 
 **Atributos**
 
-- type
-- name
-- minlength
-- maxlength
-- required
-- placeholder
-- value
+- *input*
+    - type
+    - name
+    - minlength
+    - maxlength
+    - required
+    - placeholder
+    - value
 
 - Exemplo:
     - html_web-21
@@ -467,12 +468,13 @@ Todos os estilos devem ser aplicados via CSS.
 
 **Input Types**
 
-- text
-- email
-- password
-- number
-- submit
-- url
+- *type*
+    - text
+    - email
+    - password
+    - number
+    - submit
+    - url
 
 
 - Exemplo:
@@ -486,11 +488,11 @@ Todos os estilos devem ser aplicados via CSS.
 **Input Types**
 
 - *Horas e datas*
-- date
-- time
-- week
-- month
-- datetime-local
+    - date
+    - time
+    - week
+    - month
+    - datetime-local
 
 - Exemplo:
     - html_web-23
@@ -513,7 +515,7 @@ Todos os estilos devem ser aplicados via CSS.
 - label
 
 - *Atributo*
-- for
+    - for
 
 - Exemplo:
     - html_web-25
@@ -527,8 +529,8 @@ Todos os estilos devem ser aplicados via CSS.
 - checkbox
 
 - *Atributo*
-- checked
-- value
+    - checked
+    - value
 
 - Exemplo:
     - html_web-26
@@ -541,8 +543,8 @@ Todos os estilos devem ser aplicados via CSS.
 - radio
 
 - *Atributo*
-- value
-- checked
+    - value
+    - checked
 
 - Exemplo:
     - html_web-27
@@ -555,9 +557,9 @@ Todos os estilos devem ser aplicados via CSS.
 - range
 
 - *Atributo*
-- max
-- min
-- step
+    - max
+    - min
+    - step
 
 
 - Exemplo:
@@ -568,11 +570,11 @@ Todos os estilos devem ser aplicados via CSS.
 ### 70 - Formulários - Input Hidden
 ##
 
-- Hidden
+- hidden
 
 - *Atributo*
-- name
-- value
+    - name
+    - value
 
 - Exemplo:
     - html_web-29
@@ -598,3 +600,19 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-30
+
+
+##
+### 72 - Formulários - Elemento Select
+##
+
+- select
+
+- *Atributo*
+    - selected
+    - required
+    - multiple
+    - disabled
+
+- Exemplo:
+    - html_web-31

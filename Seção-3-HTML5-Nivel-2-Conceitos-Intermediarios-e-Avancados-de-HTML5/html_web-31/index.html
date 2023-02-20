@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+
+    <style>
+        .form-container {
+            width: 60%;
+            margin: auto;
+        }
+        .form-group {
+            margin-bottom: 10px;
+        }
+        label {
+            display: block;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div class="form-container">
+        <h3>Formulário</h3>
+        <form action="https://sys4soft.com/udemy/forms/index.php" method="post">
+
+            <div class="form-group">
+                <label>Selecione uma opção:</label>
+                <select name="campo_selecao[]" id="" required>
+                    <optgroup label="Países">
+                        <option value=""></option>
+                        <option value="portugal">Portugal</option>
+                        <option value="brasil">Brasil</option>
+                 <!--  <option value="brasil" selected>Brasil</option> -->
+                        <option value="eua">EUA</option>
+                        <option value="russia">Russia</option>
+                        <option value="ucrania">Ucrânia</option>
+                        <option value="japao">Japão</option>
+                        <option value="inglaterra">Inglaterra</option>
+                    </optgroup>
+
+                    <optgroup label="Outros Países">
+                        <option value="fr">França</option>
+                        <option value="de">Alemanha</option>
+                        <option value="es">Espanha</option>
+                    </optgroup>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Enviar">
+            </div>
+
+        </form>
+    </div>
+
+</body>
+</html>
+
+<!--
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas
+    20/02/2023
+-->
