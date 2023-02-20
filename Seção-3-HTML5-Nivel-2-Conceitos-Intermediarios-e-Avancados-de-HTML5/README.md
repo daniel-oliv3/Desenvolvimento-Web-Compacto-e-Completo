@@ -447,9 +447,9 @@ Todos os estilos devem ser aplicados via CSS.
 ### 62 - Formulários - Alguns Atributos do Elemento Input
 ##
 
-**Atributos**
+- input
 
-- *input*
+- *Atributo*
     - type
     - name
     - minlength
@@ -616,3 +616,22 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-31
+
+
+##
+### 73 - Formulários - TextArea
+##
+
+- textarea
+
+- *Atributo*
+    - name
+    - col
+    - rows
+    - placeholder
+    - wrap
+    - readonly
+
+
+- Exemplo:
+    - html_web-32
