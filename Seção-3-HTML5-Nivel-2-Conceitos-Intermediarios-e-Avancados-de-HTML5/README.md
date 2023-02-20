@@ -635,3 +635,17 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-32
+
+
+##
+### 74 - Formulários - Datalist
+##
+
+- datalist
+
+- *Atributo*
+    - ...
+
+
+- Exemplo:
+    - html_web-33
