@@ -562,3 +562,17 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-28
+
+
+##
+### 70 - Formulários - Input Hidden
+##
+
+- Hidden
+
+- *Atributo*
+- name
+- value
+
+- Exemplo:
+    - html_web-29
