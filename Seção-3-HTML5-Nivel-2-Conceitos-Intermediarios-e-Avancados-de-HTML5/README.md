@@ -682,3 +682,22 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-35
+
+
+##
+### 77 - Formulários - O que ficou Por Falar Sobre Formulários de HTML
+##
+
+
+**O que ficou Por Falar Sobre Formulários de HTML**
+
+- Falta falar sobre vários atributos adicionais
+- Utilizar formulários para uploud de ficheiros
+- Tratamento dos dados do lado do servidor
+- Os formulários vão aparecer em vários módulos do curso
+
+
+- Sem projeto
+
+- Exemplo:
+    - html_web-36
