@@ -1,0 +1,1 @@
+// ficheiro de javascript

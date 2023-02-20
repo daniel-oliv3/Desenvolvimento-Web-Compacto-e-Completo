@@ -701,3 +701,11 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-36
+
+
+##
+### 78 - É Importante Saber Paths Relativas & Paths Absolutas
+##
+
+- Exemplo:
+    - html_web-37
