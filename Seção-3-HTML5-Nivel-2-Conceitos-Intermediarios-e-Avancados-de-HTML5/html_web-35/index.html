@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+
+    <style>
+        .form-container {
+            width: 60%;
+            margin: auto;
+        }
+        .form-group {
+            margin-bottom: 10px;
+        }
+        label {
+            display: block;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div class="form-container">
+        <h3>Formulário</h3>
+        <form action="https://sys4soft.com/udemy/forms/index.php" method="post">
+          
+            <div class="form-group">
+                <label for="campo-usuario">Usuário:</label>
+                <input type="text" name="campo_usuario" id="campo-usuario" required>
+            </div>
+
+            <div class="form-group">
+                <label for="campo-senha">Senha:</label>
+                <input type="password" name="campo_senha" id="campo-senha" required>
+            </div>
+
+            <div class="form-group">
+                <label>
+                    <input type="radio" name="opcao" id="" checked>
+                    Opção 1
+                </label>
+                <label>
+                    <input type="radio" name="opcao" id="">
+                    Opção 2
+                </label>
+                <label>
+                    <input type="radio" name="opcao" id="">
+                    Opção 3
+                </label>
+            </div>
+
+            <div class="form-group">
+                <button type="button">Botão</button> <!-- o button sem atributo asume automaticamente como se fosse um botão de submisao (submit) -->
+                <input type="reset" value="Limpar" accesskey="l" title="Ctrl + L">
+                <input type="submit" value="Enviar">
+            </div>
+
+        </form>
+    </div>
+
+</body>
+</html>
+
+<!--
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas
+    20/02/2023
+-->

@@ -664,3 +664,21 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-34
+
+
+##
+### 76 - Formulários - Input Reset & Button
+##
+
+- reset / button
+
+- *Atributo*
+    - checked
+    - accesskey = `Ctrl` + `L`
+
+- Button Type
+    - button
+
+
+- Exemplo:
+    - html_web-35
