@@ -576,3 +576,25 @@ Todos os estilos devem ser aplicados via CSS.
 
 - Exemplo:
     - html_web-29
+
+
+##
+### 71 - Formulários - Os Problemas de Segurança
+##
+
+
+**Informações importantes sobre validação de formulários**
+
+- As validações de HTML5 **não são seguras**
+- Podes usá-las como um primeiro *layer* de validação
+- Podes usar validação de JavaScript, mas também não é a solução com maior segurança
+
+**Como validar corretamente um formulário?**
+
+- Usar a validação de HTML5 como primeira camada
+- Usar JavaScript como segunda camada
+- Fazer **sempre** validação do lado do servidor
+
+
+- Exemplo:
+    - html_web-30
