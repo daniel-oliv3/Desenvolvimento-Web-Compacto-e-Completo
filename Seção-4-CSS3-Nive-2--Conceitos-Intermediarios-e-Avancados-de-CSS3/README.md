@@ -28,9 +28,18 @@
 
 
 ##
-### 82 - Explorando Propriedades de Texto
+### 81 - Explorando Propriedades de Texto
 ##
 
 
 - Exemplo:
     - css_web-02
+
+
+##
+### 82 - Web Safe Fonts & Default Fonts
+##
+
+
+- Exemplo:
+    - css_web-03
