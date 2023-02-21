@@ -1,0 +1,58 @@
+/* folha de estilos de CSS3 */
+
+/* font-style ------------------------------------------------- */
+.letra-italico {
+    font-style: italic;
+}
+
+/* font-weight ------------------------------------------------ */
+.letra-espessura{
+    font-weight: bold;
+}
+
+/* text-transform --------------------------------------------- */
+.letra-transformada-minuscula {
+    text-transform: lowercase;
+}
+
+.letra-transformada-maiuscula {
+    text-transform: uppercase;
+}
+
+.letra-transformada-capitalizada {
+    text-transform: capitalize;
+}
+
+/* text-decoration -------------------------------------------- */
+.letra-sublinhada {
+    text-decoration: underline;
+}
+
+.letra-rasurada {
+    text-decoration: line-through;
+}
+
+.letra-com-linha-superior {
+    text-decoration: overline;
+}
+
+.letra-decoration-1 {
+    text-decoration: underline green;
+}
+
+.letra-decoration-2 {
+    text-decoration: underline wavy red;
+}
+
+.letra-decoration-3 {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+}
+
+.estilo-de-letra {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-size: 22px;
+    text-decoration: line-through underline dashed blueviolet;
+}

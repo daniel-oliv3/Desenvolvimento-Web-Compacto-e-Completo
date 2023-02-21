@@ -1,0 +1,39 @@
+/* folha de estilos de CSS3 */
+
+/* color -------------------------------------------------- */
+.cor-do-texto-1 {
+    color: red;
+}
+
+.cor-do-texto-2 {
+    color: rgb(255,0,0);
+}
+
+.cor-do-texto-3 {
+    color: #ff0000;
+}
+
+/* font-family -------------------------------------------- */
+.familia-de-letra {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.letra-monospace {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* font-size ---------------------------------------------- */
+.letra-tamanho-pixeis {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+
+.letra-tamanho-em {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+.letra-tamanho-rem {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+}

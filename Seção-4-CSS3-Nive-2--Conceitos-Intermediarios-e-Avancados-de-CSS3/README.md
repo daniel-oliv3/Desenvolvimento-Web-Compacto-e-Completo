@@ -21,4 +21,16 @@
 - Organização dos layouts com **CSS Grid**
 - Como criar **Media Queries** e muito mais
 
+- sem projeto
 
+- Exemplo:
+    - css_web-01 `Modelo`
+
+
+##
+### 82 - Explorando Propriedades de Texto
+##
+
+
+- Exemplo:
+    - css_web-02
