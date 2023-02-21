@@ -60,4 +60,17 @@
 
 
 - Exemplo:
-    - css_web-04
+    - css_web-05
+
+
+##
+### 85 - Utilização do Google Fonts
+##
+
+
+- Google Fonts
+    Site: https://fonts.google.com/
+
+
+- Exemplo:
+    - css_web-06
