@@ -1,0 +1,20 @@
+/* folha de estilos de CSS3 */
+
+h1 {
+    font-family: Arial;
+}
+
+.sombra-1 {
+    text-shadow: 2px 2px 4px rgba(0,0,0,.5);
+}
+
+/* .sombra-2 {
+    text-shadow: 0px 0px 8px rgba(255,0,0,.5);
+}
+
+
+
+.sombra-3 {
+    text-shadow: 2px 2px 2px rgba(255,0,0),
+                 4px 4px 2px rgba(255,255,0);
+}  */
