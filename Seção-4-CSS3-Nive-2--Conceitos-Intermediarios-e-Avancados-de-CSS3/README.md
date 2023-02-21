@@ -52,3 +52,12 @@
 
 - Exemplo:
     - css_web-04
+
+
+##
+### 84 - Usar Outro Tipo de Letras Com a Regra Font Face
+##
+
+
+- Exemplo:
+    - css_web-04
