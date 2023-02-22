@@ -188,3 +188,15 @@
 
 - Exemplo:
     - css_web-15
+
+
+##
+### 95 - A Propriedade Display
+##
+
+
+- Propriedade display
+
+
+- Exemplo:
+    - css_web-16

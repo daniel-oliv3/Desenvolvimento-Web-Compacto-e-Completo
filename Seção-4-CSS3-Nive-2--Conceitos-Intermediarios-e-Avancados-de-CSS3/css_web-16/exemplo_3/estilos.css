@@ -1,0 +1,13 @@
+/* folha de estilos de CSS3 */
+
+.navegacao {
+    padding: 20px;
+    background-color: yellow;
+    text-align: center;
+    list-style-type: none;
+}
+
+.navegacao li {
+    display: inline-block;
+    padding: 0 20px;
+}

@@ -1,0 +1,10 @@
+/* folha de estilos de CSS3 */
+.bloco {
+    /*
+    display: inline;
+    */
+    display: inline-block;
+    background-color: yellow;
+    width: 250px;
+    height: 50px;
+}
