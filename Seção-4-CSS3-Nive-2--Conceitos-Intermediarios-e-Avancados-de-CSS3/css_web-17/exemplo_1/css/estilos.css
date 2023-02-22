@@ -1,0 +1,15 @@
+/* folha de estilos de CSS3 */
+article {
+    width: 500px;
+    margin: 50px auto;
+}
+
+img {
+    /*
+    float: left;
+    padding-right: 10px;
+    */
+    
+    float: right;
+    padding-left: 10px;
+}

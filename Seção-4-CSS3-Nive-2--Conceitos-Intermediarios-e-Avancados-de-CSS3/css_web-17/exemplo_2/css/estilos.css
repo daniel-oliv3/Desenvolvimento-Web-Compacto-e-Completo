@@ -1,0 +1,16 @@
+/* folha de estilos de CSS3 */
+.bloco-noticia {
+    background-color: lightgray;
+    padding: 20px;
+    overflow: auto;
+}
+.destaque {
+    float: left;
+    margin-right: 10px;
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+}

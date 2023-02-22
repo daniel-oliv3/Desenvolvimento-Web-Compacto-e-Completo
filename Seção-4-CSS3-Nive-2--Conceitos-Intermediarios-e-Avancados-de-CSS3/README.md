@@ -200,3 +200,14 @@
 
 - Exemplo:
     - css_web-16
+
+##
+### 96 - Floats
+##
+
+
+- Floats
+
+
+- Exemplo:
+    - css_web-17
