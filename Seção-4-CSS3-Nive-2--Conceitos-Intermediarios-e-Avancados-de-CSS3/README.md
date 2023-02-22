@@ -84,12 +84,12 @@
 - parágrafo
 
 - Google Fonts
-    Site: https://fonts.google.com/
+    - Site: https://fonts.google.com/
 
 - Anton
-    Font: https://fonts.google.com/specimen/Anton?query=anto
+    - Font: https://fonts.google.com/specimen/Anton?query=anto
 - Genos
-    Font: https://fonts.google.com/specimen/Genos?query=Genos
+    - Font: https://fonts.google.com/specimen/Genos?query=Genos
 
 
 - Exemplo:
@@ -121,3 +121,12 @@
 
 - Exemplo:
     - css_web-10
+
+
+##
+### 90 - Font-Variant para Capitalizar Letras
+##
+
+
+- Exemplo:
+    - css_web-11
