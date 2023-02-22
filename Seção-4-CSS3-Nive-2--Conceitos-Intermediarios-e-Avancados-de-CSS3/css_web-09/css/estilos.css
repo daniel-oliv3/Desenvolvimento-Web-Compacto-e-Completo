@@ -1,0 +1,16 @@
+/* folha de estilos de CSS3 */
+
+body {
+    padding: 20px
+}
+
+p {
+    /*
+    line-height: 30px;
+    letter-spacing: 0px; // 0 = normal
+    letter-spacing: 3px;
+    letter-spacing: 0em;
+    */
+    letter-spacing: 0.05em;
+    word-spacing: 0.5em;
+}
