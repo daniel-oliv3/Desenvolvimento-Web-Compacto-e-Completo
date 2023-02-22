@@ -1,0 +1,21 @@
+/* folha de estilos de CSS3 */
+
+body {
+    padding: 20px
+}
+
+h1 {
+    /* 
+    text-align: right;
+    text-align: left;
+    text-align: justify;
+    */
+
+    text-align: center;
+}
+
+
+p {
+    text-align: start;
+    direction: ltr;
+}

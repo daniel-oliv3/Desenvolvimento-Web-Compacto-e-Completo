@@ -90,7 +90,17 @@
     Font: https://fonts.google.com/specimen/Anton?query=anto
 - Genos
     Font: https://fonts.google.com/specimen/Genos?query=Genos
-    
+
 
 - Exemplo:
     - css_web-07
+
+
+
+##
+### 87 - Alinhamento Horizontal
+##
+
+
+- Exemplo:
+    - css_web-08
