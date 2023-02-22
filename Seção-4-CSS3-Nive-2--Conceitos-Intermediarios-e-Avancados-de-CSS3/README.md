@@ -74,3 +74,23 @@
 
 - Exemplo:
     - css_web-06
+
+
+##
+### 86 - Duas Letras Distintas com Google Fonts
+##
+
+- titulo
+- parágrafo
+
+- Google Fonts
+    Site: https://fonts.google.com/
+
+- Anton
+    Font: https://fonts.google.com/specimen/Anton?query=anto
+- Genos
+    Font: https://fonts.google.com/specimen/Genos?query=Genos
+    
+
+- Exemplo:
+    - css_web-07
