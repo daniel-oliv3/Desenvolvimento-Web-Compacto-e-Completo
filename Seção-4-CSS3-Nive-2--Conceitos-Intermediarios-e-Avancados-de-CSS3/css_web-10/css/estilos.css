@@ -1,0 +1,16 @@
+/* folha de estilos de CSS3 */
+
+//Letras Maiusculas
+.transform-1 {
+    text-transform: uppercase;
+}
+
+//Letras Minusculas
+.transform-2 {
+    text-transform: lowercase;
+}
+
+//Primeirra letra de todas as palavras maiusculas
+.transform-3 {
+    text-transform: capitalize;
+}
