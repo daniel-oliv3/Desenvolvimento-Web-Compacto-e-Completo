@@ -148,3 +148,12 @@
 
 - Exemplo:
     - css_web-13
+
+
+##
+### 93 - Criando Gerações de Cores
+##
+
+
+- Exemplo:
+    - css_web-14

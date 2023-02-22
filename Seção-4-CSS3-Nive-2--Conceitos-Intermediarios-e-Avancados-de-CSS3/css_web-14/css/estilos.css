@@ -1,0 +1,47 @@
+/* folha de estilos de CSS3 */
+.container {
+    display: flex;
+}
+
+.container div{
+    width: 400px;
+    height: 600px;
+    box-shadow: inset 0 0 1px black;
+}
+
+.espaco-1 {
+    /*
+    background: linear-gradient(90deg, blue, yellow);
+    background: linear-gradient(45deg, blue, yellow);
+    background: linear-gradient(270deg, blue, yellow);
+    */
+
+    background: linear-gradient(to left top, red, gold, green);
+}
+
+.espaco-2 {
+    /*
+    background: linear-gradient(blue 0 30%, yellow 70% 100%);
+    background: linear-gradient(red 0 50%, yellow 50% 100%);
+    */
+
+    background: linear-gradient(red 0, orange 25%, green 75%, blue 100%);
+}
+
+.espaco-3 {
+    /*
+    
+    */
+
+    background: linear-gradient(rgb(198, 183, 183), rgb(161, 34, 34));
+}
+
+body {
+    padding: 20px;
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(rgb(100, 110, 178), rgb(11, 6, 118));
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
