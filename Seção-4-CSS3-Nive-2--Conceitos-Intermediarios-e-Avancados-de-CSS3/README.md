@@ -157,3 +157,34 @@
 
 - Exemplo:
     - css_web-14
+
+
+
+##
+### 94 - Introdução aos Layouts de CSS
+##
+
+
+- Organização de layouts com **CSS**
+- Organização dos elemento de HTML de acordo com alguns princípios
+- Principal finalidade: **layouts responsivos**
+
+**RESPONSIVIDADE**
+
+- Ajustamento automático de layouts e conteúdo
+- Vasto conjunto de propriedades para esta finalidade
+
+**O CSS dispõe das seguintes áreas**
+
+- Normal flow
+- Propriedade display
+- Floats
+- Positioning
+- Table layout
+- Multiple-column layout
+- Flexbox
+- CSS Grid
+
+
+- Exemplo:
+    - css_web-15
