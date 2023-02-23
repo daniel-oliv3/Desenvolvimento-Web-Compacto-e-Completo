@@ -22,9 +22,9 @@
 - Como criar **Media Queries** e muito mais
 
 - sem projeto
-
+- `Modelo - HTML, CSS, JS` Version 1
 - Exemplo:
-    - css_web-01 `Modelo`
+    - css_web-01 
 
 
 ##
@@ -232,3 +232,22 @@
 
 - Exemplo:
     - css_web-19
+
+
+##
+### 99 - FlexBox Introdução
+##
+
+**Objetivo do FlexBox**
+
+- Forma mais eficiente de organização do layout em CSS
+- Organização dos elementos HTML no espaço
+- Ajustamentos de elementos dentro de um **Container**
+- Funcionalidades automáticas de responsividade
+- É um modelo unidirecional
+
+
+- Sem projeto
+- `Modelo - HTML, CSS, JS` Version 2
+- Exemplo:
+    - css_web-20
