@@ -1,0 +1,31 @@
+* {
+    box-shadow: inset 0 0 1px black;
+}
+
+.container {
+    display: flex; /*lado a lado*/
+    /*flex-direction: row; 
+    flex-wrap: wrap-reverse;*/
+    flex-flow: row wrap;
+}
+
+div {
+    padding: 10px;
+    width: 40%;
+}
+
+.child-1 { 
+    background-color: rgb(187, 240, 247)
+}
+.child-2 { 
+    background-color: rgb(154, 207, 214)
+}
+.child-3 { 
+    background-color: rgb(145, 197, 204)
+}
+.child-4 { 
+    background-color: rgb(109, 166, 173)
+}
+.child-5 { 
+    background-color: rgb(108, 163, 170)
+}
