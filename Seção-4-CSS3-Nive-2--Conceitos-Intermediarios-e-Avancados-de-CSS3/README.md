@@ -224,3 +224,11 @@
 
 - Exemplo:
     - css_web-18
+
+
+##
+### 98 - Z-Index, Fixed & Sticky
+##
+
+- Exemplo:
+    - css_web-19

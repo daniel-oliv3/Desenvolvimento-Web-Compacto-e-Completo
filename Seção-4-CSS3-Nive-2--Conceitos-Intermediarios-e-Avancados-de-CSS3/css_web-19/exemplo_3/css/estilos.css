@@ -1,0 +1,8 @@
+/* folha de estilos de CSS3 */
+
+div {
+    background-color: yellow;
+    padding: 10px;
+    position: sticky;
+    top: 0px;
+}

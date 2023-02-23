@@ -1,0 +1,9 @@
+/* folha de estilos de CSS3 */
+div {
+    width: 300px;
+    background-color: yellow;
+    padding: 10px;
+    position: fixed;
+    left: 100px;
+    top: 100px;
+}
