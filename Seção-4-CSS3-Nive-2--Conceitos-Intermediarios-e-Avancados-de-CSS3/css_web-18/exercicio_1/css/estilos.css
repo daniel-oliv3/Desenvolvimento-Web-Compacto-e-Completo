@@ -1,0 +1,26 @@
+/* folha de estilos de CSS3 */
+
+/*Posicionamento Relativo*/
+
+.posicao { 
+    /*
+    position: static;
+    */
+
+    position: relative;
+
+    top: 30px;
+    left: 50px;
+    background-color: green;
+    color: white;
+    padding: 5px;
+}
+
+
+div {
+    width: 300px;
+    height: 100px;
+    background-color: yellowgreen;
+    margin: 100px;
+    overflow: auto;
+}

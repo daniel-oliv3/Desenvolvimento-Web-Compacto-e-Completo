@@ -211,3 +211,16 @@
 
 - Exemplo:
     - css_web-17
+
+
+
+##
+### 97 - Posicionamento
+##
+
+- Positioning
+- Posicionamento Relativo
+- Posicionamento Absoluto
+
+- Exemplo:
+    - css_web-18
