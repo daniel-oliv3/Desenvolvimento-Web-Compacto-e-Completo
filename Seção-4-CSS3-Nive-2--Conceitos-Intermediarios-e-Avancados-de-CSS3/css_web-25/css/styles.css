@@ -1,48 +1,97 @@
-/**/
 
-.container {
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(7, 7, 8);
+    height: 100vh;
+}
+
+/* ======= Navegação ======= */
+nav {
     display: flex;
     flex-flow: row nowrap;
-    height: 300px;
-    
-    /* 
-   
-    */
+    justify-content: center;
+    align-items:center;
+    gap: 50px;
+    background-color: rgb(19, 22, 31);
+    height: 20%;
 }
-div {
-    padding: 20px;
-    /*width: 25%;*/
-}
-.child-1 {
-    background-color: #cad5d6;
-    /*order: 1;
-    flex-grow: 2;
-    flex-shrink: 10;
-    flex: 1;*/
 
-    flex: 1;
-    align-self: flex-end;
+nav > a {
+    text-decoration: none;
+    border: 1px solid rgb(73, 73, 73);
+    border-radius: 50px;
+    padding: 10px 60px;
+    color: white;
+}
 
-}
-.child-2 {
-    background-color: #b4c1c2;
-    /*flex-grow: 1;*/
-    align-self: center;
-}
-.child-3 {
-    background-color: #9facad;
-}
-.child-4 {
-    background-color: #849192;
-    align-self: flex-end;
+nav a:hover {
+    text-decoration: underline;
+    background-color: rgb(72, 72, 78);
 }
 
 
 
 
-/*FlexBox Propriedades Dos Flex-Items*/
 
 
+/* ======= Redes Sociais ======= */
+section {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: stretch;
+    gap: 20px;
+    height: 50%;
+    background-color: rgb(14, 15, 17);
+    color: white;
+}
+
+section > div {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    background-color: rgb(43, 45, 49);
+    padding: 30px;
+    border: 1px solid rgb(104, 104, 104);
+    border-radius: 10px;
+    margin: 50px 0px;
+}
+
+
+section > div > img {
+    width: 50%;
+}
+
+section > div > p {
+    margin-top: 40px;
+    color: lightgray;
+}
+
+
+
+/* ======= Rodapé ======= */
+footer {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+footer > div {
+    color: rgb(0, 153, 255);
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+footer > p {
+    color: gray;
+    font-size: 12px;
+    margin-top: 50px;
+}
 
 
 
