@@ -1,0 +1,48 @@
+/**/
+
+.container {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 300px;
+    
+    /* 
+   
+    */
+}
+div {
+    padding: 20px;
+    /*width: 25%;*/
+}
+.child-1 {
+    background-color: #cad5d6;
+    /*order: 1;
+    flex-grow: 2;
+    flex-shrink: 10;
+    flex: 1;*/
+
+    flex: 1;
+    align-self: flex-end;
+
+}
+.child-2 {
+    background-color: #b4c1c2;
+    /*flex-grow: 1;*/
+    align-self: center;
+}
+.child-3 {
+    background-color: #9facad;
+}
+.child-4 {
+    background-color: #849192;
+    align-self: flex-end;
+}
+
+
+
+
+/*FlexBox Propriedades Dos Flex-Items*/
+
+
+
+
+
