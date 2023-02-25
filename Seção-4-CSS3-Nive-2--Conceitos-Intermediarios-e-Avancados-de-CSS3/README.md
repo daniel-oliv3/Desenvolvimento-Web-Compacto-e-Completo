@@ -293,3 +293,37 @@
 
 - Exemplo:
     - css_web-25
+
+
+##
+### 105 - Exercício 2 de FlexBox
+##
+
+
+<p align="center">
+  <img alt="...." src="../Seção-4-CSS3-Nive-2--Conceitos-Intermediarios-e-Avancados-de-CSS3/assets/exercicio02.jpg" width="80%">
+</p>
+
+
+- Exemplo:
+    - css_web-26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
