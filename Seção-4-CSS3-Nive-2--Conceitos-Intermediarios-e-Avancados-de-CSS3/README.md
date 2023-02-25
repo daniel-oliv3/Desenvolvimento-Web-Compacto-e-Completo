@@ -309,6 +309,20 @@
     - css_web-26
 
 
+##
+### 106 - Exercício 3 de FlexBox
+##
+
+
+<p align="center">
+  <img alt="...." src="../Seção-4-CSS3-Nive-2--Conceitos-Intermediarios-e-Avancados-de-CSS3/assets/login-form-exercicio3.jpg" width="80%">
+</p>
+
+
+- Exemplo:
+    - css_web-27
+
+
 
 
 
