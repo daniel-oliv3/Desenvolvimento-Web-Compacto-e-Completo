@@ -322,6 +322,29 @@
 - Exemplo:
     - css_web-27
 
+##
+### 107 - CSS Grid Introdução
+##
+
+
+- Introdução ao CSS Grid
+
+**O que é o CSS Grid Layout?**
+
+- Modelo bidimensional
+- Módulo para layouts que resolve problemas antigos
+- Vamos explorar conceitos e deixar de lado retro compatibilidade
+- Desde Março de 2017, os browsers estão preparados
+- Elemento principal: **Grid Container**
+- É um dos mais poderosos módulos de CSS criados até agora
+
+
+
+- Sem projeto
+- `Modelo - HTML, CSS, JS` Version 1, e 2
+- Exemplo:
+    - css_web-28
+
 
 
 
