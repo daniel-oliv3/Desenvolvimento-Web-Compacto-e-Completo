@@ -1,0 +1,31 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+section {
+    display: grid;
+    height: 100vh;
+    
+    /*
+    grid-template-columns: 100px 100px 100px;
+    grid-template-columns: 20% auto auto 20%;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-columns: [col1] 50% [col2] 50%;
+    grid-template-columns: 1fr 4fr 1fr;
+
+    */
+
+    grid-template-columns: 1fr 20% 4fr 1fr;
+    grid-template-rows: 20% 60%;
+}
+
+
+
+div {
+    font-size: 40px;
+    font-weight: bold;
+    box-shadow: inset 0 0 2px black;
+}
