@@ -71,6 +71,14 @@
 - Exemplo 
   - html_web-03
 
+##
+### 10 - Construção da Página HTML5 Básica - Parte 2
+##
+
+- Exemplo 
+  - html_web-04
+  
+
 **HTML** = Estrutura e conteúdo com elementos
 - Todas as páginas HTML devem ter uma **estrutura base**
 
