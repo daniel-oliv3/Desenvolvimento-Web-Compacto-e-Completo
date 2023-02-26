@@ -524,9 +524,10 @@ E esta é a segunda frase.</p>
   - html_web-12
 
 ##
-### CSS3
+### 17 - O que é o CSS3?
 ##
 
+**CSS3**
 
 
 **C**ascading **S**tyle **S**heets
@@ -536,9 +537,6 @@ E esta é a segunda frase.</p>
 - Muitos outras funcionalidades
 
 
-##
-### 16 - Introdução ao CSS3
-##
 
 **O que é CSS3?**
 
@@ -572,12 +570,13 @@ E esta é a segunda frase.</p>
 -> Conceitos mais básicos              |
 ```
 
+- Sem Projeto
 - Exemplo 
   - html_web-13
 
 
 ##
-### 17 - Três formas de aplicar estilos no HTML
+### 18 - Três Formas de Aplicar Estilos no HTML5
 ##
 
 - CSS Inline
