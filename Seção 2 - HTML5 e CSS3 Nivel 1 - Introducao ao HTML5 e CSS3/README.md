@@ -435,7 +435,7 @@ E esta é a segunda frase.</p>
   - html_web-04
 
 ##
-### 11 - Melhorar a estrutura do HTML com elementos semânticos
+### 11 - Melhorar a Estrutura do HTML com Elementos Semânticos
 ##
 
 **O que são elementos semânticos ?**
