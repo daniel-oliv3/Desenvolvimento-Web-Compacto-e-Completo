@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+section {
+    display: grid;
+    /*
+    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 30% 70%;
+    
+    */
+
+
+    grid-template-columns: 20% 60% 20%;
+    height: 100vh;
+    grid-template-rows: 20% 60%;
+}
+
+
+
+div {
+    font-size: 40px;
+    font-weight: bold;
+    box-shadow: inset 0 0 2px black;
+}

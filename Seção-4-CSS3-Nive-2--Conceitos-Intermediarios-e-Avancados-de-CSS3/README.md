@@ -5,7 +5,7 @@
 - Introdução do Módulo
 
 ##
-### 80 - Introdução do Módulo
+### 81 - Introdução do Módulo
 ##
 
 **Objetivo do módulo**
@@ -28,7 +28,7 @@
 
 
 ##
-### 81 - Explorando Propriedades de Texto
+### 82 - Explorando Propriedades de Texto
 ##
 
 
@@ -37,7 +37,7 @@
 
 
 ##
-### 82 - Web Safe Fonts & Default Fonts
+### 83 - Web Safe Fonts & Default Fonts
 ##
 
 
@@ -46,7 +46,7 @@
 
 
 ##
-### 83 - Aplicando Sombras Nas Letras
+### 84 - Aplicando Sombras Nas Letras
 ##
 
 
@@ -55,7 +55,7 @@
 
 
 ##
-### 84 - Usar Outro Tipo de Letras Com a Regra Font Face
+### 85 - Usar Outro Tipo de Letras Com a Regra Font Face
 ##
 
 
@@ -64,7 +64,7 @@
 
 
 ##
-### 85 - Utilização do Google Fonts
+### 86 - Utilização do Google Fonts
 ##
 
 
@@ -77,7 +77,7 @@
 
 
 ##
-### 86 - Duas Letras Distintas com Google Fonts
+### 87 - Duas Letras Distintas com Google Fonts
 ##
 
 - titulo
@@ -98,7 +98,7 @@
 
 
 ##
-### 87 - Alinhamento Horizontal
+### 88 - Alinhamento Horizontal
 ##
 
 
@@ -106,7 +106,7 @@
     - css_web-08
 
 ##
-### 88 - Altura e Linha & Espaçamento Entre Letras e Palavras
+### 89 - Altura e Linha & Espaçamento Entre Letras e Palavras
 ##
 
 
@@ -115,7 +115,7 @@
 
 
 ##
-### 89 - Usando o Text-Transform para Capitalização do Texto
+### 90 - Usando o Text-Transform para Capitalização do Texto
 ##
 
 
@@ -124,7 +124,7 @@
 
 
 ##
-### 90 - Font-Variant para Capitalizar Letras
+### 91 - Font-Variant para Capitalizar Letras
 ##
 
 
@@ -133,7 +133,7 @@
 
 
 ##
-### 91 - Aplicar Estilos a Listas
+### 92 - Aplicar Estilos a Listas
 ##
 
 
@@ -142,7 +142,7 @@
 
 
 ##
-### 92 - Usando Backgrounds Nos Elementos HTML
+### 93 - Usando Backgrounds Nos Elementos HTML
 ##
 
 
@@ -151,7 +151,7 @@
 
 
 ##
-### 93 - Criando Gerações de Cores
+### 94 - Criando Gerações de Cores
 ##
 
 
@@ -161,7 +161,7 @@
 
 
 ##
-### 94 - Introdução aos Layouts de CSS
+### 95 - Introdução aos Layouts de CSS
 ##
 
 
@@ -191,7 +191,7 @@
 
 
 ##
-### 95 - A Propriedade Display
+### 96 - A Propriedade Display
 ##
 
 
@@ -202,7 +202,7 @@
     - css_web-16
 
 ##
-### 96 - Floats
+### 97 - Floats
 ##
 
 
@@ -215,7 +215,7 @@
 
 
 ##
-### 97 - Posicionamento
+### 98 - Posicionamento
 ##
 
 - Positioning
@@ -227,7 +227,7 @@
 
 
 ##
-### 98 - Z-Index, Fixed & Sticky
+### 99 - Z-Index, Fixed & Sticky
 ##
 
 - Exemplo:
@@ -235,7 +235,7 @@
 
 
 ##
-### 99 - FlexBox Introdução
+### 100 - FlexBox Introdução
 ##
 
 **Objetivo do FlexBox**
@@ -254,7 +254,7 @@
 
 
 ##
-### 100 - FlexBox Flex Container - Parte 1 de 3
+### 101 - FlexBox Flex Container - Parte 1 de 3
 ##
 
 
@@ -262,7 +262,7 @@
     - css_web-21
 
 ##
-### 101 - FlexBox Flex Container - Parte 2 de 3
+### 102 - FlexBox Flex Container - Parte 2 de 3
 ##
 
 
@@ -271,7 +271,7 @@
 
 
 ##
-### 102 - FlexBox Flex Container - Parte 3 de 3
+### 103 - FlexBox Flex Container - Parte 3 de 3
 ##
 
 
@@ -280,7 +280,7 @@
 
 
 ##
-### 103 - FlexBox Propriedades Dos Flex-Items
+### 104 - FlexBox Propriedades Dos Flex-Items
 ##
 
 - Exemplo:
@@ -288,15 +288,15 @@
 
 
 ##
-### 104 - Exercício 1 de FlexBox
+### 105 - Exercício 1 de FlexBox
 ##
 
 - Exemplo:
-    - css_web-25
+    - css_web-24-exercicio1
 
 
 ##
-### 105 - Exercício 2 de FlexBox
+### 106 - Exercício 2 de FlexBox
 ##
 
 
@@ -306,11 +306,11 @@
 
 
 - Exemplo:
-    - css_web-26
+    - css_web-24-exercicio2
 
 
 ##
-### 106 - Exercício 3 de FlexBox
+### 107 - Exercício 3 de FlexBox
 ##
 
 
@@ -320,10 +320,10 @@
 
 
 - Exemplo:
-    - css_web-27
+    - css_web-24-exercicio3
 
 ##
-### 107 - CSS Grid Introdução
+### 108 - CSS Grid Introdução
 ##
 
 
@@ -343,11 +343,16 @@
 - Sem projeto
 - `Modelo - HTML, CSS, JS` Version 1, e 2
 - Exemplo:
-    - css_web-28
+    - css_web-25
 
 
+##
+### 109 - CSS Grid Container
+##
 
 
+- Exemplo:
+    - css_web-26
 
 
 
