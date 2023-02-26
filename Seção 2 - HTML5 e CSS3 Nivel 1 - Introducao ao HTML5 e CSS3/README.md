@@ -90,6 +90,8 @@
 ### 11 - O que Já Sabemos de HTML?
 ##
 
+- Exemplo 
+  - html_web-05
 
 **HTML** = Estrutura e conteúdo com elementos
 - Todas as páginas HTML devem ter uma **estrutura base**
@@ -389,6 +391,8 @@ E esta é a segunda frase.</p>
   <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/result-site-07.jpg" width="60%">
 </p>
 
+- Exemplo 
+  - html_web-06
 
 ##
 ### 13 - O que são atributos nos elementos HTML5?
@@ -427,6 +431,12 @@ E esta é a segunda frase.</p>
 - `id` identifica de forma única em elemento no documento HTML
 - `class` lista de classes de um elemnto HTML
 
+- Sem Projeto 
+- `Modelos HTML CSS JS` Básico
+  - Version 1 e Version 2
+- Exemplo 
+  - html_web-07
+
 
 ##
 ### 10 - Exercício Prático com Atributos de HTML5
@@ -439,8 +449,7 @@ E esta é a segunda frase.</p>
 - Atributo `target=""` com o valor `_blank` abre um link em outra página
 - Atributo `alt` texto alternativo.
 
-- Exemplo 
-  - html_web-04
+
 
 ##
 ### 11 - Melhorar a Estrutura do HTML com Elementos Semânticos
@@ -496,7 +505,9 @@ E esta é a segunda frase.</p>
     12/02/2023
 -->
 ``` 
-
+- Sem Projeto 
+- `Modelos HTML CSS JS` Básico
+  - Version 1 e Version 2
 
 ##
 ### 16 - Construindo o Primeiro Website Só com HTML5
