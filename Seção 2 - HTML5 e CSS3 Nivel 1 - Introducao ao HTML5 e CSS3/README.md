@@ -122,7 +122,7 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-10.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/html-10.jpg" width="60%">
 </p>
 
 **Importante**
@@ -130,7 +130,7 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 - Deves usar tabulações para organizar o código
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-11.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/html-11.jpg" width="60%">
 </p>
 
 
@@ -226,7 +226,7 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-06.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/result-site-06.jpg" width="60%">
 </p>
 
 
@@ -267,7 +267,7 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-01.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/result-site-01.jpg" width="60%">
 </p>
 
 
@@ -286,7 +286,7 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-02.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/result-site-02.jpg" width="60%">
 </p>
 
 
@@ -304,7 +304,7 @@ E esta é a segunda frase.</p>
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-03.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/result-site-03.jpg" width="60%">
 </p>
 
 
@@ -318,7 +318,7 @@ E esta é a segunda frase.</p>
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-04.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/result-site-04.jpg" width="60%">
 </p>
 
 
@@ -330,7 +330,7 @@ E esta é a segunda frase.</p>
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-05.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/result-site-05.jpg" width="60%">
 </p>
 
 
@@ -353,7 +353,7 @@ E esta é a segunda frase.</p>
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/result-site-07.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/result-site-07.jpg" width="60%">
 </p>
 
 
@@ -532,7 +532,7 @@ E esta é a segunda frase.</p>
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/dispositivos.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/dispositivos.jpg" width="60%">
 </p>
 
 - O CSS pode ser aprendido de forma progressiva
@@ -688,7 +688,7 @@ p { font-size: 18px; }
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-01.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-base-01.jpg" width="60%">
 </p>
 
 - O ponto e vírgula separa ou fecha cada par de propriedade / valor
@@ -700,7 +700,7 @@ p { font-size: 18px; color: red; }
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-02.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-base-02.jpg" width="60%">
 </p>
 
 
@@ -716,7 +716,7 @@ p {
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-03.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-base-03.jpg" width="60%">
 </p>
 
 - Exemplo 
@@ -756,7 +756,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-04.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-base-04.jpg" width="60%">
 </p>
 
 
@@ -804,7 +804,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 - São cerca de 140 cores, com nomes letra minúscula, que indentificam cada cor
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-nomes.jpg" width="100%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-cores-nomes.jpg" width="100%">
 </p>
 
 
@@ -813,7 +813,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 - Função que permite usar 3 parâmetros:
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-rgb.jpg" width="100%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-cores-rgb.jpg" width="100%">
 </p>
 
 - Valores variam entre 0 e 255
@@ -825,7 +825,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-rgba.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-cores-rgba.jpg" width="60%">
 </p>
 
 - Valores variam entre 0 e 1, com uso de números decimais
@@ -836,7 +836,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 - Função que permite usar 3 parâmetros:
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hsl.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-cores-hsl.jpg" width="60%">
 </p>
 
 - `Tonalidade (0* a 359*)` `Saturação (0% a 100%)` `Luminosidade (0% a 100%)` 
@@ -845,7 +845,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 **HUE** (Tonalidade)
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/circulo-cromatico.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/circulo-cromatico.jpg" width="60%">
 </p>
 
 
@@ -856,7 +856,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hsla.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-cores-hsla.jpg" width="60%">
 </p>
 
 
@@ -871,18 +871,18 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 **Código Hexadecimal**
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hexadecimal-01.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-cores-hexadecimal-01.jpg" width="60%">
 </p>
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hexadecimal-02.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-cores-hexadecimal-02.jpg" width="60%">
 </p>
 
 - rgb(161, 197, 180)
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-cores-hexadecimal-03.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-cores-hexadecimal-03.jpg" width="60%">
 </p>
 
 - hsl(152, 24%, 70%)
@@ -907,7 +907,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-box-model.jpg" width="60%">
 </p>
 
 - CSS Box Model
@@ -918,7 +918,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-example.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-box-model-example.jpg" width="60%">
 </p>
 
 
@@ -937,7 +937,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
   - Clicar na página com botão o direto do mouse, selecionar (inspecionar)
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-inspect.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-box-model-inspect.jpg" width="60%">
 </p>
 
 
@@ -962,7 +962,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-inspect-02.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-box-model-inspect-02.jpg" width="60%">
 </p>
 
 
@@ -978,7 +978,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 - Margin:  `Cima`, `Direita`, `Baixo`, `Esquerda`;
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-box-model-inspect-01.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/css-box-model-inspect-01.jpg" width="60%">
 </p>
 
 
@@ -1117,7 +1117,7 @@ h1::first-letter {
 - É uma imagem identificadora do site
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/favicon-aula.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/favicon-aula.jpg" width="60%">
 </p>
 
 
@@ -1155,7 +1155,7 @@ h1::first-letter {
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/height-width-esquema.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/height-width-esquema.jpg" width="60%">
 </p>
 
 
@@ -1172,7 +1172,7 @@ h1::first-letter {
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/pixeis-tamanho-medidas.jpg" width="60%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/pixeis-tamanho-medidas.jpg" width="60%">
 </p>
 
 
