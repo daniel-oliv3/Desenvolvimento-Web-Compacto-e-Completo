@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-e-css.jpg" width="80%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/html-e-css.jpg" width="80%">
 </p>
 
 
@@ -100,7 +100,7 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-4.jpg" width="50%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/html-4.jpg" width="50%">
 </p>
 
 **Importante**
@@ -108,7 +108,7 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 - O HTML não dá importância aos espaços
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-9.jpg" width="50%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/html-9.jpg" width="50%">
 </p>
   
 **Importante**
