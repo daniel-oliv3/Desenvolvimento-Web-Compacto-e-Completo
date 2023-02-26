@@ -2,6 +2,14 @@
 ### Seção 2 - HTML5 e CSS3 Nível 1 - Introdução ao HTML5 e CSS3
 ##
 
+##
+### 5 - Introdução do Módulo
+##
+
+
+##
+### 6 - Preparação do Ambiente de estudo
+##
 
 **Preparação do Ambiente de estudo**
 
@@ -17,9 +25,15 @@
 - Site: https://code.visualstudio.com/download
 
 
+##
+### 7 - O que é o HTML5 & Porquê o CSS3?
+##
+
+
 <p align="center">
   <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-e-css.jpg" width="80%">
 </p>
+
 
 
 ##
@@ -37,9 +51,13 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/html-1.jpg" width="80%">
+  <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/html-1.jpg" width="80%">
 </p>
 
+
+##
+### 8 - Primeiro Contato com o HTML5 na Prática?
+##
 
 **HTML** = Estrutura e conteúdo com elementos
 - Todas as páginas HTML devem ter uma **estrutura base**
@@ -489,6 +507,7 @@ E esta é a segunda frase.</p>
 - Aplicação de estilos (cores, tamanhos, etc...)
 - Muitos outras funcionalidades
 
+
 ##
 ### 16 - Introdução ao CSS3
 ##
@@ -524,6 +543,10 @@ E esta é a segunda frase.</p>
   -> Mais propriedades                 |
 -> Conceitos mais básicos              |
 ```
+
+- Exemplo 
+  - html_web-13
+
 
 ##
 ### 17 - Três formas de aplicar estilos no HTML
@@ -646,6 +669,8 @@ E esta é a segunda frase.</p>
 - Importação de folhas de estilos
   - Importados para as páginas, ao nível dos projetos
 
+- Exemplo 
+  - html_web-14
 
 
 ##
@@ -694,7 +719,8 @@ p {
   <img alt="...." src="../Seção-2-HTML5-e-CSS3-Nivel-1-Introducao-ao-HTML5-e-CSS3/assets/css-base-03.jpg" width="60%">
 </p>
 
-
+- Exemplo 
+  - html_web-15
 
 
 ##
