@@ -29,6 +29,10 @@
 ### 7 - O que é o HTML5 & Porquê o CSS3?
 ##
 
+- Sem Projeto 
+- `Modelos HTML CSS JS` Básico
+  - Version 1 e Version 2
+
 - Exemplo 
   - html_web-01
 
@@ -60,6 +64,10 @@
 ##
 ### 8 - Primeiro Contato com o HTML5 na Prática?
 ##
+
+- Sem Projeto 
+- `Modelos HTML CSS JS` Básico
+  - Version 1 e Version 2
 
 - Exemplo 
   - html_web-02
