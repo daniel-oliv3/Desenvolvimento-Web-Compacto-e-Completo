@@ -491,7 +491,7 @@ E esta é a segunda frase.</p>
 
 
 ##
-### 12 - Construindo o primeiro website só com HTML
+### 16 - Construindo o Primeiro Website Só com HTML5
 ##
 
 **Como vai ser o projeto?**
@@ -520,7 +520,8 @@ E esta é a segunda frase.</p>
   - Todos os elementos alinhados a esquerda!
   - Colocar duas imagens lado a lado?!
 
-
+- Exemplo 
+  - html_web-12
 
 ##
 ### CSS3
