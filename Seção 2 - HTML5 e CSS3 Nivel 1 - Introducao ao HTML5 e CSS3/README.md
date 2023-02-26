@@ -29,6 +29,8 @@
 ### 7 - O que é o HTML5 & Porquê o CSS3?
 ##
 
+- Exemplo 
+  - html_web-01
 
 <p align="center">
   <img alt="...." src="../Seção 2 - HTML5 e CSS3 Nivel 1 - Introducao ao HTML5 e CSS3/assets/html-e-css.jpg" width="80%">
@@ -58,6 +60,16 @@
 ##
 ### 8 - Primeiro Contato com o HTML5 na Prática?
 ##
+
+- Exemplo 
+  - html_web-02
+
+##
+### 9 - Construção da Página HTML5 Básica - Parte 1
+##
+
+- Exemplo 
+  - html_web-03
 
 **HTML** = Estrutura e conteúdo com elementos
 - Todas as páginas HTML devem ter uma **estrutura base**
@@ -134,9 +146,6 @@ O editor de código ajuda a indentificar as tags, deves tirar vantagem na utiliz
 </p>
 
 
-##
-### 6 - Elementos para conteúdo de texto
-##
 
 **Elemento de HTML**
 
