@@ -1,0 +1,33 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-shadow: inset 0 0 2px black;
+}
+.container {
+    display: grid;
+    height: 100vh;
+    grid-template:
+    [row1-start] "header header" 10vh [row1-end]
+    [row2-start] "nav content" auto [row2-end]
+    [row3-start] "footer footer" 10vh [row3-end]
+    / 20vw auto;
+}
+div {
+    padding: 20px;
+}
+.top {
+    grid-area: header;
+}
+.nav {
+    grid-area: nav;
+}
+.content {
+    grid-area: content;
+}
+.footer {
+    grid-area: footer;
+}
+
+
