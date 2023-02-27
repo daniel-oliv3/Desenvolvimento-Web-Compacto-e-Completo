@@ -301,7 +301,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção-4-CSS3-Nive-2--Conceitos-Intermediarios-e-Avancados-de-CSS3/assets/exercicio02.jpg" width="80%">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/exercicio02.jpg" width="80%">
 </p>
 
 
@@ -315,7 +315,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção-4-CSS3-Nive-2--Conceitos-Intermediarios-e-Avancados-de-CSS3/assets/login-form-exercicio3.jpg" width="80%">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/login-form-exercicio3.jpg" width="80%">
 </p>
 
 
