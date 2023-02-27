@@ -5,14 +5,57 @@
     font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    outline: none;
-    border: none;
-    text-decoration: none;
-    transition: all .2s linear;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.wrapper {
+    height: 100vh;
+    background-color: white;
 }
 
 
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 20% auto;
+    grid-template-rows: 15% auto 15%;
+    grid-template-areas: 
+        "header header"
+        "nav content"
+        "footer footer"
+    ;
+
+    grid-gap: 15px;
+}
+
+header {
+    grid-area: header;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+nav {
+    grid-area: nav;
+    background-color: gray;
+    color: white;
+    padding: 20px;
+}
+
+article {
+    grid-area: content;
+    background-color: lightgray;
+    color: white;
+    padding: 20px;
+}
+
+footer {
+    grid-area: footer;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
 
 
 
