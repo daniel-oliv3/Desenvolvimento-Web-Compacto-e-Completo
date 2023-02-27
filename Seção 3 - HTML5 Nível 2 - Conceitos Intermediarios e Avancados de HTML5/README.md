@@ -92,7 +92,7 @@
 
 
 ##
-### 50 - Tabelas - Introdução as tabelas em HTML
+### 50 - Tabelas - Introdução as Tabelas em HTML
 ##
 
 **Tabelas**
