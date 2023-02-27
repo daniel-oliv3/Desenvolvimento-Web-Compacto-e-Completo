@@ -417,6 +417,20 @@
     - css_web-33
 
 
+##
+### 117 - CSS Grid Outras Propriedades
+##
+
+**Outras Propriedades do Grid CSS**
+
+- Auto-columns e auto-rows (**grid-auto-columns** e **grid-auto-rows**)
+- **grid- auto-flow**: row, column ou dense
+- Vamos recapitular propriedades dos grid items e contruir exercícios práticos de consolidação
+
+- Sem projeto
+- `Modelo HTML CSS JS Básico` `v1` `v2`
+- Exemplo:
+    - css_web-34
 
 
 
