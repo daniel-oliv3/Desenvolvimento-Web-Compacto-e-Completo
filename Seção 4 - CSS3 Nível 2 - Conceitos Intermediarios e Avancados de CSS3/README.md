@@ -363,6 +363,14 @@
 - Exemplo:
     - css_web-27
 
+##
+### 111 - CSS Grid Template Areas
+##
+
+
+- Exemplo:
+    - css_web-28
+
 
 
 
