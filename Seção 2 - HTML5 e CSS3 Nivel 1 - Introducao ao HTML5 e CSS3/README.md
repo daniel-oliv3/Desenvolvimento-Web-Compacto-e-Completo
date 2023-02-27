@@ -1003,7 +1003,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 ##
-### 27 - Explorando melhor margins e paddings na página
+### 28 - Explorando Melhor Margins e Paddings na Página
 ##
 
 - Exemplo 
