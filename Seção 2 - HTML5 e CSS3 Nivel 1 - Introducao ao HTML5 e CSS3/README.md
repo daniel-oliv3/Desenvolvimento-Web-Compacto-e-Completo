@@ -1156,7 +1156,7 @@ h1::first-letter {
 
 
 ##
-### 30 - Hierarquia de Estilos & a Regra !important
+### 31 - Hierarquia de Estilos & a Regra !important
 ##
 
 - Exemplo 
@@ -1166,7 +1166,7 @@ h1::first-letter {
 
 
 ##
-### 31 - Como adicionar um Favicon a minha página
+### 32 - Como Adicionar um Favicon a Minha Página
 ##
 
 - Exemplo 
