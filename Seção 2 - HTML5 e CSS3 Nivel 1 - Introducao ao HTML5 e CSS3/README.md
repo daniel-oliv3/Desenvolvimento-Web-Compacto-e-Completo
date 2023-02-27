@@ -1256,14 +1256,14 @@ Viewport - O tamanho da janela do browser
 
 
 ##
-### 34 - As unidades de CSS na prática
+### 35 - As Unidades de CSS na Prática - Parte 1
 ##
 
 - Exemplo 
   - html_web-31
 
 ##
-### 35 - As unidades de CSS na prática parte 2
+### 36 - As Unidades de CSS na Prática - Parte 2
 ##
 
 - Exemplo 
