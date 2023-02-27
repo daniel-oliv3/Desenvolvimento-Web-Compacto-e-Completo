@@ -776,14 +776,14 @@ p {
 
 
 ##
-### 19 - Os Seletores de CSS3 na Prática - Parte 1
+### 20 - Os Seletores de CSS3 na Prática - Parte 1
 ##
 
 - Exemplo 
   - html_web-16
 
 ##
-### 20 - Os Seletores de CSS3 na Prática - Parte 2
+### 21 - Os Seletores de CSS3 na Prática - Parte 2
 ##
 
 - Exemplo 
