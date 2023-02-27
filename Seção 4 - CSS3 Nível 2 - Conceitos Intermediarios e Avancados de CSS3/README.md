@@ -399,6 +399,15 @@
     - css_web-31
 
 
+##
+### 115 - CSS Grid Justify Items & Align Items
+##
+
+
+- Exemplo:
+    - css_web-32
+
+
 
 
 
