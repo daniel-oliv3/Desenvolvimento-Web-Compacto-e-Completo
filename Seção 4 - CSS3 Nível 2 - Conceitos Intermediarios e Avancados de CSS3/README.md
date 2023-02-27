@@ -434,6 +434,10 @@
 
 
 
+##
+### 118 - CSS Grid Recapitulando Propriedades Dos Grid Items
+##
 
 
-
+- Exemplo:
+    - css_web-35

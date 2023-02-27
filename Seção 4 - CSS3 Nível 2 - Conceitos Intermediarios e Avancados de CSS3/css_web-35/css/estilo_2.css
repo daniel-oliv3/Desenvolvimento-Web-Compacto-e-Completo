@@ -1,0 +1,42 @@
+section {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    background-color: lightgrey;
+    width: 400px;
+    height: 400px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    font-size: 3em;
+    
+    /*
+    justify-self: center;
+    justify-self: end;
+    justify-self: start;
+    justify-self: right;
+    justify-self: left;
+    align-self: center;
+    align-self: flex-end;
+    align-self: stretch;
+    align-self: end;
+    
+    */
+
+    /*
+    justify-self: center;
+    align-self: center;
+    */
+
+    /*
+    
+    place-self: center;
+    */
+
+    place-self: end center;
+
+    
+}
