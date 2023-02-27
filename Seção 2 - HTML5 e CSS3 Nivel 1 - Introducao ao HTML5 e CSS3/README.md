@@ -794,7 +794,7 @@ p {
 
 
 ##
-### 22 - Introdução as declarações de CSS
+### 22 - Introdução as Declarações de CSS
 ##
 
 **Declarações de CSS**
@@ -824,12 +824,12 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 - Sem Projeto 
 - `Modelos HTML CSS JS` Básico
   - Version 1 e Version 2
-  
+
 - Exemplo
   - html_web-18
 
 ##
-### 22 - Duas extensões para teu Visual Studio Code
+### 23 - Duas extensões para teu Visual Studio Code
 ##
 
 
@@ -842,7 +842,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 ##
-### 23 - Definir cores no CSS Abordagem teórica
+### 24 - Definir cores no CSS Abordagem teórica
 ##
 
 **Sistema de cores disponiveis no CSS**
@@ -950,7 +950,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 ##
-### 24 - Definir cores no CSS Abordagem prática
+### 25 - Definir cores no CSS Abordagem prática
 ##
 
 
