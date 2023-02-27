@@ -407,8 +407,8 @@ Todos os estilos devem ser aplicados via CSS.
     - https://www.sys4soft.com/udemy/forms/index.php
 
 
+- `Modelo Básico` `HTML CSS JS` `v1` `v2`
 - Sem projeto
-
 - Exemplo:
     - html_web-17
 
