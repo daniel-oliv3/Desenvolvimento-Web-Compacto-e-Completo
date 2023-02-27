@@ -390,6 +390,13 @@
     - css_web-30
 
 
+##
+### 114 - CSS Grid  Espaço Entre Areas com Propriedades Gap
+##
+
+
+- Exemplo:
+    - css_web-31
 
 
 
