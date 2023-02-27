@@ -216,7 +216,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 56 - Dicas sobre como escrever o código HTML
+### 56 - Dicas Sobre Como Escrever o Código HTML
 ##
 
 
@@ -324,7 +324,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 
-
+- `Modelo Básico` `HTML CSS JS` `v1` `v2`
 - No project
 
 - Exemplo:
