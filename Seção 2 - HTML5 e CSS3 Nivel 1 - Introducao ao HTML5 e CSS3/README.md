@@ -1044,7 +1044,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 ##
-### 28 - Pseudo-classes e Pseudo-elementos
+### 29 - Pseudo-classes e Pseudo-elementos
 ##
 
 - Exemplo 
