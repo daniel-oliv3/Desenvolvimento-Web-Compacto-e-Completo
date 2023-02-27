@@ -595,7 +595,10 @@ E esta é a segunda frase.</p>
 -> Conceitos mais básicos              |
 ```
 
-- Sem Projeto
+- Sem Projeto 
+- `Modelos HTML CSS JS` Básico
+  - Version 1 e Version 2
+
 - Exemplo 
   - html_web-13
 
@@ -791,7 +794,7 @@ p {
 
 
 ##
-### 21 - Introdução as declarações de CSS
+### 22 - Introdução as declarações de CSS
 ##
 
 **Declarações de CSS**
@@ -818,6 +821,12 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 - Permite acelerar processos e percerber que opçõess existem
 
 
+- Sem Projeto 
+- `Modelos HTML CSS JS` Básico
+  - Version 1 e Version 2
+  
+- Exemplo
+  - html_web-18
 
 ##
 ### 22 - Duas extensões para teu Visual Studio Code
