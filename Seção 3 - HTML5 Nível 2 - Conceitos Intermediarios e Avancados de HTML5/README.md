@@ -16,18 +16,18 @@
 
 
 ##
-### 42 - Introdução do Módulo
+### 43 - Introdução do Módulo
 ##
 
 - Exemplo:
     - html_web-01
 
 ##
-### 43 - Porquê o nome index.html?
+### 44 - Porquê o nome index.html?
 ##
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/index-porque.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/index-porque.jpg" width="80%">
 </p>
 
 - Exemplo:
@@ -35,7 +35,7 @@
 
 
 ##
-### 44 - Hiperligações - Exemplos mais comuns
+### 45 - Hiperligações - Exemplos mais comuns
 ##
 
 **Hiperligações**
@@ -49,7 +49,7 @@
 **Hiperligações**
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/hiperligacao-links.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/hiperligacao-links.jpg" width="80%">
 </p>
 
 
@@ -61,7 +61,7 @@
 
 
 ##
-### 45 - Hiperligações - Target, Elementos Aninhados & Title
+### 46 - Hiperligações - Target, Elementos Aninhados & Title
 ##
 
 - Exemplo:
@@ -69,14 +69,14 @@
 
 
 ##
-### 46 - Hiperligações - Download, Class & Id
+### 47 - Hiperligações - Download, Class & Id
 ##
 
 - Exemplo:
     - html_web-05
 
 ##
-### 47 - Hiperligações - Navegação com Bookmarks
+### 48 - Hiperligações - Navegação com Bookmarks
 ##
 
 - Exemplo:
@@ -84,7 +84,7 @@
 
 
 ##
-### 48 - Hiperligações - Email e Chamada Telefônica
+### 49 - Hiperligações - Email e Chamada Telefônica
 ##
 
 - Exemplo:
@@ -92,7 +92,7 @@
 
 
 ##
-### 49 - Tabelas - Introdução as tabelas em HTML
+### 50 - Tabelas - Introdução as tabelas em HTML
 ##
 
 **Tabelas**
@@ -100,7 +100,7 @@
 - Tabela = Conjunto de células
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-example.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/tabelas-example.jpg" width="80%">
 </p>
 
 - Vários elementos e respetivos atributos para construção de tabelas
@@ -117,7 +117,7 @@
 
 
 ##
-### 50 - Tabelas - Aplicar CSS as Tabelas
+### 51 - Tabelas - Aplicar CSS as Tabelas
 ##
 
 - Exemplo:
@@ -125,14 +125,14 @@
 
 
 ##
-### 51 - Tabelas - Caption, Colspan & Rowspan
+### 52 - Tabelas - Caption, Colspan & Rowspan
 ##
 
 - Exemplo:
     - html_web-10
 
 ##
-### 52 - Tabelas - Exercícios Práticos com Colspan & Rowspan
+### 53 - Tabelas - Exercícios Práticos com Colspan & Rowspan
 ##
 
 - Exemplo:
@@ -142,43 +142,43 @@
 - Exercício 01
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-01.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/tabelas-exercicio-01.jpg" width="80%">
 </p>
 
 - Exercício 02
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-02.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/tabelas-exercicio-02.jpg" width="80%">
 </p>
 
 - Exercício 03
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-03.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/tabelas-exercicio-03.jpg" width="80%">
 </p>
 
 - Exercício 04
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-04.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/tabelas-exercicio-04.jpg" width="80%">
 </p>
 
 - Exercício 05
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-05.jpg" width="80%">
+  <img alt="...." src=".../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/tabelas-exercicio-05.jpg" width="80%">
 </p>
 
 - Exercício 06
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tabelas-exercicio-06.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/tabelas-exercicio-06.jpg" width="80%">
 </p>
 
 
 
 ##
-### 53 - Tabelas - Colgroup & Col
+### 54 - Tabelas - Colgroup & Col
 ##
 
 - Exemplo:
@@ -186,7 +186,7 @@
 
 
 ##
-### 54 - Tabelas - Dimensões & Alinhamentos
+### 55 - Tabelas - Dimensões & Alinhamentos
 ##
 
 
@@ -214,7 +214,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 55 - Dicas sobre como escrever o código HTML
+### 56 - Dicas sobre como escrever o código HTML
 ##
 
 
@@ -229,7 +229,7 @@ Todos os estilos devem ser aplicados via CSS.
 - Utiliza sempre letras minúsculas
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/tags-minusculas.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/tags-minusculas.jpg" width="80%">
 </p>
 
 
@@ -259,7 +259,7 @@ Todos os estilos devem ser aplicados via CSS.
 - Evita longas linhas de códigos
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/dicas-01.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/dicas-01.jpg" width="80%">
 </p>
 
 
@@ -275,7 +275,7 @@ Todos os estilos devem ser aplicados via CSS.
 - Fechar corretamente os **Elementos**
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/dicas-02.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/dicas-02.jpg" width="80%">
 </p>
 
 
@@ -330,7 +330,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 56 - Comentários em HTML
+### 57 - Comentários em HTML
 ##
 
 - HTML
@@ -361,7 +361,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 57 - HTML Entities & Symbols
+### 58 - HTML Entities & Symbols
 ##
 
 - HTML Symbols
@@ -384,13 +384,13 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 58 - Formulários - Introdução
+### 59 - Formulários - Introdução
 ##
 
 **Como funciona um formulário de HTML?**
 
 <p align="center">
-  <img alt="...." src="../Seção-3-HTML5-Nivel-2-Conceitos-Intermediarios-e-Avancados-de-HTML5/assets/fotmulario-html.jpg" width="80%">
+  <img alt="...." src="../Seção 3 - HTML5 Nível 2 - Conceitos Intermediarios e Avancados de HTML5/assets/fotmulario-html.jpg" width="80%">
 </p>
 
 - Como funciona um formulário de HTML?
@@ -412,7 +412,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 59 - Formulários - O teu Primeiro Formulário
+### 60 - Formulários - O teu Primeiro Formulário
 ##
 
 
@@ -423,7 +423,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 60 - Formulários - O Que Aconteceu no Teu Primeiro Formulário
+### 61 - Formulários - O Que Aconteceu no Teu Primeiro Formulário
 ##
 
 
@@ -432,7 +432,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 61 - Formulários - Introdução ao Método Get & Post
+### 62 - Formulários - Introdução ao Método Get & Post
 ##
 
 - Post: 
@@ -444,7 +444,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 62 - Formulários - Alguns Atributos do Elemento Input
+### 63 - Formulários - Alguns Atributos do Elemento Input
 ##
 
 - input
@@ -463,7 +463,7 @@ Todos os estilos devem ser aplicados via CSS.
 
   
 ##
-### 63 - Formulários - Input Types - Parte 1
+### 64 - Formulários - Input Types - Parte 1
 ##
 
 **Input Types**
@@ -482,7 +482,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 64 - Formulários - Input Types - Parte 2
+### 65 - Formulários - Input Types - Parte 2
 ##
 
 **Input Types**
@@ -499,7 +499,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 65 - Formulários - Input Color
+### 66 - Formulários - Input Color
 ##
 
 - color
@@ -509,7 +509,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 66 - Formulários - O Elemento Label
+### 67 - Formulários - O Elemento Label
 ##
 
 - label
@@ -523,7 +523,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 67 - Formulários - Input Checkbox
+### 68 - Formulários - Input Checkbox
 ##
 
 - checkbox
@@ -537,7 +537,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 68 - Formulários - Input Radio
+### 69 - Formulários - Input Radio
 ##
 
 - radio
@@ -551,7 +551,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 69 - Formulários - Input Range
+### 70 - Formulários - Input Range
 ##
 
 - range
@@ -567,7 +567,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 70 - Formulários - Input Hidden
+### 71 - Formulários - Input Hidden
 ##
 
 - hidden
@@ -581,7 +581,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 71 - Formulários - Os Problemas de Segurança
+### 72 - Formulários - Os Problemas de Segurança
 ##
 
 
@@ -603,7 +603,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 72 - Formulários - Elemento Select
+### 73 - Formulários - Elemento Select
 ##
 
 - select
@@ -619,7 +619,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 73 - Formulários - TextArea
+### 74 - Formulários - TextArea
 ##
 
 - textarea
@@ -638,7 +638,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 74 - Formulários - Datalist
+### 75 - Formulários - Datalist
 ##
 
 - datalist
@@ -653,7 +653,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 75 - Formulários - Fieldset & Legend
+### 76 - Formulários - Fieldset & Legend
 ##
 
 - fieldset / legend
@@ -667,7 +667,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 76 - Formulários - Input Reset & Button
+### 77 - Formulários - Input Reset & Button
 ##
 
 - reset / button
@@ -685,7 +685,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 77 - Formulários - O que ficou Por Falar Sobre Formulários de HTML
+### 78 - Formulários - O que ficou Por Falar Sobre Formulários de HTML
 ##
 
 
@@ -704,7 +704,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 78 - É Importante Saber Paths Relativas & Paths Absolutas
+### 79 - É Importante Saber Paths Relativas & Paths Absolutas
 ##
 
 - Exemplo:
@@ -712,7 +712,7 @@ Todos os estilos devem ser aplicados via CSS.
 
 
 ##
-### 79 - Final do Módulo & Passos Seguintes
+### 80 - Final do Módulo & Passos Seguintes
 ##
 
 
