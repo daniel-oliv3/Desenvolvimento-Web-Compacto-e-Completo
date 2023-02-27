@@ -984,7 +984,7 @@ font-size (tamanho da letra)  Define o tamanho da letra do elemento
 
 
 ##
-### 26 - Box Model nas ferramentas do programador
+### 27 - Box Model nas ferramentas do programador
 ##
 
 - Exemplo 
