@@ -699,6 +699,7 @@ Todos os estilos devem ser aplicados via CSS.
 - Os formulários vão aparecer em vários módulos do curso
 
 
+- `Modelo Básico` `HTML CSS JS` `v1` `v2`
 - Sem projeto
 
 - Exemplo:
