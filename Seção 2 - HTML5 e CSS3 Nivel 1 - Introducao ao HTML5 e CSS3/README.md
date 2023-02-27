@@ -1183,7 +1183,7 @@ h1::first-letter {
 
 
 ##
-### 32 - Elementos semânticos lado a lado com float
+### 33 - Elementos Semânticos Lado a Lado Com Float
 ##
 
 - Exemplo 
