@@ -453,3 +453,14 @@
 
 - Exemplo:
     - css_web-36-exercicio1
+
+##
+### 120 - CSS Grid Exercício 2
+##
+
+<p align="center">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/css_grid_reference_exercicio_2.jpg" width="80%">
+</p>
+
+- Exemplo:
+    - css_web-36-exercicio2
