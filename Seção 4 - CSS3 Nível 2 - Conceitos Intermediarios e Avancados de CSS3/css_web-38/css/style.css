@@ -1,0 +1,17 @@
+
+
+.container {
+    text-align: center;
+    margin: 30px;
+}
+
+
+/* ======= Responsividade ======= */
+@media screen and (max-width: 400px){
+    h1 {
+        color: blue;
+    }
+}
+
+
+

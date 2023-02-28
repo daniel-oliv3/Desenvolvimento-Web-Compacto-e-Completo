@@ -511,10 +511,13 @@
 
 
 
+##
+### 123 - Media Queries Sintaxe Base
+##
 
 
-
-
+- Exemplo:
+    - css_web-38
 
 
 
