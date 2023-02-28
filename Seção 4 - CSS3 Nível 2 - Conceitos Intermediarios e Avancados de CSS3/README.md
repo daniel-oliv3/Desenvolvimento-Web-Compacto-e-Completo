@@ -476,3 +476,64 @@
 
 - Exemplo:
     - css_web-36-exercicio3
+
+
+
+
+##
+### 122 - Media Queries Introdução
+##
+
+**Introdução a Media Queries**
+
+**O que são as Media Queries?**
+
+- Foram introduzidas no CSS3
+- **Objetivo**: condicionar aplicação de regras de CSS
+- **Principal aplicação**: tornar os sites **responsivos**
+
+
+**O que é responsividade?**
+
+- A mesma aplicação, Adaptação automatica
+
+
+<p align="center">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/responsividade-img.jpg" width="60%">
+</p>
+
+
+- Sem projeto
+- `Modelo HTML CSS JS Básico` `v1` `v2`
+- Exemplo:
+    - css_web-37
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
