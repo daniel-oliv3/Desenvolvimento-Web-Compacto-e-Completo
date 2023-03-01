@@ -580,7 +580,13 @@
     - css_web-40
 
 
+##
+### 126 - Media Queries Exemplo com os Breakpoints
+##
 
+
+- Exemplo:
+    - css_web-41
 
 
 

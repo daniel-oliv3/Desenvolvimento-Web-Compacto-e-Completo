@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow: inset 0 0 2px black;
+}
+
+div {
+    padding: 20px;
+    text-align: center;
+}
+
+article {
+    min-width: 100%;
+    float: left; /*não recomendado float*/
+}
+
+
+
+
+
+
+
+/* ======= Responsive/Responsividade ======= */
+@media (min-width: 576px){
+
+    article {
+        min-width: 50%;
+    }
+
+}
+
+@media (min-width: 1200px){
+
+    article {
+        min-width: 25%;
+    }
+
+}
+
