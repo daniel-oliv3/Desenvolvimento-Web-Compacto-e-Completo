@@ -30,6 +30,17 @@
   <img alt="...." src="../Seção 5 - JavaScript para DOM - Nível 1 - O básico do JavaScript numa página web/assets/frameworks-js.jpg" width="60%">
 </p>
 
+**O que podemos fazer com o JavaScript**
+
+- Alterar o conteúdo dos elementos HTML
+- Modificar conteúdo de uma página web
+- Alterar os estilos e posicionamento dos elementos na página
+- Reagir a determinados eventos, como um clique num botão
+- Executar transições e animações
+- Validar a submissão de formulários
+- Emuito mais...
+
+
 
 - Sem projeto
 - Exemplo
