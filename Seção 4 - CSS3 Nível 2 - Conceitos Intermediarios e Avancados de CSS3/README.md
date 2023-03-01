@@ -558,13 +558,13 @@
 - Breakpoints Bootstrap
 
 <p align="center">
-  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/bootstrap.jpg" width="80%">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/bootstrap.jpg" width="50%">
 </p>
 
 - Breakpoints Tailwindcss
 
 <p align="center">
-  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/tailwindcss.jpg" width="80%">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/tailwindcss.jpg" width="50%">
 </p>
 
 - Uma proposta mais ou menos coerente (sempre discutível)
