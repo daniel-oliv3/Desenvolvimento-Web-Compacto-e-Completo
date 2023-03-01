@@ -519,7 +519,21 @@
 - Exemplo:
     - css_web-38
 
+##
+### 124 - Media Queries Mobile First
+##
 
+**Media Types**
+
+- screen, speech, print, all
+
+**Mobile First?**
+
+- Pensar o CSS primeiro para mobile
+- Usar Media Queries para os tamanhos maiores
+
+- Exemplo:
+    - css_web-39
 
 
 
