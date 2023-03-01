@@ -58,3 +58,20 @@
 - Sem projeto
 - Exemplo
     - javascript_web-01
+
+
+
+##
+### 133 - Requisitos Necessários
+##
+
+**Requisitos fundamentais**
+
+- Conhecimento sólido de **HTML5** e **CSS3**
+- Editor de código **Visual Studio Code** (+ Extensão Live Server)
+- Browser Google Chrome (+ ferramentas do programador)
+
+
+- Sem projeto
+- Exemplo
+    - javascript_web-02
