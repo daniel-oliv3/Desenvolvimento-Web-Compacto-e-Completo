@@ -1,0 +1,31 @@
+
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: black;
+}
+
+h1 {
+    color: lightblue;
+}
+
+h3 {
+    color: orange;
+}
+
+p {
+    color: lightgreen;
+}
+
+
+
+/* ======= Responsive/Responsividade ======= */
+@media print {
+    body {
+        background-color: white;
+    }
+
+    h1, h3, p {
+        color: black;
+    }
+}
