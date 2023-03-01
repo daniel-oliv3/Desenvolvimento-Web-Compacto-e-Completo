@@ -40,6 +40,19 @@
 - Validar a submissão de formulários
 - Emuito mais...
 
+**Como vamos estudar o JavaScript?**
+
+- Como se escrevem scripts de JavaScript
+- Como inserir JavaScript no HTML
+- Como ver os resultados pretendidos
+- Perceber os conceitos fundamentais da linguagem
+- Usar o JavaScript para acrescentar interatividade nos projetos
+
+
+**IMPORTANTE**
+
+
+- A maior parte dos conceitos deste módulo são importantes para aprender a usar bibliotecas como o React, Vue, Angular e outros.
 
 
 - Sem projeto
