@@ -537,9 +537,14 @@
 
 
 
+##
+### 125 - Media Queries Screen Breaking Points
+##
 
-
-
+- Sem projeto
+- `Modelo HTML CSS JS Básico` `v1` `v2`
+- Exemplo:
+    - css_web-40
 
 
 
