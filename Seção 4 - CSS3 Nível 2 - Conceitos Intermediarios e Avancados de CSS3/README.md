@@ -642,3 +642,28 @@
 
 - Exemplo:
     - css_web-45
+
+
+
+##
+### 131 - CSS o que Ficou por Dizer
+##
+
+
+**O que Ficou por Dizer**
+
+- Seletores avançados
+- Funções no CSS
+- Variáveis
+- Animações
+- Mais sobre media queries
+- Pré-processadores de CSS
+- E muito mais...
+
+
+
+
+- Sem projeto
+- `Modelo HTML CSS JS Básico` `v1` `v2`
+- Exemplo:
+    - css_web-46
