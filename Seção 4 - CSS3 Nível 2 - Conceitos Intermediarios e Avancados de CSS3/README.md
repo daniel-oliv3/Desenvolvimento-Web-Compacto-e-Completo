@@ -631,3 +631,14 @@
 
 - Exemplo:
     - css_web-44
+
+
+##
+### 130 - Media Queries Exemplo Final
+##
+
+- W3Schools
+    - site: https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s
+
+- Exemplo:
+    - css_web-45
