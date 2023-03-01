@@ -604,8 +604,24 @@
 
 
 
+##
+### 128 - Media Queries Orientation
+##
 
 
+**Orientation**
 
+- Não vamos explorar detalhes aprofundados
+- Exemplos são suficientes para percerber o sistema
+- Formado vertical (**portraid**)
+- Formado horizontal (**landscape**)
+
+
+<p align="center">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/portrait-landscope.jpg" width="60%">
+</p>
+
+- Exemplo:
+    - css_web-43
 
 

@@ -1,0 +1,18 @@
+.formato-p {
+    display: block;
+}
+.formato-l {
+    display: none;
+}
+
+
+/* ======= Responsive/Responsividade ======= */
+@media screen and (orientation: landscape){
+    .formato-p {
+        display: none;
+    }
+
+    .formato-l {
+        display: block;
+    }
+}
