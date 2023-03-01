@@ -541,6 +541,39 @@
 ### 125 - Media Queries Screen Breaking Points
 ##
 
+**Media Queries Screen Breaking Points**
+
+- Existe uma tabela de referência de breakpoints?
+
+<p align="center">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/media-queries-screens-img.jpg" width="80%">
+</p>
+
+- Não Existe
+
+<p align="center">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/responsive-web-designer.jpg" width="80%">
+</p>
+
+- Breakpoints Bootstrap
+
+<p align="center">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/bootstrap.jpg" width="80%">
+</p>
+
+- Breakpoints Tailwindcss
+
+<p align="center">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/tailwindcss.jpg" width="80%">
+</p>
+
+- Uma proposta mais ou menos coerente (sempre discutível)
+
+<p align="center">
+  <img alt="...." src="../Seção 4 - CSS3 Nível 2 - Conceitos Intermediarios e Avancados de CSS3/assets/tamanhos-telas-web.jpg" width="80%">
+</p>
+
+
 - Sem projeto
 - `Modelo HTML CSS JS Básico` `v1` `v2`
 - Exemplo:
