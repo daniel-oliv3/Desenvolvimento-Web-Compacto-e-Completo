@@ -589,7 +589,18 @@
     - css_web-41
 
 
+##
+### 127 - Media Queries Outro Exemplo
+##
 
+- Conteúdo diferente para cada dispositivo
+    - Apenas em Mobile
+    - Apenas em Tablet
+    - Apenas em Desktop
+
+
+- Exemplo:
+    - css_web-42
 
 
 
