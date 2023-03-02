@@ -170,7 +170,14 @@
     - javascript_web-10
 
 
+##
+### 142 - Strings
+##
 
+**Strings**
+
+- Exemplo
+    - javascript_web-11
 
 
 
