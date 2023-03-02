@@ -160,7 +160,14 @@
     - javascript_web-09
 
 
+##
+### 141 - Operadores em JavaScript
+##
 
+**Operadores em JavaScript**
+
+- Exemplo
+    - javascript_web-10
 
 
 
