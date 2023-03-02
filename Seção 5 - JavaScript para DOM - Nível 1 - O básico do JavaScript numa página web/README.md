@@ -150,7 +150,14 @@
     - javascript_web-08
 
 
+##
+### 140 - O Problema das Variáveis no JavaScript
+##
 
+**O Problema das Variáveis no JavaScript**
+
+- Exemplo
+    - javascript_web-09
 
 
 
