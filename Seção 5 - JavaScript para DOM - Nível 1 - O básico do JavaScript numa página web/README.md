@@ -180,7 +180,14 @@
     - javascript_web-11
 
 
+##
+### 143 - Instruções Condicinal If, Else if, Else
+##
 
+**Instruções Condicinal If, Else if, Else**
+
+- Exemplo
+    - javascript_web-12
 
 
 
