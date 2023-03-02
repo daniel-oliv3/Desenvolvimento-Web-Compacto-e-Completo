@@ -65,6 +65,7 @@
 ### 133 - Requisitos Necessários
 ##
 
+
 **Requisitos fundamentais**
 
 - Conhecimento sólido de **HTML5** e **CSS3**
@@ -75,3 +76,37 @@
 - Sem projeto
 - Exemplo
     - javascript_web-02
+
+
+##
+### 134 - Como Adicionar JavaScript ao HTML
+##
+
+
+**Como Adicionar JavaScript ao HTML?**
+
+- Dentro de uma tag `<script>` de HTML
+- Importação de ficheiros externos para o HTML
+- Menos comum: adicionar código diretamente nos atributos
+
+
+- Exemplo
+    - javascript_web-03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
