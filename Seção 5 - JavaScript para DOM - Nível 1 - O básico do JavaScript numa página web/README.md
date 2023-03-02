@@ -140,4 +140,95 @@
     - javascript_web-07
 
 
+##
+### 139 - Tipos de Dados
+##
+
+**JavaScript Data Types**
+
+- Exemplo
+    - javascript_web-08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
