@@ -114,7 +114,21 @@
 
 
 
+##
+### 137 - Variáveis em JavaScript
+##
 
+
+**Regras para criação de uma variável**
+
+- Os nomes devem começar sempre por uma letra, um underscore ou um dollar sign
+- Os nomes nunca podem começar por um número
+- Os nomes só podem conter letras maiúsculas, minúsculas, o underscore e algarismos
+- O nome de uma variável nuca pode conter espaços
+- O nome não pode ser igual a uma palavra reservada do JavaScript
+
+- Exemplo
+    - javascript_web-06
 
 
 
