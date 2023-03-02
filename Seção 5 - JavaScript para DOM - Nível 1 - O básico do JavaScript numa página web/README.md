@@ -3,7 +3,7 @@
 ##
 
 - Módulo
-    - Javascript na DOM 1
+    - JavaScript na DOM 1
 
 ##
 ### 132 - Introdução ao Módulo
@@ -104,6 +104,13 @@
     - javascript_web-04
 
 
+##
+### 136 - Comentários em JavaScript
+##
+
+
+- Exemplo
+    - javascript_web-05
 
 
 
