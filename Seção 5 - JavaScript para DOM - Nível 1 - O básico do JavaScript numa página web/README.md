@@ -9,6 +9,7 @@
 ### 132 - Introdução ao Módulo
 ##
 
+**Introdução ao Módulo**
 
 **Javascript na DOM**
 
@@ -99,6 +100,7 @@
 ### 135 - A Sintaxe do JavaScript
 ##
 
+**A Sintaxe do JavaScript**
 
 - Exemplo
     - javascript_web-04
@@ -108,6 +110,7 @@
 ### 136 - Comentários em JavaScript
 ##
 
+**Comentários em JavaScript**
 
 - Exemplo
     - javascript_web-05
@@ -118,6 +121,7 @@
 ### 137 - Variáveis em JavaScript
 ##
 
+**Variáveis em JavaScript**
 
 **Regras para criação de uma variável**
 
@@ -135,6 +139,7 @@
 ### 138 - Apresentando Resultados no Browser
 ##
 
+**Apresentando Resultados no Browser**
 
 - Exemplo
     - javascript_web-07
