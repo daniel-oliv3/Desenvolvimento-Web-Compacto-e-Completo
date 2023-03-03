@@ -195,7 +195,44 @@
     - javascript_web-12
 
 
+##
+### 144 - Operadores de Comparação & Operadores Lógicos
+##
 
+**Operadores de Comparação & Operadores Lógicos**
+
+- OPERADORES DE COMPARAÇÃO
+
+```css
+/*
+OPERADORES DE COMPARAÇÃO
+--------------------------------
+A == B      Se o valor A é igual ao valor B
+A === B     Se o valor e o tipo de dados de A é igual ao valor e tipo de dados de B 
+A != B      Se o valor de A não é igual ao de B
+A !== B     Se o valor ou o tipo de dados de A é diferente do valor ou do tipo de dados de B
+A < B       Se A é menor que B
+A > B       Se A é maior que B
+A <= B      Se A é menor ou igual a B
+A >= B      Se A é maior ou igual a B
+*/
+```
+
+- OPERADORES LÓGICOS
+
+```css
+/*
+OPERADORES LÓGICOS
+--------------------------------
+Condição A && Condição B        Verdadeiro se ambas verdadeiras
+Condição A || Condição B        Verdadeiro se uma for verdadeira
+!Condição A     
+*/
+```
+
+
+- Exemplo
+    - javascript_web-13
 
 
 
