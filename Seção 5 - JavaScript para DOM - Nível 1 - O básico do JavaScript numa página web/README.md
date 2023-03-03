@@ -246,7 +246,14 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-14
 
 
+##
+### 146 - Estrutura Switch Case
+##
 
+**Estrutura Switch Case**
+
+- Exemplo
+    - javascript_web-15
 
 
 
