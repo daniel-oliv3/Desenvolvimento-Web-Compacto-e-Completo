@@ -236,7 +236,14 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 
 
+##
+### 145 - Operador Ternário
+##
 
+**Operador Ternário**
+
+- Exemplo
+    - javascript_web-14
 
 
 
