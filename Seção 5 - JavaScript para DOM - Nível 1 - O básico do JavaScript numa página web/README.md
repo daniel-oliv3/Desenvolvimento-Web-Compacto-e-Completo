@@ -473,6 +473,25 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 
 
+##
+### 154 - Escopo de Variáveis
+##
+
+**Escopo de Variáveis**
+
+- Exemplo
+    - javascript_web-23
+
+
+##
+### 155 - Objetos
+##
+
+**Objetos**
+
+- Exemplo
+    - javascript_web-24
+
 
 
 
