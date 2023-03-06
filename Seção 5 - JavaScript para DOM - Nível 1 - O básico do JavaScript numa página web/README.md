@@ -451,6 +451,14 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-20
 
 
+##
+### 152 - Funções
+##
+
+**Funções**
+
+- Exemplo
+    - javascript_web-21
 
 
 
