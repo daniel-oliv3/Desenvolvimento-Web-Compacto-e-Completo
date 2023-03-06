@@ -462,6 +462,14 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 
 
+##
+### 153 - Function Expressions e Arrow Functions
+##
+
+**Function Expressions e Arrow Functions**
+
+- Exemplo
+    - javascript_web-22
 
 
 
