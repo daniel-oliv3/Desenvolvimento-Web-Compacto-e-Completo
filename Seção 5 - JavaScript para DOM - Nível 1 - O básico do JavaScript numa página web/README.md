@@ -493,6 +493,35 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-24
 
 
+##
+### 156 - O Document Object Model
+##
+
+**O Document Object Model**
+
+**DOM -  Document Object Model**
+
+**O que  vimos ate agora ?**
+
+- Fundamentos básicos do JavaScript
+- Foi uma introdução geral a linguagem
+- Estamos preparados para ver o JavaScript no contexto web
+
+**O que é o DOM?**
+
+- Document Object Model
+- Estrutura e conteúdo do HTML
+- Manupular documentos HTML
+
+<p align="center">
+  <img alt="...." src="../Seção 5 - JavaScript para DOM - Nível 1 - O básico do JavaScript numa página web/assets/dom.jpg" width="60%">
+</p>
+
+
+- Sem projeto
+- `Modelo HTML CSS JS` `v1` `v2`
+- Exemplo
+    - javascript_web-25
 
 
 
