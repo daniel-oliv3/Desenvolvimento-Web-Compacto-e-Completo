@@ -545,7 +545,15 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-27
 
 
+##
+### 159 - Outros Métodos Get Elements
+##
 
+
+**Outros Métodos Get Elements**
+
+- Exemplo
+    - javascript_web-28
 
 
 
