@@ -534,7 +534,15 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 
 
+##
+### 158 - Método getElementById
+##
 
+
+**Método getElementById**
+
+- Exemplo
+    - javascript_web-27
 
 
 
