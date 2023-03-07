@@ -557,7 +557,15 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 
 
+##
+### 160 - Introdução ao querySelector & querySelectorAll
+##
 
+
+**Introdução ao querySelector & querySelectorAll**
+
+- Exemplo
+    - javascript_web-29
 
 
 
