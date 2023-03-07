@@ -499,8 +499,6 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 **O Document Object Model**
 
-**DOM -  Document Object Model**
-
 **O que  vimos ate agora ?**
 
 - Fundamentos básicos do JavaScript
@@ -524,11 +522,15 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-25
 
 
+##
+### 157 - Introdução a Navegação na DOM
+##
 
 
+**Introdução a Navegação na DOM**
 
-
-
+- Exemplo
+    - javascript_web-26
 
 
 
