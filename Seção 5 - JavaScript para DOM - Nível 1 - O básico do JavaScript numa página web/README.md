@@ -667,4 +667,30 @@ el = document.querySelectorAll("div > h3")
 
 
 
+### 162 - Aplicando Estilos Inline nos Elementos com JavaScript
+
+**Aplicando Estilos Inline nos Elementos com JavaScript**
+
+- Exemplo
+    - javascript_web-31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
