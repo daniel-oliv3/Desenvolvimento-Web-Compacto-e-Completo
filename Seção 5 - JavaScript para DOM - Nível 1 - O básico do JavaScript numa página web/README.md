@@ -666,13 +666,15 @@ el = document.querySelectorAll("div > h3")
 
 
 
+##
+### 163 - Adicionar & Remover Classes de CSS nos Elementos
+##
 
-### 162 - Aplicando Estilos Inline nos Elementos com JavaScript
 
-**Aplicando Estilos Inline nos Elementos com JavaScript**
+**Adicionar & Remover Classes de CSS nos Elementos**
 
 - Exemplo
-    - javascript_web-31
+    - javascript_web-32
 
 
 
