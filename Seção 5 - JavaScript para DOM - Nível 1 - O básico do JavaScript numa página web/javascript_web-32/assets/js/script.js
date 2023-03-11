@@ -1,6 +1,6 @@
 // MANIPULAR CSS ATRAVÉS DE className e classList
 
-let container = document.querySelector('section');
+// let container = document.querySelector('section');
 
 // ver o valor de class na consola
 // console.log(container.className);
@@ -44,16 +44,16 @@ let container = document.querySelector('section');
 // // -----------------------------------
 // // ALTERNAR CLASSES
 // // -----------------------------------
-container.classList.toggle('container');
+// container.classList.toggle('container');
 
 // // -----------------------------------
 // // verificar se uma classe existe no elemento
 // // -----------------------------------
-if(container.classList.contains('container')){
-    console.log('A classe container existe.')
-} else {
-    console.log('A classe container não existe.')
-}
+// if(container.classList.contains('container')){
+//     console.log('A classe container existe.')
+// } else {
+//     console.log('A classe container não existe.')
+// }
 
 
 
