@@ -696,6 +696,100 @@ el = document.querySelectorAll("div > h3")
 
 **Adicionar elementos ao DOM**
 
+```js
+// CRIAR E REMOVER ELEMENTOS HTML
+
+// -----------------------------------------
+// podemos criar elementos com o método document.createElement()
+// nota: estes elementos não são automaticamente adicionados ao DOM
+// -----------------------------------------
+
+
+// // --------------------
+let novo_elemento = document.createElement('p');
+novo_elemento.innerText = 'Texto do parágrafo';
+
+// // adicionar ao body
+document.body.appendChild(novo_elemento);
+
+
+// // --------------------
+// // adicionar conteúdo de texto sem tag
+var conteudo_de_texto = document.createTextNode("Este é um conteúdo de texto sem tag");
+document.body.appendChild(conteudo_de_texto);
+
+
+// // --------------------
+// // adicionar o parágrafo a um dos divs
+let div = document.querySelector('#elemento_1');
+div.appendChild(novo_elemento);
+
+
+// // --------------------
+// // criar um novo div e adicionar o novo parágrafo
+let novo_div = document.createElement('div');
+novo_div.classList.add('elemento');
+novo_div.setAttribute('id', 'elemento_4');
+
+
+let titulo = document.createElement('h1');
+titulo.textContent = 'Título do elemento 4';
+novo_div.appendChild(titulo);
+document.body.appendChild(novo_div);
+
+
+/*script2.js*/
+
+// CRIAR E REMOVER ELEMENTOS HTML
+
+let div1 = document.querySelector("#elemento_2");
+let novo_paragrafo1 = document.createElement('p').textContent = "Texto do novo parágrafo 1";
+
+// // --------------------------
+// // adicionar elemento antes
+div1.before(novo_paragrafo1);
+
+
+// // --------------------------
+// // adicionar no início do elemento
+div1.prepend(novo_paragrafo1);
+
+
+// // --------------------------
+// // adicionar no fim do elemento
+div1.append(novo_paragrafo1);
+
+
+// // --------------------------
+// // adicionar depois do elemento
+div1.after(novo_paragrafo1);
+
+
+
+// // --------------------------
+let div2 = document.querySelector("#elemento_3");
+let novo_paragrafo2 = document.createElement('p').textContent = "Texto do novo parágrafo 2";
+div2.insertAdjacentHTML('beforebegin', novo_paragrafo2);
+div2.insertAdjacentHTML('afterbegin', novo_paragrafo2);
+div2.insertAdjacentHTML('beforeend', novo_paragrafo2);
+div2.insertAdjacentHTML('afterend', novo_paragrafo2);
+
+
+
+// // REMOVER ELEMENTOS DO HTML
+
+// // remover o elemento
+let e = document.querySelector("#elemento_1");
+e.remove();
+
+
+
+// IMPORTANTE:
+// Existem vários outros métodos para adicionar e remover elementos no DOM.
+// Nesta abordagem, ficas já com uma perspetiva geral de alguns métodos para o fazer.
+
+```
+
 - Exemplo
     - javascript_web-34
 
