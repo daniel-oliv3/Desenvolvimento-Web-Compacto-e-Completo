@@ -677,7 +677,15 @@ el = document.querySelectorAll("div > h3")
     - javascript_web-32
 
 
+##
+### 164 - Manipular Atributos dos Elementos
+##
 
+
+**Manipular Atributos dos Elementos**
+
+- Exemplo
+    - javascript_web-33
 
 
 
