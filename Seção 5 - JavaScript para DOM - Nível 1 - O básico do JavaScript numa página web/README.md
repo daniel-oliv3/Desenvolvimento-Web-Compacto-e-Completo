@@ -689,7 +689,15 @@ el = document.querySelectorAll("div > h3")
 
 
 
+##
+### 165 - Adicionar elementos ao DOM
+##
 
+
+**Adicionar elementos ao DOM**
+
+- Exemplo
+    - javascript_web-34
 
 
 
