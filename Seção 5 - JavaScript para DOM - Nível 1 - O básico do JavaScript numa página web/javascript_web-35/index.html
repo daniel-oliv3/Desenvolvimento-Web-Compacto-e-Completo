@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Event Handlers</title>
+	<link rel="stylesheet" href="./assets/css/style.css">
+	<link rel="shortcut icon" href="./assets/img/favicon.ico"/>
+</head>
+<body>
+
+    <!-- <h1 onclick="alert('Titulo')">Texto do título desta página</h1> -->
+    <h1 
+        onclick="alert('Titulo')"
+        oncontextmenu="alert('Botão direito')"
+        onmouseenter="console.log('entrou')"
+        onmousemove="console.log('move')"
+        onmouseleave="console.log('saiu')"
+    >Texto do título desta página</h1>
+
+    <button onclick="funcao()">funcão clique console browser</button>
+    <button onclick="alterar_texto1()">Alterar texto</button>
+
+
+    <button id="1" onclick="alterar_texto2(event)">Alterar texto id</button>
+    <button id="2" onclick="alterar_texto2(event)">Alterar texto id</button>
+    <button id="3" onclick="alterar_texto2(event)">Alterar texto id</button>
+
+
+
+
+
+    <!-- <button onclick="console.log('clique')">Alterar texto</button> -->
+	<!-- <button onclick="function clique(){
+        console.log('clique function')
+    }; clique()">Alterar texto</button> -->
+
+	<!-- ======= JavaScript ======= -->
+	<script src="./assets/js/script.js"></script>
+</body>
+</html>
+
+
+<!--
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas/Brasil
+    15/03/2023
+-->

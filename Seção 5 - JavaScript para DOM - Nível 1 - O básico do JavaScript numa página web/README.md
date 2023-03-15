@@ -797,11 +797,18 @@ e.remove();
 
 
 
+##
+### 166 - Event Handlers
+##
 
 
+**Event Handlers**
 
 
+- Group similar menssages in cosole
 
+- Exemplo
+    - javascript_web-35
 
 
 
