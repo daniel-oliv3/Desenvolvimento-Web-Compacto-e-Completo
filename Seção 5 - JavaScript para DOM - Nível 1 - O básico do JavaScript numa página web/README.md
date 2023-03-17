@@ -812,4 +812,17 @@ e.remove();
 
 
 
+##
+### 167 - Introdução aos Event Listeners
+##
+
+
+**Introdução aos Event Listeners**
+
+
+- Group similar menssages in cosole
+
+- Exemplo
+    - javascript_web-35
+
 
