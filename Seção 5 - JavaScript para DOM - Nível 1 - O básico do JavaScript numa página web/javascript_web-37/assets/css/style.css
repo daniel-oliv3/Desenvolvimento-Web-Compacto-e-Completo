@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.caixa {
+    border: 1px solid gray;
+    background-color: lightgray;
+    color: black;
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px
+}
+
+.cor-fundo-caixa {
+    background-color: aquamarine;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======= Responsive/Responsividade ======= */
+@media (max-width: 991px){
+
+    html {
+        font-size: 55%;
+    }
+
+}
+
+@media (max-width: 768px){
+
+
+}
+
+@media (max-width: 450px){
+
+    html {
+        font-size: 50%;
+    }
+
+}

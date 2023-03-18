@@ -812,6 +812,9 @@ e.remove();
 
 
 
+
+
+
 ##
 ### 167 - Introdução aos Event Listeners
 ##
@@ -820,9 +823,20 @@ e.remove();
 **Introdução aos Event Listeners**
 
 
-- Group similar menssages in cosole
+- Exemplo
+    - javascript_web-36
+
+
+
+
+
+##
+### 168 - Exercícios com Event Listeners - Remover Event Listeners
+##
+
+
+**Exercícios com Event Listeners - Remover Event Listeners**
+
 
 - Exemplo
-    - javascript_web-35
-
-
+    - javascript_web-37
