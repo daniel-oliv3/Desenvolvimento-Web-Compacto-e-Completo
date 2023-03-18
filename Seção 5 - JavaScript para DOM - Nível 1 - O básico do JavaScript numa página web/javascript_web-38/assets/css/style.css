@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+section {
+    margin: 50px auto;
+    width: 50vw;
+    background-color: rgb(50,50,0);
+    padding: 50px;
+}
+
+article {
+    background-color: rgb(80,80,0);
+    padding: 50px;
+}
+
+div {
+    background-color: rgb(100,100,0);
+    padding: 50px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======= Responsive/Responsividade ======= */
+@media (max-width: 991px){
+
+    html {
+        font-size: 55%;
+    }
+
+}
+
+@media (max-width: 768px){
+
+
+}
+
+@media (max-width: 450px){
+
+    html {
+        font-size: 50%;
+    }
+
+}

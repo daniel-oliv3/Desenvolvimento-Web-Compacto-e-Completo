@@ -837,6 +837,39 @@ e.remove();
 
 **Exercícios com Event Listeners - Remover Event Listeners**
 
+```js
+/* 
+OBJETIVO:
+Ao clicar no botão, alterar a cor de fundo da caixa para aquamarine,
+apresentar o texto 'clique' na consola e
+remover o evento click do botão
+*/
+```
+
 
 - Exemplo
     - javascript_web-37
+
+
+
+
+
+##
+### 169 - Exercícios com Event Listeners - Event Propagation
+##
+
+
+**Exercícios com Event Listeners - Event Propagation**
+
+```js
+/* 
+OBJETIVO:
+Adicionar 3 eventos click, um para cada elemento dentro do body 
+cada um vai apresentar um texto único na consola
+e fazer com que sejam independentes uns dos outros.
+(Propagation)
+*/
+```
+
+- Exemplo
+    - javascript_web-38
