@@ -897,6 +897,24 @@ para os 3 elementos e sem propagação de eventos.
 
 
 
+##
+### 171 - Exercícios com Event Listeners -  Caixas com Gradação de Cores
+##
+
+
+**Exercícios com Event Listeners -  Caixas com Gradação de Cores**
+
+```js
+/* 
+OBJETIVO:
+Apresentar 25 caixas em stack vertical
+com gradação de cores vermelho, verde ou azul
+com variação do valor RGB em 10 pontos
+*/
+```
+
+- Exemplo
+    - javascript_web-40
 
 
 
