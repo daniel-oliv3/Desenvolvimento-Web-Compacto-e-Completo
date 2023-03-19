@@ -920,6 +920,25 @@ com variação do valor RGB em 10 pontos
 
 
 
+##
+### 172 - Exercícios com Event Listeners - O Mesmo Exercício, mas Menos Código
+##
+
+
+**Exercícios com Event Listeners - O Mesmo Exercício, mas Menos Código**
+
+```js
+/* 
+OBJETIVO:
+Apresentar 25 caixas em stack vertical
+com gradação de cores vermelho, verde ou azul
+com variação do valor RGB em 10 pontos
+*/
+```
+
+- Exemplo
+    - javascript_web-41
+
 
 
 
