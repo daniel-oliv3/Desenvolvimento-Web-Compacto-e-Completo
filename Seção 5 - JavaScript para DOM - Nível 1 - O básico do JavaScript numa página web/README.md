@@ -944,7 +944,16 @@ com variação do valor RGB em 10 pontos
 
 
 
+##
+### 173 - Impedir a Ação por Padrão de um Evento
+##
 
+
+**Impedir a Ação por Padrão de um Evento**
+
+
+- Exemplo
+    - javascript_web-42
 
 
 
