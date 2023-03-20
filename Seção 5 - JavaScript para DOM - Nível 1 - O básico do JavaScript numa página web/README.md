@@ -1051,7 +1051,38 @@ com variação do valor RGB em 10 pontos
 
 
 
+##
+### 178 - O que Ficou por Dizer?
+##
 
+
+**O que Ficou por Dizer?**
+
+**Entre outras matérias**
+
+- BOM (Browser Object Model)
+- Window, Screen, Localização
+- Histórico, Funções do browser
+- Caixas de diálogo, Timers...
+- Funções matemáticas
+- Trabalhar com Datas e Horas
+- Cookies
+- Validação com Expressões Regulares
+- AJAX
+- JSON
+- Tratamento de erros
+- Promises & Async / Await
+- Utilização de módulos
+- E muito mais...
+
+
+
+
+
+- Sem projeto
+- `Modelo HTML CSS JS` `v1` `v2`
+- Exemplo
+    - javascript_web-47
 
 
 
