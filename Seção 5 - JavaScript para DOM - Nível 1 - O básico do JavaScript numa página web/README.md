@@ -5,6 +5,7 @@
 - Módulo
     - JavaScript na DOM 1
 
+
 ##
 ### 132 - Introdução ao Módulo
 ##
@@ -62,6 +63,7 @@
 
 
 
+
 ##
 ### 133 - Requisitos Necessários
 ##
@@ -77,6 +79,8 @@
 - Sem projeto
 - Exemplo
     - javascript_web-02
+
+
 
 
 ##
@@ -96,6 +100,8 @@
 
 
 
+
+
 ##
 ### 135 - A Sintaxe do JavaScript
 ##
@@ -106,6 +112,8 @@
     - javascript_web-04
 
 
+
+
 ##
 ### 136 - Comentários em JavaScript
 ##
@@ -114,6 +122,7 @@
 
 - Exemplo
     - javascript_web-05
+
 
 
 
@@ -135,6 +144,9 @@
     - javascript_web-06
 
 
+
+
+
 ##
 ### 138 - Apresentando Resultados no Browser
 ##
@@ -143,6 +155,9 @@
 
 - Exemplo
     - javascript_web-07
+
+
+
 
 
 ##
@@ -155,6 +170,9 @@
     - javascript_web-08
 
 
+
+
+
 ##
 ### 140 - O Problema das Variáveis no JavaScript
 ##
@@ -163,6 +181,9 @@
 
 - Exemplo
     - javascript_web-09
+
+
+
 
 
 ##
@@ -175,6 +196,8 @@
     - javascript_web-10
 
 
+
+
 ##
 ### 142 - Strings
 ##
@@ -185,6 +208,8 @@
     - javascript_web-11
 
 
+
+
 ##
 ### 143 - Instruções Condicinal If, Else if, Else
 ##
@@ -193,6 +218,8 @@
 
 - Exemplo
     - javascript_web-12
+
+
 
 
 ##
@@ -236,6 +263,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 
 
+
+
 ##
 ### 145 - Operador Ternário
 ##
@@ -244,6 +273,9 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 - Exemplo
     - javascript_web-14
+
+
+
 
 
 ##
@@ -256,6 +288,9 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-15
 
 
+
+
+
 ##
 ### 147 - Arrays
 ##
@@ -264,6 +299,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 - Exemplo
     - javascript_web-16
+
+
 
 
 
@@ -339,6 +376,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 
 
+
+
 ##
 ### 149 - Métodos para Operar com Arrays - Parte 2
 ##
@@ -383,6 +422,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 - Exemplo
     - javascript_web-18
+
+
 
 
 
@@ -441,6 +482,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-19
 
 
+
+
 ##
 ### 151 - Ciclos, Loops, Iterações
 ##
@@ -451,6 +494,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-20
 
 
+
+
 ##
 ### 152 - Funções
 ##
@@ -459,6 +504,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 - Exemplo
     - javascript_web-21
+
+
 
 
 
@@ -473,6 +520,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 
 
+
+
 ##
 ### 154 - Escopo de Variáveis
 ##
@@ -483,6 +532,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-23
 
 
+
+
 ##
 ### 155 - Objetos
 ##
@@ -491,6 +542,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 - Exemplo
     - javascript_web-24
+
+
 
 
 ##
@@ -522,6 +575,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-25
 
 
+
+
 ##
 ### 157 - Introdução a Navegação na DOM
 ##
@@ -531,6 +586,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 - Exemplo
     - javascript_web-26
+
+
 
 
 
@@ -545,6 +602,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
     - javascript_web-27
 
 
+
+
 ##
 ### 159 - Outros Métodos Get Elements
 ##
@@ -557,6 +616,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 
 
+
+
 ##
 ### 160 - Introdução ao querySelector & querySelectorAll
 ##
@@ -566,6 +627,8 @@ Condição A || Condição B        Verdadeiro se uma for verdadeira
 
 - Exemplo
     - javascript_web-29
+
+
 
 
 
@@ -666,6 +729,8 @@ el = document.querySelectorAll("div > h3")
 
 
 
+
+
 ##
 ### 163 - Adicionar & Remover Classes de CSS nos Elementos
 ##
@@ -677,6 +742,8 @@ el = document.querySelectorAll("div > h3")
     - javascript_web-32
 
 
+
+
 ##
 ### 164 - Manipular Atributos dos Elementos
 ##
@@ -686,6 +753,8 @@ el = document.querySelectorAll("div > h3")
 
 - Exemplo
     - javascript_web-33
+
+
 
 
 
@@ -797,6 +866,8 @@ e.remove();
 
 
 
+
+
 ##
 ### 166 - Event Handlers
 ##
@@ -815,6 +886,8 @@ e.remove();
 
 
 
+
+
 ##
 ### 167 - Introdução aos Event Listeners
 ##
@@ -825,6 +898,8 @@ e.remove();
 
 - Exemplo
     - javascript_web-36
+
+
 
 
 
@@ -854,6 +929,7 @@ remover o evento click do botão
 
 
 
+
 ##
 ### 169 - Exercícios com Event Listeners - Event Propagation
 ##
@@ -873,6 +949,7 @@ e fazer com que sejam independentes uns dos outros.
 
 - Exemplo
     - javascript_web-38
+
 
 
 
@@ -897,6 +974,8 @@ para os 3 elementos e sem propagação de eventos.
 
 
 
+
+
 ##
 ### 171 - Exercícios com Event Listeners -  Caixas com Gradação de Cores
 ##
@@ -915,6 +994,7 @@ com variação do valor RGB em 10 pontos
 
 - Exemplo
     - javascript_web-40
+
 
 
 
@@ -944,6 +1024,7 @@ com variação do valor RGB em 10 pontos
 
 
 
+
 ##
 ### 173 - Impedir a Ação por Padrão de um Evento
 ##
@@ -954,6 +1035,7 @@ com variação do valor RGB em 10 pontos
 
 - Exemplo
     - javascript_web-42
+
 
 
 
