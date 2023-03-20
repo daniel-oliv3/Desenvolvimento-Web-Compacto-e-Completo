@@ -3,9 +3,31 @@
 ##
 
 
-
-
 ### 179 - Introdução ao Módulo
+
+**Qual é o objetivo deste módulo?**
+
+- Vai ser um módulo dinâmico com exercícios de JavaScript
+- Começa com exercícios simples e aumenta a complexidade
+- Principal objetivo: aprender a resolver desafios com JS
+- Este módulo vai crescer regularmente no seu conteúdo
+- Vamos entender como funciona na prática
+
+
+**Exercícios**
+
+```js
+/* ----------------------------------------------------------------------------
+
+Exercício: 001
+Enunciado: CONTADOR
+    
+    A partir do HTML existente, apresentar um valor inicial igual a 0 e definir
+    funcionalidades nos botões de decremento e incremento. Ao clicar em cada
+    um dos botões, o utilizador irá aumentar ou diminuir o valor em uma unidade.
+
+---------------------------------------------------------------------------- */
+```
 
 - Exemplo
     - exercicio_javascript-01
