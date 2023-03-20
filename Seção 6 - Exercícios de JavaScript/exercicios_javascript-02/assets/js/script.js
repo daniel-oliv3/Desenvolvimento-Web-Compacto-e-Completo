@@ -9,6 +9,19 @@ Enunciado: CONTADOR
 
 ---------------------------------------------------------------------------- */
 
+let valor = 0;
+
+const h1_valor = document.querySelector("#valor");
+
+
+document.querySelector("#btn_decremento").addEventListener('click', () => {
+    h1_valor.textContent = --valor;
+});
+
+
+document.querySelector("#btn_incremento").addEventListener('click', () => {
+    h1_valor.textContent = ++valor;
+});
 
 
 
@@ -23,14 +36,12 @@ Enunciado: CONTADOR
 
 
 
-
-
-
-
-
-
-
-
+/* 
+    Autor: Daniel Oliveira
+    Email: danieloliveira.webmaster@gmail.com
+    Manaus/Amazonas/Brasil
+    20/03/2023
+*/
 
 
 
