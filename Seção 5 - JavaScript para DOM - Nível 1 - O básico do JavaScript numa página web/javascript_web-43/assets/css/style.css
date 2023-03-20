@@ -1,0 +1,39 @@
+input, label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.error {
+    color: red;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+/* ======= Responsive/Responsividade ======= */
+@media (max-width: 991px){
+
+    html {
+        font-size: 55%;
+    }
+
+}
+
+@media (max-width: 768px){
+
+
+}
+
+@media (max-width: 450px){
+
+    html {
+        font-size: 50%;
+    }
+
+}
