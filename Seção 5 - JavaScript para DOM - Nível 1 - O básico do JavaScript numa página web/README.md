@@ -957,6 +957,8 @@ com variação do valor RGB em 10 pontos
 
 
 
+
+
 ##
 ### 174 - Introdução a Validação de Formulários
 ##
@@ -970,6 +972,8 @@ com variação do valor RGB em 10 pontos
 
 
 
+
+
 ##
 ### 175 - Melhorar O Sistema de Validação de Formulários, Anterior
 ##
@@ -980,6 +984,9 @@ com variação do valor RGB em 10 pontos
 
 - Exemplo
     - javascript_web-44
+
+
+
 
 
 
@@ -1000,7 +1007,44 @@ com variação do valor RGB em 10 pontos
 
 
 
+##
+### 177 - O que Dizer Acerca do Jquery
+##
 
+
+**O que Dizer Acerca do Jquery**
+
+- O **JQuery** surgiu em janeiro de 2006
+- É uma biblioteca de JavaScript ainda muito usada atualmente
+
+
+**Principais Finalidades**
+
+- Finalidades
+    - Resolução da incompatibilidade entre os navegadores
+    - Redução de código
+    - Reutilização do código através de plugins
+    - Utilização de plugins criados por outros programadores
+    - Trabalhar com **AJAX** e DOM
+    - Implementação segura de recursos do CSS1, CSS2 e CSS3
+
+
+**Ainda faz sentido aprender JQuery?**
+
+- Em minha opinião, não deves investir tempo a esrudar **JQuery**
+- Deves estudar o **JavaScript Puro**
+
+
+
+- Javascript Puro VS JQuery
+    - Site: https://youmightnotneedjquery.com
+
+
+
+- Sem projeto
+- `Modelo HTML CSS JS` `v1` `v2`
+- Exemplo
+    - javascript_web-46
 
 
 
