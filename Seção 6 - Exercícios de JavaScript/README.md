@@ -165,7 +165,7 @@ function set_valor(){
 
 
 
-### 183 - Exercício 004 Três Sliders Com Valores Independentes
+### 183 - Exercício 004 - Três Sliders Com Valores Independentes
 
 **Exercício - 004**
 
