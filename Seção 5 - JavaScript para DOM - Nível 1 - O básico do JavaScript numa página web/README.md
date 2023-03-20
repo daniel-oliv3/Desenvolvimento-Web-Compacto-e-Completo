@@ -983,7 +983,16 @@ com variação do valor RGB em 10 pontos
 
 
 
+##
+### 176 - Detalhes Sobre Carregamento do JavaScript no HEAD do HTML
+##
 
+
+**Detalhes Sobre Carregamento do JavaScript no HEAD do HTML**
+
+
+- Exemplo
+    - javascript_web-45
 
 
 
