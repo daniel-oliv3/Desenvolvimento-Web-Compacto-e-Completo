@@ -16,7 +16,7 @@
 
 
 - Exemplo
-    - exercicio_javascript-01
+    - exercicio_javascript-00
 
 
 
@@ -55,7 +55,7 @@ document.querySelector("#btn_incremento").addEventListener('click', () => {
 ```
 
 - Exemplo
-    - exercicio_javascript-02
+    - exercicio_javascript-01
 
 
 
@@ -67,18 +67,16 @@ document.querySelector("#btn_incremento").addEventListener('click', () => {
 ```js
 /* ----------------------------------------------------------------------------
 
-Exercício: 003
-Enunciado: CONTADOR COM CORES PARA NEGATIVOS, ZERO E POSITIVOS
+Exercício: 002
+Enunciado: CONTADOR COM INTERVALO DE VALORES
     
     A partir do HTML existente, apresentar um valor inicial igual a 0 e definir
     funcionalidades nos botões de decremento e incremento.
-    No caso do valor ser zero o texto deve ser branco.
-    No caso do valor ser negativo o texto deve ser vermelho puro.
-    No caso do valor ser positivo o texto deve ser verde puro.
+    O valor nunca poderá ser inferior a -10 ou superior a 10.
 
 ---------------------------------------------------------------------------- */
 ```
 
 
 - Exemplo
-    - exercicio_javascript-03
+    - exercicio_javascript-02
