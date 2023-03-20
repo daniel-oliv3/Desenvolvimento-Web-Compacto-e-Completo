@@ -14,7 +14,17 @@
 - Vamos entender como funciona na prática
 
 
-**Exercícios**
+
+- Exemplo
+    - exercicio_javascript-01
+
+
+
+
+### 180 - Exercício 001 - Contador
+
+
+**Exercício - 001**
 
 ```js
 /* ----------------------------------------------------------------------------
@@ -30,4 +40,5 @@ Enunciado: CONTADOR
 ```
 
 - Exemplo
-    - exercicio_javascript-01
+    - exercicio_javascript-02
+
