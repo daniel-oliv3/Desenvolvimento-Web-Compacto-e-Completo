@@ -216,10 +216,13 @@ range_3.addEventListener('input', (event) => {
 
 
 
+### 184 - Exercício 005 - Três Slides com Valores Independentes - Versão Código Reduzido
 
 
+**Exercício - 005**
 
-
+- Exemplo
+    - exercicio_javascript-05
 
 
 
