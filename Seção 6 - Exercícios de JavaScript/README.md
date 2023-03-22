@@ -216,10 +216,32 @@ range_3.addEventListener('input', (event) => {
 
 
 
-### 184 - Exercício 005 - Três Slides com Valores Independentes - Versão Código Reduzido
+### 184 - Exercício 005 - Três Sliders com Valores Independentes - Versão Código Reduzido
 
 
 **Exercício - 005**
+
+```js
+/* ----------------------------------------------------------------------------
+
+Exercício: 005
+Enunciado: TRÊS SLIDERS COM VALORES INDEPENDENTES - VERSÃO CÓDIGO REDUZIDO
+    
+    O exercício anterior, mas com quantidade de código JS reduzida.
+
+---------------------------------------------------------------------------- */
+
+for(let r = 1; r <= 3; r++){
+    let el = document.querySelector("#range_" + r);
+    el.setAttribute('min', 0);
+    el.setAttribute('max', 100);
+    el.value = 0;
+    el.addEventListener('input', (e) => {
+        document.querySelector("#value_" + r).textContent = e.target.value;
+    });
+}
+
+```
 
 - Exemplo
     - exercicio_javascript-05
@@ -228,11 +250,44 @@ range_3.addEventListener('input', (event) => {
 
 
 
+### 185 - Exercício 006 - Três Botões & Três Áreas de Informação
 
+**Exercício - 006**
 
+```js
+/* ----------------------------------------------------------------------------
 
+Exercício: 006
+Enunciado:
+    Existem 3 botões no layout. Cada botão está associado a uma área de
+    informação. O objetivo é criar a lógica que permite apresentar cada
+    uma das áreas de acordo com o botão clicado.
+    A área de informação um deve estar visível por padrão.
 
+    NOTA: quando uma área é apresentada, as outras devem ficar escondidas
+---------------------------------------------------------------------------- */
 
+function hide_all(){
+    document.querySelectorAll('[id^="info"]').forEach((el) => { el.classList.add("d-none") });
+}
+
+function show_tab(id){
+    document.querySelector("#info" + id).classList.remove("d-none");
+}
+
+document.querySelectorAll('[id^="tab"]').forEach((btn) => {
+    btn.addEventListener('click', (btn) => {
+        hide_all();
+        show_tab(btn.target.id.substring(3));
+    });
+});
+
+hide_all();
+show_tab();
+```
+
+- Exemplo
+    - exercicio_javascript-05
 
 
 
