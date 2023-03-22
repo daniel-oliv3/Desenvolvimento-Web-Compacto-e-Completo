@@ -340,7 +340,13 @@ Enunciado:
     um dos botões altere o texto acima para a cor de fundo do botão.
 ---------------------------------------------------------------------------- */
 
-
+const cores = ['primary', 'info', 'success', 'danger', 'warning'];
+document.querySelectorAll('[id^="btn"]').forEach((btn) => {
+    btn.addEventListener('click', (btn) => {
+        let index = btn.target.id.substring(3, 4) -1;
+        document.querySelector("h3").className = "text-" + cores[index];
+    });
+});
 ```
 
 - Exemplo
