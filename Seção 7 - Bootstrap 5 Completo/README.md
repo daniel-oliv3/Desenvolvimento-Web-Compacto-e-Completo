@@ -76,18 +76,40 @@
 **Bootstrap**
 
 - CSS only
-    src: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css
+    - src: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css
 - JavaScript Bundle with Popper
-    src: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js
+    - src: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js
 
 - Exemplo
     - bootstrap_web-03
 
 
 
+### 194 - Adicionar o Bootstrap Via CDN
 
 
+**Bootstrap**
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+
+```html
+<!-- CSS only -->
+<!-- Header  -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+<!-- /Header  -->
+```
+
+
+```html
+<!-- JavaScript Bundle with Popper -->
+<!-- Body  -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+<!-- /Body  -->
+```
+
+- Exemplo
+    - bootstrap_web-04
 
 
 
