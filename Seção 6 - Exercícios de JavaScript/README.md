@@ -427,11 +427,25 @@ function all_red(){
 
 
 
+### 190 - Exercício 011 - Uma Espécie de "Jogo do Galo" Apenas Visual
 
+**Exercício - 011**
 
+```js
+/* ----------------------------------------------------------------------------
 
+Exercício: 011
+Enunciado:
+    A grelha inicial contém dezasseis imgs sem souce.
+    Quando clicamos numa das imgs, vamos apresentar o símbolo X (imagem)
+    No clique seguinte, que só pode acontecer numa img que não tenha símbolo,
+    vamos apresentar o símbolo 'O'.
+---------------------------------------------------------------------------- */
 
+```
 
+- Exemplo
+    - exercicio_javascript-11
 
 
 
