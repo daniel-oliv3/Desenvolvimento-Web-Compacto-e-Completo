@@ -16,7 +16,7 @@
 ### 191 - Introdução ao Módulo
 
 
-- Com o **Bootstrap**, o teu trabalho de escrita de **css** fica muito mais fácil
+- Com o **Bootstrap**, o teu trabalho de escrita de **CSS** fica muito mais fácil
 
 **O que é o Bootstrap?**
 
