@@ -71,7 +71,17 @@
 
 
 
+### 193 - Exemplo Muito Simples de Página com Bootstrap
 
+**Bootstrap**
+
+- CSS only
+    src: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css
+- JavaScript Bundle with Popper
+    src: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js
+
+- Exemplo
+    - bootstrap_web-03
 
 
 
