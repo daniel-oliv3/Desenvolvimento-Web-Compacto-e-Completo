@@ -1,0 +1,35 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 20px;
+    background: rgb(100,100,100);
+}
+
+
+
+
+
+
+
+/* ======= Responsive/Responsividade ======= */
+@media (max-width: 991px){
+
+    html {
+        font-size: 55%;
+    }
+
+}
+
+@media (max-width: 768px){
+
+
+}
+
+@media (max-width: 450px){
+
+    html {
+        font-size: 50%;
+    }
+
+}
