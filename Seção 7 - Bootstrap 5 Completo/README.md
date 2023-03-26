@@ -163,13 +163,13 @@
 - Um **breakpoint** é um valor de largura que determina como o layout se vai aadaptar em diferentes dispositivos
 
 <p align="center">
-  <img alt="...." src="../Seção 7 - Bootstrap 5 Completo/assets/breakpoints.jpg" width="50%">
+  <img alt="...." src="../Seção 7 - Bootstrap 5 Completo/assets/breakpoints.jpg" width="70%">
 </p>
 
 **Breakpoints do Bootstrap 5**
 
 <p align="center">
-  <img alt="...." src="../Seção 7 - Bootstrap 5 Completo/assets/breakpoints-bootstrap5.jpg" width="50%">
+  <img alt="...." src="../Seção 7 - Bootstrap 5 Completo/assets/breakpoints-bootstrap5.jpg" width="100%">
 </p>
 
 
