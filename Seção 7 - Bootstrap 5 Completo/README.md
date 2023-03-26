@@ -160,7 +160,7 @@
 
 **O que é um Breakpoint?**
 
-- Um **breakpoint** é um valor de largura que determina como o layout se vai aadaptar em diferentes dispositivos
+- Um **breakpoint** é um valor de largura que determina como o layout se vai adaptar em diferentes dispositivos
 
 <p align="center">
   <img alt="...." src="../Seção 7 - Bootstrap 5 Completo/assets/breakpoints.jpg" width="70%">
@@ -173,7 +173,7 @@
 </p>
 
 
-- Sem projeto `Modelo Básico Bootstrap`
+- Sem projeto `Modelo Bootstrap`
 - Exemplo
     - bootstrap_web-07
 
@@ -181,10 +181,39 @@
 
 
 
+### 198 - Containers, Rows e Columns
 
 
 
+- Containers
+    - Site: https://getbootstrap.com/docs/5.3/layout/containers/
 
+
+**Emmet abbreviation**
+- Teclas de atalho VSCode
+
+- Exemplo 1
+```html
+<!-- comando/atalho
+
+    .container>.row>.col
+
+-->
+
+<!-- Resultado -->
+<div class="container">
+	<div class="row">
+		<div class="col">
+            A
+        </div>
+	</div>
+</div>
+```
+
+
+- Projeto `Base` via CDN ...
+- Exemplo
+    - bootstrap_web-08
 
 
 
