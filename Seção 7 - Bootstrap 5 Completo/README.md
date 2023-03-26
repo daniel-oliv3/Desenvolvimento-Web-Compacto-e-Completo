@@ -127,7 +127,30 @@
     - bootstrap_web-05
 
 
+### 196 - Solução para os Warnings dos Ficheiros Map
 
+- 1 Solução
+    - Adicionar o arquivo `bootstrap.min.css.map` na pasta `bootstrap` do projeto
+    - Adicionar o arquivo `bootstrap.bundle.min.js.map` na pasta `bootstrap` do projeto
+    
+- 2 Solução. (Utilizando a segunda solução)
+    - Apagar o bloco de comentário do arquivo `bootstrap.min.css`
+    - Apagar o bloco de comentário do arquivo `bootstrap.bundle.min.js`
+
+
+- bootstrap.min.css    
+```js
+/*# sourceMappingURL=bootstrap.min.css.map */
+```
+
+- bootstrap.bundle.min.js
+```js
+
+//# sourceMappingURL=bootstrap.bundle.min.js.map
+```
+
+- Exemplo
+    - bootstrap_web-06
 
 
 
