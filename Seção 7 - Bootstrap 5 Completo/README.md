@@ -203,9 +203,7 @@
 <!-- Resultado -->
 <div class="container">
 	<div class="row">
-		<div class="col">
-            A
-        </div>
+		<div class="col"></div>
 	</div>
 </div>
 ```
