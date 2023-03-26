@@ -129,10 +129,11 @@
 
 ### 196 - Solução para os Warnings dos Ficheiros Map
 
+
 - 1 Solução
     - Adicionar o arquivo `bootstrap.min.css.map` na pasta `bootstrap` do projeto
     - Adicionar o arquivo `bootstrap.bundle.min.js.map` na pasta `bootstrap` do projeto
-    
+
 - 2 Solução. (Utilizando a segunda solução)
     - Apagar o bloco de comentário do arquivo `bootstrap.min.css`
     - Apagar o bloco de comentário do arquivo `bootstrap.bundle.min.js`
