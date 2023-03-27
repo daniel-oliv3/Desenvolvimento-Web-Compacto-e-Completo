@@ -1,8 +1,14 @@
-/*não esta sendo utilizado*/
-
-
-.row {
-    background-color: rgb(138, 182, 182);
-    font-weight: bold;
+div {
+    box-shadow: inset 0 0 1px black;
+    background-color: rgb(176, 219, 220);
 }
 
+div[class^="container"]{
+    box-shadow: inset 0 0 1px blue;
+    background-color: transparent;
+}
+
+div[class^="row"]{
+    box-shadow: inset 0 0 1px red;
+    background-color: bisque;
+}
