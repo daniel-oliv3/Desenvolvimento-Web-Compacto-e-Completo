@@ -224,11 +224,33 @@
 
 
 
+### 199 - Columns com Sufixos
 
 
+**Emmet abbreviation**
+- Teclas de atalho VSCode
+
+- Exemplo 1
+```html
+<!-- comando/atalho
+
+    .container>.row>(.col)*3
+
+-->
+
+<!-- Resultado -->
+<div class="container">
+		<div class="row">
+		<div class="col"></div>
+		<div class="col"></div>
+		<div class="col"></div>
+	</div>
+</div>
+```
 
 
-
+- Exemplo
+    - bootstrap_web-09
 
 
 
