@@ -294,13 +294,13 @@
 <div class="container">
 	<div class="row">
 		<div class="container">
-				<div class="row">
+			<div class="row">
 				<div class="col"><h1></h1></div>
-				<div class="col"><h1></h1></div>
-				<div class="col"><h1></h1></div>
-				<div class="col"><h1></h1></div>
-			</div>
-		</div>
+    			<div class="col"><h1></h1></div>
+	    		<div class="col"><h1></h1></div>
+		    	<div class="col"><h1></h1></div>
+		    </div>
+	    </div>
 	</div>
 </div>
 ```
@@ -308,3 +308,47 @@
 
 - Exemplo
     - bootstrap_web-10
+
+
+
+
+### 201 - Exercício Prático
+
+<p align="center">
+  <img alt="...." src="../Seção 7 - Bootstrap 5 Completo/assets/exercicio01.jpg" width="60%">
+</p>
+
+- Exemplo
+    - bootstrap_web-10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
