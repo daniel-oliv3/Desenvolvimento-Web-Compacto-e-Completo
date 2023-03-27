@@ -279,5 +279,32 @@
 ```
 
 
+**Emmet abbreviation**
+- Teclas de atalho VSCode
+
+- Exemplo 4
+```html
+<!-- comando/atalho
+
+    .container>.row>.container>.row>(.col>h1)*4
+
+-->
+
+<!-- Resultado -->
+<div class="container">
+	<div class="row">
+		<div class="container">
+				<div class="row">
+				<div class="col"><h1></h1></div>
+				<div class="col"><h1></h1></div>
+				<div class="col"><h1></h1></div>
+				<div class="col"><h1></h1></div>
+			</div>
+		</div>
+	</div>
+</div>
+```
+
+
 - Exemplo
     - bootstrap_web-10
