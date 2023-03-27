@@ -230,7 +230,7 @@
 **Emmet abbreviation**
 - Teclas de atalho VSCode
 
-- Exemplo 1
+- Exemplo 2
 ```html
 <!-- comando/atalho
 
@@ -255,4 +255,29 @@
 
 
 
+### 200 - Colunas Responsivas
 
+
+**Emmet abbreviation**
+- Teclas de atalho VSCode
+
+- Exemplo 3
+```html
+<!-- comando/atalho
+
+    .container>.row>(.col)*2
+
+-->
+
+<!-- Resultado -->
+<div class="container">
+		<div class="row">
+		<div class="col"></div>
+		<div class="col"></div>
+	</div>
+</div>
+```
+
+
+- Exemplo
+    - bootstrap_web-10
