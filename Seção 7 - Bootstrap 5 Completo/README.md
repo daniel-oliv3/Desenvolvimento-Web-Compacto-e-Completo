@@ -201,11 +201,11 @@
 -->
 
 <!-- Resultado -->
-<div class="container">
-	<div class="row">
-		<div class="col"></div>
-	</div>
-</div>
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
 ```
 
 
@@ -239,13 +239,13 @@
 -->
 
 <!-- Resultado -->
-<div class="container">
-		<div class="row">
-		<div class="col"></div>
-		<div class="col"></div>
-		<div class="col"></div>
-	</div>
-</div>
+    <div class="container">
+            <div class="row">
+            <div class="col"></div>
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+    </div>
 ```
 
 
@@ -270,12 +270,12 @@
 -->
 
 <!-- Resultado -->
-<div class="container">
-		<div class="row">
-		<div class="col"></div>
-		<div class="col"></div>
-	</div>
-</div>
+    <div class="container">
+            <div class="row">
+            <div class="col"></div>
+            <div class="col"></div>
+        </div>
+    </div>
 ```
 
 
