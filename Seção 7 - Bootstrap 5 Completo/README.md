@@ -435,7 +435,13 @@
 
 
 
+### 208 - Definir Alinhamento Vertical das Columns Individualmente
 
+
+
+
+- Exemplo
+    - bootstrap_web-18
 
 
 
