@@ -387,11 +387,16 @@
 
 
 
+### 204 - Column Offsets
 
 
+<p align="center">
+  <img alt="...." src="../Seção 7 - Bootstrap 5 Completo/assets/014a.jpg" width="80%">
+</p>
 
 
-
+- Exemplo
+    - bootstrap_web-14
 
 
 
