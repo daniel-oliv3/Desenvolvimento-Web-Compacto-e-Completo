@@ -358,6 +358,26 @@
 </p>
 
 
+**Emmet abbreviation**
+- Teclas de atalho VSCode
+
+- Exemplo 5
+```html
+<!-- comando/atalho
+
+    .container>.row>(.col>h1)*2
+
+-->
+
+<!-- Resultado -->
+    <div class="container">
+        <div class="row">
+            <div class="col"><h1></h1></div>
+            <div class="col"><h1></h1></div>
+        </div>
+    </div> 
+```
+
 - Exemplo
     - bootstrap_web-13
 
