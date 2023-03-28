@@ -319,14 +319,33 @@
 </p>
 
 - Exemplo
-    - bootstrap_web-10
+    - bootstrap_web-11
 
 
 
+### 202 - Definir Número de Colunas com Row-Cols
 
+**Emmet abbreviation**
+- Teclas de atalho VSCode
 
+- Exemplo 5
+```html
+<!-- comando/atalho
 
+    .container>.row>.col>h1
 
+-->
+
+<!-- Resultado -->
+    <div class="container">
+		<div class="row">
+			<div class="col"><h1></h1></div>
+		</div>
+	</div>
+```
+
+- Exemplo
+    - bootstrap_web-12
 
 
 
