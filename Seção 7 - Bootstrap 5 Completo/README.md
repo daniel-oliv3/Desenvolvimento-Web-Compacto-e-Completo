@@ -446,7 +446,19 @@
 
 
 
+### 209 - Introdução as Classes de Espaçamento - Margin e Padding
 
+**Bootstrap**
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Utilities: https://getbootstrap.com/docs/5.3/layout/utilities/
+    - Spacing: https://getbootstrap.com/docs/5.3/utilities/spacing/
+
+- .container>.row>(.col-12>h1)*2
+
+- Exemplo
+    - bootstrap_web-19
 
 
 
