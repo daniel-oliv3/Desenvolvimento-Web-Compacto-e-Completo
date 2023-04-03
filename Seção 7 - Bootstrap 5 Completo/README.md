@@ -13,7 +13,7 @@
     - Site: https://getbootstrap.com/
 
 
-### 191 - Introdução ao Módulo
+### 198 - Introdução ao Módulo
 
 
 - Com o **Bootstrap**, o teu trabalho de escrita de **CSS** fica muito mais fácil
@@ -56,7 +56,7 @@
 
 
 
-### 192 - Visitar ao Site do Bootstrap
+### 199 - Visitar ao Site do Bootstrap
 
 **Bootstrap**
 
@@ -71,7 +71,7 @@
 
 
 
-### 193 - Exemplo Muito Simples de Página com Bootstrap
+### 200 - Exemplo Muito Simples de Página com Bootstrap
 
 **Bootstrap**
 
@@ -85,7 +85,7 @@
 
 
 
-### 194 - Adicionar o Bootstrap Via CDN
+### 201 - Adicionar o Bootstrap Via CDN
 
 
 **Bootstrap**
@@ -114,7 +114,7 @@
 
 
 
-### 195 - Adicionar o Bootstrap Fazendo Downloads dos Ficheiros
+### 202 - Adicionar o Bootstrap Fazendo Downloads dos Ficheiros
 
 
 **Bootstrap**
@@ -127,7 +127,7 @@
     - bootstrap_web-05
 
 
-### 196 - Solução para os Warnings dos Ficheiros Map
+### 203 - Solução para os Warnings dos Ficheiros Map
 
 
 - 1 Solução
@@ -156,7 +156,7 @@
 
 
 
-### 197 - Entendendo o que são Breakpoints
+### 204 - Entendendo o que são Breakpoints
 
 **O que é um Breakpoint?**
 
@@ -181,7 +181,7 @@
 
 
 
-### 198 - Containers, Rows e Columns
+### 205 - Containers, Rows e Columns
 
 
 
@@ -224,7 +224,7 @@
 
 
 
-### 199 - Columns com Sufixos
+### 206 - Columns com Sufixos
 
 
 **Emmet abbreviation**
@@ -255,7 +255,7 @@
 
 
 
-### 200 - Colunas Responsivas
+### 207 - Colunas Responsivas
 
 
 **Emmet abbreviation**
@@ -312,7 +312,7 @@
 
 
 
-### 201 - Exercício Prático
+### 208 - Exercício Prático
 
 <p align="center">
   <img alt="...." src="../Seção 7 - Bootstrap 5 Completo/assets/exercicio01.jpg" width="80%">
@@ -323,7 +323,7 @@
 
 
 
-### 202 - Definir Número de Colunas com Row-Cols
+### 209 - Definir Número de Colunas com Row-Cols
 
 **Emmet abbreviation**
 - Teclas de atalho VSCode
@@ -350,7 +350,7 @@
 
 
 
-### 203 - Aninhamento de Rows dentro de Cols 
+### 210 - Aninhamento de Rows dentro de Cols 
 
 
 <p align="center">
@@ -387,7 +387,7 @@
 
 
 
-### 204 - Column Offsets
+### 211 - Column Offsets
 
 
 <p align="center">
@@ -401,7 +401,7 @@
 
 
 
-### 205 - Alinhamento Horizontal de Columns
+### 212 - Alinhamento Horizontal de Columns
 
 
 
@@ -413,7 +413,7 @@
 
 
 
-### 206 - Alinhamento Vertical de Columns
+### 213 - Alinhamento Vertical de Columns
 
 
 
@@ -424,7 +424,7 @@
 
 
 
-### 207 - Alterar a Ordem das Columns
+### 214 - Alterar a Ordem das Columns
 
 
 
@@ -435,7 +435,7 @@
 
 
 
-### 208 - Definir Alinhamento Vertical das Columns Individualmente
+### 215 - Definir Alinhamento Vertical das Columns Individualmente
 
 
 
@@ -446,7 +446,7 @@
 
 
 
-### 209 - Introdução as Classes de Espaçamento - Margin e Padding
+### 216 - Introdução as Classes de Espaçamento - Margin e Padding
 
 **Bootstrap**
 
@@ -462,10 +462,11 @@
 
 
 
+### 217 - Gutters na Grelha de Layout
 
 
-
-
+- Exemplo
+    - bootstrap_web-20
 
 
 
