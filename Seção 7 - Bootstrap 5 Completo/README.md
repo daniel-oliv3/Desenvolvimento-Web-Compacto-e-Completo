@@ -472,7 +472,14 @@
     - bootstrap_web-20
 
 
+### 218 - Sobre o CSS Grid no Bootstrap 5
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - CSS Grid: https://getbootstrap.com/docs/5.3/layout/css-grid/
+
+- Exemplo
+    - bootstrap_web-21
 
 
 
