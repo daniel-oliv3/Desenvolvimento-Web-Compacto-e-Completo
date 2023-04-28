@@ -482,9 +482,14 @@
     - bootstrap_web-21
 
 
+### 219 - Tipografia e Análise da Documentação
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Typography: https://getbootstrap.com/docs/5.3/content/typography/
 
-
+- Exemplo
+    - bootstrap_web-21
 
 
 
