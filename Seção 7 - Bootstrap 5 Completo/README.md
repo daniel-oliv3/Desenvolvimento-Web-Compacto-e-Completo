@@ -489,10 +489,17 @@
     - Typography: https://getbootstrap.com/docs/5.3/content/typography/
 
 - Exemplo
-    - bootstrap_web-21
+    - bootstrap_web-22
 
 
+### 220 - Imagens Responsivas com img-fluid
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Images: https://getbootstrap.com/docs/5.3/content/images/
+
+- Exemplo
+    - bootstrap_web-23
 
 
 
