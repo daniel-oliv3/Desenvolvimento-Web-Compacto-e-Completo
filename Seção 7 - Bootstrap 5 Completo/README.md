@@ -532,7 +532,6 @@
 
 - Bootstrap
     - Site: https://getbootstrap.com/
-    - Tables: https://getbootstrap.com/docs/5.3/content/tables/
 
 - Exemplo
     - bootstrap_web-26
