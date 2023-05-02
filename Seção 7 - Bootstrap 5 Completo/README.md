@@ -13,7 +13,7 @@
     - Site: https://getbootstrap.com/
 
 
-### 198 - Introdução ao Módulo
+### 210 - Introdução ao Módulo
 
 
 - Com o **Bootstrap**, o teu trabalho de escrita de **CSS** fica muito mais fácil
@@ -56,7 +56,7 @@
 
 
 
-### 199 - Visitar ao Site do Bootstrap
+### 211 - Visitar ao Site do Bootstrap
 
 **Bootstrap**
 
@@ -71,7 +71,7 @@
 
 
 
-### 200 - Exemplo Muito Simples de Página com Bootstrap
+### 212 - Exemplo Muito Simples de Página com Bootstrap
 
 **Bootstrap**
 
@@ -85,7 +85,7 @@
 
 
 
-### 201 - Adicionar o Bootstrap Via CDN
+### 213 - Adicionar o Bootstrap Via CDN
 
 
 **Bootstrap**
@@ -114,7 +114,7 @@
 
 
 
-### 202 - Adicionar o Bootstrap Fazendo Downloads dos Ficheiros
+### 214 - Adicionar o Bootstrap Fazendo Downloads dos Ficheiros
 
 
 **Bootstrap**
@@ -127,7 +127,7 @@
     - bootstrap_web-05
 
 
-### 203 - Solução para os Warnings dos Ficheiros Map
+### 215 - Solução para os Warnings dos Ficheiros Map
 
 
 - 1 Solução
@@ -156,7 +156,7 @@
 
 
 
-### 204 - Entendendo o que são Breakpoints
+### 216 - Entendendo o que são Breakpoints
 
 **O que é um Breakpoint?**
 
@@ -181,7 +181,7 @@
 
 
 
-### 205 - Containers, Rows e Columns
+### 217 - Containers, Rows e Columns
 
 
 
@@ -224,7 +224,7 @@
 
 
 
-### 206 - Columns com Sufixos
+### 218 - Columns com Sufixos
 
 
 **Emmet abbreviation**
@@ -255,7 +255,7 @@
 
 
 
-### 207 - Colunas Responsivas
+### 219 - Colunas Responsivas
 
 
 **Emmet abbreviation**
@@ -312,7 +312,7 @@
 
 
 
-### 208 - Exercício Prático
+### 220 - Exercício Prático
 
 <p align="center">
   <img alt="...." src="../Seção 7 - Bootstrap 5 Completo/assets/exercicio01.jpg" width="80%">
@@ -323,7 +323,7 @@
 
 
 
-### 209 - Definir Número de Colunas com Row-Cols
+### 221 - Definir Número de Colunas com Row-Cols
 
 **Emmet abbreviation**
 - Teclas de atalho VSCode
@@ -350,7 +350,7 @@
 
 
 
-### 210 - Aninhamento de Rows dentro de Cols 
+### 222 - Aninhamento de Rows dentro de Cols 
 
 
 <p align="center">
@@ -387,7 +387,7 @@
 
 
 
-### 211 - Column Offsets
+### 223 - Column Offsets
 
 
 <p align="center">
@@ -401,7 +401,7 @@
 
 
 
-### 212 - Alinhamento Horizontal de Columns
+### 224 - Alinhamento Horizontal de Columns
 
 
 
@@ -413,7 +413,7 @@
 
 
 
-### 213 - Alinhamento Vertical de Columns
+### 225 - Alinhamento Vertical de Columns
 
 
 
@@ -424,7 +424,7 @@
 
 
 
-### 214 - Alterar a Ordem das Columns
+### 226 - Alterar a Ordem das Columns
 
 
 
@@ -435,7 +435,7 @@
 
 
 
-### 215 - Definir Alinhamento Vertical das Columns Individualmente
+### 227 - Definir Alinhamento Vertical das Columns Individualmente
 
 
 
@@ -446,7 +446,7 @@
 
 
 
-### 216 - Introdução as Classes de Espaçamento - Margin e Padding
+### 228 - Introdução as Classes de Espaçamento - Margin e Padding
 
 **Bootstrap**
 
@@ -462,7 +462,7 @@
 
 
 
-### 217 - Gutters na Grelha de Layout
+### 229 - Gutters na Grelha de Layout
 
 - Bootstrap
     - Site: https://getbootstrap.com/
@@ -472,7 +472,7 @@
     - bootstrap_web-20
 
 
-### 218 - Sobre o CSS Grid no Bootstrap 5
+### 230 - Sobre o CSS Grid no Bootstrap 5
 
 - Bootstrap
     - Site: https://getbootstrap.com/
@@ -482,7 +482,7 @@
     - bootstrap_web-21
 
 
-### 219 - Tipografia e Análise da Documentação
+### 231 - Tipografia e Análise da Documentação
 
 - Bootstrap
     - Site: https://getbootstrap.com/
@@ -492,7 +492,7 @@
     - bootstrap_web-22
 
 
-### 220 - Imagens Responsivas com img-fluid
+### 232 - Imagens Responsivas com img-fluid
 
 - Bootstrap
     - Site: https://getbootstrap.com/
@@ -502,7 +502,7 @@
     - bootstrap_web-23
 
 
-### 221 - Breve Referência as Cores no Bootstrap
+### 233 - Breve Referência as Cores no Bootstrap
 
 - Bootstrap
     - Site: https://getbootstrap.com/
@@ -514,10 +514,7 @@
 
 
 
-
-
-
-### 222 - Formatação de Tabelas de HTML
+### 234 - Formatação de Tabelas de HTML
 
 - Bootstrap
     - Site: https://getbootstrap.com/
@@ -528,7 +525,7 @@
 
 
 
-### 223 - Alinhamento do Conteúdo Dentro de Uma Tabela
+### 235 - Alinhamento do Conteúdo Dentro de Uma Tabela
 
 - Bootstrap
     - Site: https://getbootstrap.com/
@@ -538,6 +535,14 @@
 
 
 
+### 236 - Introdução aos Formulários com Bootstrap
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Forms: https://getbootstrap.com/docs/5.3/forms/overview/
+
+- Exemplo
+    - bootstrap_web-27
 
 
 
