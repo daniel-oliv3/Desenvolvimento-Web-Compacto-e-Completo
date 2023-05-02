@@ -361,7 +361,7 @@
 **Emmet abbreviation**
 - Teclas de atalho VSCode
 
-- Exemplo 5
+- Exemplo 6
 ```html
 <!-- comando/atalho
 
@@ -545,7 +545,34 @@
     - bootstrap_web-27
 
 
+### 237 - Form-Control - Parte 1
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Form-Control: https://getbootstrap.com/docs/5.3/forms/form-control/#example
+
+**Emmet abbreviation**
+- Teclas de atalho VSCode
+
+- Exemplo 7
+```html
+<!-- comando/atalho
+
+    .row>(.col)*3
+
+-->
+
+<!-- Resultado -->
+<div class="row">
+    <div class="col"></div>
+    <div class="col"></div>
+    <div class="col"></div>
+</div>
+```
+
+
+- Exemplo
+    - bootstrap_web-28
 
 
 
