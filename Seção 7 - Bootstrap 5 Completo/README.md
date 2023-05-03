@@ -598,7 +598,10 @@
     - bootstrap_web-31
 
 
+### 241 - Checkboxes, Radio Buttons e Switchs
 
+- Exemplo
+    - bootstrap_web-32
 
 
 
