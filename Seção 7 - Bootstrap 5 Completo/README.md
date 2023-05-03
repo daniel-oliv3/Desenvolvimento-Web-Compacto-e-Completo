@@ -605,7 +605,14 @@
 
 
 
+### 242 - Inputs Groups & Como Usar a Documentação Corretamente
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Input-Group: https://getbootstrap.com/docs/5.3/forms/input-group/
+
+- Exemplo
+    - bootstrap_web-33
 
 
 
