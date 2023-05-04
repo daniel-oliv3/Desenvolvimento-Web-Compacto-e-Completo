@@ -643,7 +643,14 @@
     - bootstrap_web-36
 
 
+### 246 - Alerts
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Alerts: https://getbootstrap.com/docs/5.3/components/alerts/
+
+- Exemplo
+    - bootstrap_web-37
 
 
 
