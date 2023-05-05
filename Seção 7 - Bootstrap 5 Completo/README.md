@@ -653,7 +653,14 @@
     - bootstrap_web-37
 
 
+### 247 - Badges
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Badges: https://getbootstrap.com/docs/5.3/components/badge/
+
+- Exemplo
+    - bootstrap_web-38
 
 
 
