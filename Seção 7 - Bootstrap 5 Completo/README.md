@@ -722,10 +722,15 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 
 
+### 251 - Collapse
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Tooltips: https://getbootstrap.com/docs/5.3/components/collapse/
 
 
-
-
+- Exemplo
+    - bootstrap_web-42
 
 
 
