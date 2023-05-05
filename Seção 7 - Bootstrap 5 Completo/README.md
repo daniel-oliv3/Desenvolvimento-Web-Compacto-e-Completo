@@ -663,6 +663,14 @@
     - bootstrap_web-38
 
 
+### 248 - Cards
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Cards: https://getbootstrap.com/docs/5.3/components/card/
+
+- Exemplo
+    - bootstrap_web-39
 
 
 
