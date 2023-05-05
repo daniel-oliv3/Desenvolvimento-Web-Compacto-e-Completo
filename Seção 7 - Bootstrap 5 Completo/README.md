@@ -700,10 +700,24 @@ const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstra
 
 
 
+### 250 - Tooltips
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Tooltips: https://getbootstrap.com/docs/5.3/components/tooltips/
 
+**Tooltips**
 
+- Ex
+```js
+//script.js
 
+const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+```
+
+- Exemplo
+    - bootstrap_web-41
 
 
 
