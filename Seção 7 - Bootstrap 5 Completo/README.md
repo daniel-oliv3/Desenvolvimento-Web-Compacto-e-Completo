@@ -629,6 +629,7 @@
 
 - Bootstrap
     - Site: https://getbootstrap.com/
+    - Layout and Form: https://getbootstrap.com/docs/5.3/forms/layout/
 
 - Exemplo
     - bootstrap_web-35
@@ -638,6 +639,7 @@
 
 - Bootstrap
     - Site: https://getbootstrap.com/
+    - Buttons: https://getbootstrap.com/docs/5.3/components/buttons/
 
 - Exemplo
     - bootstrap_web-36
@@ -673,6 +675,24 @@
     - bootstrap_web-39
 
 
+### 249 - Popovers
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Popovers: https://getbootstrap.com/docs/5.3/components/popovers/
+
+**Popovers**
+
+- Ex
+```js
+//script.js
+
+const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
+```
+
+- Exemplo
+    - bootstrap_web-40
 
 
 
