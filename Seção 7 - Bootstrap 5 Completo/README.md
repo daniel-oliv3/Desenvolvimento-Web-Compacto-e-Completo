@@ -757,7 +757,20 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
     - bootstrap_web-44
 
 
+### 254 - Carousel
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Carousel: https://getbootstrap.com/docs/5.3/components/carousel/
+
+- 1 Slide (auto)
+- 2 Slide <- buttom ->
+- 3 Slide Indicador centro _ _ _
+- 4 Slide cross-fate
+- 5 Slide intervalo
+
+- Exemplo
+    - bootstrap_web-45
 
 
 
