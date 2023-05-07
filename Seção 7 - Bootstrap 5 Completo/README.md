@@ -746,7 +746,15 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
     - bootstrap_web-43
 
 
+### 253 - Dropdown
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Dropdown: https://getbootstrap.com/docs/5.3/components/dropdowns/
+
+
+- Exemplo
+    - bootstrap_web-44
 
 
 
