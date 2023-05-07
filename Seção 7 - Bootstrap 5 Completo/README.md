@@ -735,9 +735,15 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 
 
+### 252 - Accordion
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Accordion: https://getbootstrap.com/docs/5.3/components/accordion/
 
 
-
+- Exemplo
+    - bootstrap_web-43
 
 
 
