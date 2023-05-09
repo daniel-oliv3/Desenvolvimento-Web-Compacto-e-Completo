@@ -774,10 +774,14 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 
 
+### 255 - Toasts
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Toasts: https://getbootstrap.com/docs/5.3/components/toasts/
 
-
-
+- Exemplo
+    - bootstrap_web-46
 
 
 
