@@ -784,10 +784,24 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
     - bootstrap_web-46
 
 
+### 256 - Modal
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Modal: https://getbootstrap.com/docs/5.3/components/modal/
+
+- Exemplo
+    - bootstrap_web-47
 
 
+### 257 - Como Usar o Offcanvas
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Offcanvas: https://getbootstrap.com/docs/5.3/components/offcanvas/
 
+- Exemplo
+    - bootstrap_web-48
 
 
 
