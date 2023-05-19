@@ -812,6 +812,11 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 - Bootstrap
     - Site: https://getbootstrap.com/
     - List-Group: https://getbootstrap.com/docs/5.3/components/list-group/
+    - Navbar: https://getbootstrap.com/docs/5.3/components/navbar/
+    - Navs And Tabs: https://getbootstrap.com/docs/5.3/components/navs-tabs/ 
+    - Pagination: https://getbootstrap.com/docs/5.3/components/pagination/
+    - Spinners: https://getbootstrap.com/docs/5.3/components/spinners/
+    - Scrollspy: https://getbootstrap.com/docs/5.3/components/scrollspy/
 
 - Exemplo
     - bootstrap_web-49
@@ -819,6 +824,11 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 
 
+### 259 - Background Colors
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Color-Background: https://getbootstrap.com/docs/5.3/helpers/color-background/
 
-
+- Exemplo
+    - bootstrap_web-50
