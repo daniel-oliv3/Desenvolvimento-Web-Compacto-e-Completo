@@ -848,9 +848,14 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 
 
+### 261 - Como Usar as Classes Display
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Display: https://getbootstrap.com/docs/5.3/utilities/display/
 
-
+- Exemplo
+    - bootstrap_web-52
 
 
 
