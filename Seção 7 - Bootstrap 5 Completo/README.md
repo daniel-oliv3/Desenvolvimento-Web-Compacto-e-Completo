@@ -832,3 +832,45 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 - Exemplo
     - bootstrap_web-50
+
+
+
+### 260 - Borders
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Borders: https://getbootstrap.com/docs/5.3/utilities/borders/
+
+- Exemplo
+    - bootstrap_web-51
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
