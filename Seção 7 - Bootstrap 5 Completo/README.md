@@ -805,7 +805,7 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 
 
-### 258 - Outos Componentes do Bootstrap
+### 258 - Outros Componentes do Bootstrap
 
 - Sem Projeto
 
