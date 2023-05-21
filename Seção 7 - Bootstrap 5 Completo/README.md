@@ -858,7 +858,14 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
     - bootstrap_web-52
 
 
+### 262 - Flexbox no Bootstrap
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Flex: https://getbootstrap.com/docs/5.3/utilities/flex/
+
+- Exemplo
+    - bootstrap_web-53
 
 
 
