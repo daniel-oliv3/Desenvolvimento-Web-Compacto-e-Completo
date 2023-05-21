@@ -883,22 +883,27 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 ### 264 - Outras Utilidades na Documentação do Bootstrap
 
 - Sem Projeto
+- Documentação/Utilidades/Componentes
 
 - Bootstrap
     - Site: https://getbootstrap.com/
     - Utility API: https://getbootstrap.com/docs/5.3/utilities/shadows/
+    - Spacing: https://getbootstrap.com/docs/5.3/utilities/spacing/
 
 - Exemplo
     - bootstrap_web-55
 
 
 
+### 265 - Como Usar Partes do Bootstrap - Bootstrap Grid
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Get started with Bootstrap: https://getbootstrap.com/docs/5.3/getting-started/introduction/ 
 
 
-
-
-
-
+- Exemplo
+    - bootstrap_web-56
 
 
 
