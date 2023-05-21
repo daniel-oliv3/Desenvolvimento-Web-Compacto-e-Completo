@@ -869,7 +869,14 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 
 
+### 263 - Sombras
 
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Shadows: https://getbootstrap.com/docs/5.3/utilities/shadows/
+
+- Exemplo
+    - bootstrap_web-54
 
 
 
