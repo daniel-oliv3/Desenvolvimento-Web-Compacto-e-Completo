@@ -915,3 +915,23 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 
 - Exemplo
     - bootstrap_web-57
+
+
+### 267 - Principios Orientadores para Criar a Nossa Versão do Bootstrap
+
+- Bootstrap
+    - Site: https://getbootstrap.com/
+    - Get started with Bootstrap: https://getbootstrap.com/docs/5.3/getting-started/introduction/
+    - Downloads: https://getbootstrap.com/docs/5.3/getting-started/download/
+
+**Source Files**
+
+- Downloads versão Source files
+- Plugin Visual Studio Code `Live Sass Compiler`
+
+- editar _variables.scss
+
+- Watch no vscode
+
+- Exemplo
+    - bootstrap_web-58
