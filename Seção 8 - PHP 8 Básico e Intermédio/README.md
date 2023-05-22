@@ -8,7 +8,8 @@
 </p>
 
 
-### - 269 - O que é o PHP, Ainda Vale a Pena Aprender
+### 269 - O que é o PHP, Ainda Vale a Pena Aprender
+
 
 **O que é o PHP?**
 
@@ -66,10 +67,26 @@ Linguagem **interpretada** vs Linguagem **compilada**
 **Vamos começar por perceber como funciona o PHP**
 
 
-### - 270 - 
+- Sem projeto
+
+- Exemplo 
+    - php-web_01
+
+### 270 - Como Funciona o PHP?
 
 
+**Como funciona**
 
+
+<p align="center">
+  <img alt="...." src="../Seção 8 - PHP 8 Básico e Intermédio/aassets/PHP-logo.svg.png" width="60%">
+</p>
+
+
+- Sem projeto
+
+- Exemplo 
+    - php-web_02
 
 
 
