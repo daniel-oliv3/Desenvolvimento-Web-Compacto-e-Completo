@@ -79,7 +79,7 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 
 <p align="center">
-  <img alt="...." src="../Seção 8 - PHP 8 Básico e Intermédio/aassets/php-1.jpg" width="60%">
+  <img alt="...." src="../Seção 8 - PHP 8 Básico e Intermédio/aassets/php-1.jpg" width="80%">
 </p>
 
 
@@ -91,9 +91,24 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 
 
+### 271 - Requisitos Básicos Para Aprender PHP
 
 
+**Requisitos para aprender PHP**
 
+- Conhecimento sólido de **HTML**
+- Conhecer outras linguagem pode facilitar o estudo (baseado na sintaxe da linguagem c)
+- Um **ambiente de desenvolvimento local**
+- Um editor de código prepardo pra **PHP** (Visual Studio Code)
+- Perceber os conceitos fundamentais da linguagem e...
+
+**Escrever muito código**
+
+
+- Sem projeto
+
+- Exemplo 
+    - php-web_03
 
 
 
