@@ -8,6 +8,7 @@
 </p>
 
 
+### - 269 - O que é o PHP, Ainda Vale a Pena Aprender
 
 **O que é o PHP?**
 
@@ -44,18 +45,28 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 **Como estudar o PHP (Versão 8.x)?**
 
+- Vamos começãr pelo básico e intermédio  (**PHP Procedural**)
+- Depois vamos aprender **Orientação a Objetos** em PHP
+- Como cominicar com a **bases de dados**
+- Conceitos mais avançados de PHP
+- Como criar do zero até a solução online
+- Boas práticas de progrmação com a linguagem
 
 
+**O PHP ainda está "vivo"?**
+
+- Já foi decretado seu desparecimento *centenas de vezes*
+- Continua a ser utilizado com muita frenquência
+- Alimenta milhões de sistemas web
+- Permite desenvolver soluções milionárias
+- É de fácil implementação do lado do servidor
+- Tem uma comunidade gigantesca de programadores
 
 
+**Vamos começar por perceber como funciona o PHP**
 
 
-
-
-
-
-
-
+### - 270 - 
 
 
 
