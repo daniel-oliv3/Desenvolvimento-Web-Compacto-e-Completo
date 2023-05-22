@@ -79,7 +79,7 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 
 <p align="center">
-  <img alt="...." src="../Seção 8 - PHP 8 Básico e Intermédio/aassets/PHP-logo.svg.png" width="60%">
+  <img alt="...." src="../Seção 8 - PHP 8 Básico e Intermédio/aassets/php-1.jpg" width="60%">
 </p>
 
 
