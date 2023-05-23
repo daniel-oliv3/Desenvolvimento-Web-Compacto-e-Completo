@@ -213,14 +213,42 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 **Visual Studio Code**
 
-- Extenção
+- Extensão
   - `PHP Intelephense`
 
 - Exemplo 
     - php-web_10
 
 
+### 279 - Como Executar o PHP no Terminal
 
+**Terminal**
+
+- Configurar Variaveis do Ambiente
+
+- Listar pastas
+```
+ls
+```
+
+- Acessar pasta
+```
+cd php-web_11
+```
+
+- Verifica a versão do PHP instalado
+```
+php -v
+```
+
+- Executar o projeto no terminal
+```
+php index.php
+```
+
+
+- Exemplo 
+    - php-web_11
 
 
 
