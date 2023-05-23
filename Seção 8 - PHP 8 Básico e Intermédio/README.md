@@ -151,7 +151,18 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 
 
+### 274 - Como Instalar o Mamp
 
+
+**Mamp**
+
+- Mamp (Downloads)
+  - Site: https://www.mamp.info/en/downloads/
+
+- Sem projeto
+
+- Exemplo 
+    - php-web_06
 
 
 
