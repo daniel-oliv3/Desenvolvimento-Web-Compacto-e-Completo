@@ -134,7 +134,18 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 
 
+### 273 - Como Instalar o WampServer
 
+
+**WampServer**
+
+- WampServer (Downloads)
+  - Site: https://www.wampserver.com/en/
+
+- Sem projeto
+
+- Exemplo 
+    - php-web_05
 
 
 
