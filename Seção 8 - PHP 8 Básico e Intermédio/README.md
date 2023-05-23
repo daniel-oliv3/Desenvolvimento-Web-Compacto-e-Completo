@@ -184,7 +184,15 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 
 
+### 276 - Como Usar o Laragon
 
+
+**Laragon**
+
+- Sem projeto
+
+- Exemplo 
+    - php-web_08
 
 
 
