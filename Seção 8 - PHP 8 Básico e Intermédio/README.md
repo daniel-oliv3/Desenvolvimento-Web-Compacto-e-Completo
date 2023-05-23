@@ -207,7 +207,17 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 
 
+### 278 - Escrever Código de PHP
 
+**PHP**
+
+**Visual Studio Code**
+
+- Extenção
+  - `PHP Intelephense`
+
+- Exemplo 
+    - php-web_10
 
 
 
