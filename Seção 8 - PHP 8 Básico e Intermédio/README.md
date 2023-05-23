@@ -168,7 +168,18 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 
 
+### 275 - Como Instalar o Laragon
 
+
+**Laragon**
+
+- Laragon (Downloads)
+  - Site: https://laragon.org/download/index.html
+
+- Sem projeto
+
+- Exemplo 
+    - php-web_07
 
 
 
