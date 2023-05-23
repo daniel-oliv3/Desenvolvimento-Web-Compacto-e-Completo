@@ -195,9 +195,14 @@ Linguagem **interpretada** vs Linguagem **compilada**
     - php-web_08
 
 
+### 277 - Como Adicionar o PHP8 ao Laragon
 
+**Laragon**
 
+- Sem projeto
 
+- Exemplo 
+    - php-web_09
 
 
 
