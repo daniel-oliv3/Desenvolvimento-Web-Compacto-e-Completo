@@ -48,10 +48,10 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 - Vamos começãr pelo básico e intermédio  (**PHP Procedural**)
 - Depois vamos aprender **Orientação a Objetos** em PHP
-- Como cominicar com a **bases de dados**
+- Como comunicar com a **bases de dados**
 - Conceitos mais avançados de PHP
 - Como criar do zero até a solução online
-- Boas práticas de progrmação com a linguagem
+- Boas práticas de programação com a linguagem
 
 
 **O PHP ainda está "vivo"?**
@@ -118,10 +118,18 @@ Linguagem **interpretada** vs Linguagem **compilada**
 
 
 
+### 272 - Como Instalar o Xampp
 
 
+**Xampp**
 
+- Xampp (Downloads)
+  - Site: https://www.apachefriends.org/pt_br/index.html
 
+- Sem projeto
+
+- Exemplo 
+    - php-web_04
 
 
 
