@@ -253,11 +253,16 @@ php index.php
 
 
 
+### 280 - Comentários em PHP
 
 
+- Exemplos de Comentários em PHP
+```php
 
+```
 
-
+- Exemplo 
+    - php-web_12
 
 
 
