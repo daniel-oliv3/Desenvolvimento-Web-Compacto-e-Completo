@@ -312,7 +312,10 @@ E nesta segunda linha também
 
 
 
+### 285 - Booleanos
 
+- Exemplo 
+    - php-web_17
 
 
 
