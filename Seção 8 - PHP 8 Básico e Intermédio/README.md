@@ -319,5 +319,8 @@ E nesta segunda linha também
 
 
 
+### 286 - Integers
 
+- Exemplo 
+    - php-web_18
 
