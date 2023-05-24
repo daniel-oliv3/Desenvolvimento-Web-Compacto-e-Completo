@@ -304,8 +304,10 @@ E nesta segunda linha também
     - php-web_15
 
 
+### 284 - Data Types
 
-
+- Exemplo 
+    - php-web_16
 
 
 
