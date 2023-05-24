@@ -283,9 +283,10 @@ E nesta segunda linha também
     - php-web_12
 
 
+### 281 - Definição de Variáveis em PHP
 
 
-
-
+- Exemplo 
+    - php-web_13
 
 
