@@ -290,3 +290,26 @@ E nesta segunda linha também
     - php-web_13
 
 
+
+### 282 - Atribuir Valores a Variáveis
+
+- Exemplo 
+    - php-web_14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
