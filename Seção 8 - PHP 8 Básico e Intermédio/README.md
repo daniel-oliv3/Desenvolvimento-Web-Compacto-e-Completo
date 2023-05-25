@@ -335,6 +335,7 @@ E nesta segunda linha também
 
 
 
+
 ### 288 - Null
 
 - Exemplo 
@@ -342,6 +343,11 @@ E nesta segunda linha também
 
 
 
+
+### 289 - Strings
+
+- Exemplo 
+    - php-web_21
 
 
 
