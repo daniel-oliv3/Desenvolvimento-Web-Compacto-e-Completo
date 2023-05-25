@@ -383,9 +383,11 @@ E nesta segunda linha também
 
 
 
+### 293 - Operadores Matemáticos
 
 
-
+- Exemplo 
+    - php-web_25
 
 
 
