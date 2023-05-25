@@ -392,7 +392,11 @@ E nesta segunda linha também
 
 
 
+### 294 - Exercícios Práticos Com Operadores Matemáticos
 
+
+- Exemplo 
+    - php-web_26
 
 
 
