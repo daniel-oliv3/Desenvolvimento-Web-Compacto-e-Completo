@@ -367,7 +367,17 @@ E nesta segunda linha também
 
 
 
+### 292 - Funções Associadas a Arrays
 
+
+**Array Functions**
+
+- Array Functions
+    - Site: https://www.php.net/manual/en/ref.array.php
+
+
+- Exemplo 
+    - php-web_24
 
 
 
