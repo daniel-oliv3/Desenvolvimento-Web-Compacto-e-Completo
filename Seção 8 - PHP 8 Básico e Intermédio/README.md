@@ -415,6 +415,11 @@ E nesta segunda linha também
 
 
 
+### 297 - Operadores de Comparação
+
+
+- Exemplo 
+    - php-web_29
 
 
 
