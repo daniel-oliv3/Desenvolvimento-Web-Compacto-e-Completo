@@ -423,7 +423,11 @@ E nesta segunda linha também
 
 
 
+### 298 - Operadores de Controle de Erro
 
+
+- Exemplo 
+    - php-web_30
 
 
 
