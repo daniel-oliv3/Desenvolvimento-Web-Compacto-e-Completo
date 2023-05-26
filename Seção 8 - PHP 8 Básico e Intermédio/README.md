@@ -399,7 +399,11 @@ E nesta segunda linha também
     - php-web_26
 
 
+### 295 - Operadores de Atribuição
 
+
+- Exemplo 
+    - php-web_27
 
 
 
