@@ -407,6 +407,11 @@ E nesta segunda linha também
 
 
 
+### 296 - Operadores de Strings
+
+
+- Exemplo 
+    - php-web_28
 
 
 
