@@ -464,7 +464,11 @@ E nesta segunda linha também
 
 
 
+### 303 - Exercícios Práticos com Arrays & Instruções Condicionais
 
+
+- Exemplo 
+    - php-web_35
 
 
 
