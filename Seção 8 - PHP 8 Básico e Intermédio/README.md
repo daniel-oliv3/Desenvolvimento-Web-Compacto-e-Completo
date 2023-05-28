@@ -447,7 +447,11 @@ E nesta segunda linha também
 
 
 
+### 301 - Precência de Operadores
 
+
+- Exemplo 
+    - php-web_33
 
 
 
