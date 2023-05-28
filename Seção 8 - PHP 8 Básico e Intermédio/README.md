@@ -439,7 +439,11 @@ E nesta segunda linha também
 
 
 
+### 300 - Operadores Lógicos
 
+
+- Exemplo 
+    - php-web_32
 
 
 
