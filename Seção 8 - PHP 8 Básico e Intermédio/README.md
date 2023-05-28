@@ -447,7 +447,7 @@ E nesta segunda linha também
 
 
 
-### 301 - Precência de Operadores
+### 301 - Precedência de Operadores
 
 
 - Exemplo 
