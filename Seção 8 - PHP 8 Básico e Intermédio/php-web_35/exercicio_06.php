@@ -8,7 +8,18 @@
       aparecer a mensagem 'SUCESSO'.
     */
 
-    $mensagem_erro = '';
+    $mensagem_erro = 'erro: aconteceu erro no sistema';
+    // $mensagem_erro = '';
+
+    $css = '';
+    $mensagem = null;
+    if(!empty($mensagem_erro)){
+        $css = 'erro';
+        $mensagem = $mensagem_erro;
+    } else {
+        $css = 'sucesso';
+        $mensagem = 'Sucesso';
+    }
 ?>
 
 <!DOCTYPE html>
@@ -31,6 +42,10 @@
 </head>
 <body>
 
+
+        <div class="<?= $css ?>">
+            <?= $mensagem ?>
+        </div>
     
 
 </body>
@@ -42,5 +57,5 @@
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    28/05/2023
+    29/05/2023
 -->

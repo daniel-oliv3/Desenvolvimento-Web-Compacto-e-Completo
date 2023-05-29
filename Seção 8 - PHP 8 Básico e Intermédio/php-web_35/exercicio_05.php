@@ -13,7 +13,10 @@
         'coimbra' => 'coimbra@gmail.com'
     ];
 
-    $cidade = 'lisboa';
+    // $cidade = 'lisboa';
+    $cidade = 'porto';
+    // $cidade = 'coimbra';
+    // $cidade = 'manaus';
 ?>
 
 <!DOCTYPE html>
@@ -26,11 +29,16 @@
 </head>
 <body>
 
-        <h3><!-- nome da cidade (se existe) --></h3>
-        <p><!-- email da loja da cidade (se existe) --></p>
 
-        <!-- quando não existe cidade na coleção das $lojas -->
+    <?php if(key_exists($cidade, $lojas)): ?>
+        <h3><?= $cidade ?></h3>
+        <p><?= $lojas[$cidade] ?></p>
+    <?php else: ?>
         <p>Não existe nenhuma loja na cidade indicada.</p>
+    <?php endif; ?>
+
+
+    
 
 </body>
 </html>
@@ -44,5 +52,5 @@
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    28/05/2023
+    29/05/2023
 -->

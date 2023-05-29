@@ -6,6 +6,7 @@
     */
 
     $produtos = ['laranja', 'arroz', 'batata', 'feijão', 'castanha'];
+    sort($produtos);
 ?>
 
 <!DOCTYPE html>
@@ -18,7 +19,13 @@
 </head>
 <body>
     
-    
+    <ul>
+        <li><?= $produtos[0] ?></li>
+        <li><?= $produtos[1] ?></li>
+        <li><?= $produtos[2] ?></li>
+        <li><?= $produtos[3] ?></li>
+        <li><?= $produtos[4] ?></li>
+    </ul>
 
 </body>
 </html>
@@ -30,5 +37,5 @@
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    28/05/2023
+    29/05/2023
 -->

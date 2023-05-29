@@ -5,7 +5,10 @@
         o parágrafo correspondente ao valor da variável $nome
     */
 
-    $nome = 'João';
+    // $nome = 'Daniel';
+    // $nome = 'Ana';
+    // $nome = 'Carlos';
+    $nome = 'Sapup3';
 ?>
 
 <!DOCTYPE html>
@@ -18,10 +21,15 @@
 </head>
 <body>
     
-    <p>O nome é João</p>
+    <?php if($nome == "Daniel"): ?>
+    <p>O nome é Daniel</p>
+    <?php elseif($nome == "Ana"): ?>
     <p>O nome é Ana</p>
+    <?php elseif($nome == "Carlos"): ?>
     <p>O nome é Carlos</p>
+    <?php else: ?>
     <p>É um nome desconhecido</p>
+    <?php endif; ?>
 
 </body>
 </html>
@@ -35,5 +43,5 @@
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    28/05/2023
+    29/05/2023
 -->
