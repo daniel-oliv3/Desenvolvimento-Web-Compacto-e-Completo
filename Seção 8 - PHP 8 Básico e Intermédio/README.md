@@ -519,7 +519,11 @@ E nesta segunda linha também
 
 
 
+### 309 - Ciclo Foreach
 
+
+- Exemplo 
+    - php-web_41
 
 
 
