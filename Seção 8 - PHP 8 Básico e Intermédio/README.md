@@ -492,7 +492,11 @@ E nesta segunda linha também
 
 
 
+### 306 - Operador Ternário
 
+
+- Exemplo 
+    - php-web_38
 
 
 
