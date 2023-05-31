@@ -557,8 +557,11 @@ E nesta segunda linha também
 
 
 
+### 312 - Introdução a Criação de Funções
 
 
+- Exemplo 
+    - php-web_44
 
 
 
