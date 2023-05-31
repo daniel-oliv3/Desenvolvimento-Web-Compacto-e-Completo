@@ -539,6 +539,15 @@ E nesta segunda linha também
 
 ### 311 - Exercício Práticos
 
+- ...
+```php
+<?php ?>
+```
+
+- ...
+```php
+<?= ?>
+```
 
 - Exemplo 
     - php-web_43
