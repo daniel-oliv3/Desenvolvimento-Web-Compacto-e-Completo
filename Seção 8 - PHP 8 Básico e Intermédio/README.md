@@ -573,7 +573,11 @@ E nesta segunda linha também
     - php-web_45
 
 
+### 314 - Escopo de Variáveis
 
+
+- Exemplo 
+    - php-web_46
 
 
 
