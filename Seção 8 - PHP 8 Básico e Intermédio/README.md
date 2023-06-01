@@ -590,7 +590,11 @@ E nesta segunda linha também
 
 
 
+### 316 - Exemplo Prático do Uso de Inclusão de Scripts
 
+
+- Exemplo 
+    - php-web_48
 
 
 
