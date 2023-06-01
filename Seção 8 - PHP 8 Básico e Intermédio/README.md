@@ -581,7 +581,11 @@ E nesta segunda linha também
 
 
 
+### 315 - Inclusão de Ficheiros com Require & Include
 
+
+- Exemplo 
+    - php-web_47
 
 
 
