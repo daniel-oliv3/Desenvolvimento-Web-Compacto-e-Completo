@@ -616,7 +616,20 @@ E nesta segunda linha também
 
 
 
+### 319 - Detalhando Exercício com Sessões
 
+- C:\laragon\tmp
+```
+inspecionar/aplication/cookies/localhost/PHPSESSID
+```
+
+- sess_4h56r41jn53g0bfhfi6ggqh730
+```
+nome|s:6:"Daniel";apelido|s:8:"Oliveira";
+```
+
+- Exemplo 
+    - php-web_51
 
 
 
