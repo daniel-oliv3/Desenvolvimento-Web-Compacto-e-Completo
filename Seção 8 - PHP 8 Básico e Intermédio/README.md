@@ -634,10 +634,11 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
 
 
 
+### 320 - Configuração do Cookie da Sessão
 
 
-
-
+- Exemplo 
+    - php-web_52
 
 
 
