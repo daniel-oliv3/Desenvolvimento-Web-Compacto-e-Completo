@@ -659,7 +659,11 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
 
 
 
+### 323 - Informações Sobre Ficheiros & Guardar Dados com file_put_contents
 
+
+- Exemplo 
+    - php-web_55
 
 
 
