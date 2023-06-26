@@ -667,6 +667,11 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
 
 
 
+### 324 - Ler Dados a Partir de um Ficheiro de Texto
+
+
+- Exemplo 
+    - php-web_56
 
 
 
