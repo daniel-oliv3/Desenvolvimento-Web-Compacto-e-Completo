@@ -10,6 +10,19 @@ a tabuada dos 3 até à multiplicação por 1000.
 
 
 
+/* Criar ou Truncar o ficheiro */
+file_put_contents('tabuada.txt', '');
+
+for($i = 1; $i <= 1000; $i++){
+    $resuldado = "3 x $i = " . (3 * $i) . PHP_EOL;
+    file_put_contents('tabuada.txt', $resuldado, FILE_APPEND);
+}
+
+echo 'Terminado...';
+
+
+
+
 
 
 ?>
@@ -19,5 +32,5 @@ a tabuada dos 3 até à multiplicação por 1000.
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    16/06/2023
+    26/06/2023
 -->
