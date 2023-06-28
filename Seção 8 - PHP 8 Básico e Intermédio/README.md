@@ -690,9 +690,11 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
     - php-web_58
 
 
+### 327 - Constantes Mágicas
 
 
-
+- Exemplo 
+    - php-web_59
 
 
 
