@@ -704,9 +704,11 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
     - php-web_60
 
 
+### 329 - Capturando Variáveis da URI com $_GET
 
 
-
+- Exemplo 
+    - php-web_61
 
 
 
