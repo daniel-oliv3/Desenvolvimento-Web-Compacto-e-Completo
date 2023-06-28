@@ -720,7 +720,10 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
 
 
 
+### 331 - $_GET Versus $_POST
 
+- Exemplo 
+    - php-web_63
 
 
 
