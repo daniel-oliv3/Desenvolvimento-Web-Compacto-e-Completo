@@ -683,6 +683,11 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
 
 
 
+### 326 - Copiar, Mover, Renomear & Eliminar Ficheiros
+
+
+- Exemplo 
+    - php-web_58
 
 
 
