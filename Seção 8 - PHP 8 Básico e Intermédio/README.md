@@ -727,7 +727,10 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
 
 
 
+### 332 - Tratamento de Diferentes Tipos de Inputs
 
+- Exemplo 
+    - php-web_64
 
 
 
