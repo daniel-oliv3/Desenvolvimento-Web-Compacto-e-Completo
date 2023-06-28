@@ -698,7 +698,10 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
 
 
 
+### 328 - Super Globais
 
+- Exemplo 
+    - php-web_60
 
 
 
