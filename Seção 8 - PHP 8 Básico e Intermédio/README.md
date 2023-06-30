@@ -747,6 +747,10 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
 
 
 
+### 335 - A Simples & Complexa Validação de Dados
+
+- Exemplo 
+    - php-web_67
 
 
 
