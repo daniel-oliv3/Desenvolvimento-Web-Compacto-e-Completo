@@ -753,8 +753,11 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
     - php-web_67
 
 
+### 336 - Funções Relacionadas com Erros
 
 
+- Exemplo 
+    - php-web_68
 
 
 
