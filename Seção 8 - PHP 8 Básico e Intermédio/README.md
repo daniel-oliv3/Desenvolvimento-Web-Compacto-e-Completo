@@ -784,7 +784,11 @@ nome|s:6:"Daniel";apelido|s:8:"Oliveira";
     - php-web_71
 
 
+### 340 - Exercício 3
 
+
+- Exemplo 
+    - php-web_72
 
 
 
