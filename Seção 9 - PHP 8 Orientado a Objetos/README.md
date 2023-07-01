@@ -67,3 +67,121 @@ OOP - Object Oriented Programming (POO)
 
 - Exemplo
   - php-poo_01
+
+
+
+### 343 - Classes & Objetos
+
+
+<p align="center">
+  <img alt="...." src="../Se%C3%A7%C3%A3o%209%20-%20PHP%208%20Orientado%20a%20Objetos/assets/poo.jpg" width="70%">
+</p>
+
+
+
+<p align="center">
+  <img alt="...." src="../Se%C3%A7%C3%A3o%209%20-%20PHP%208%20Orientado%20a%20Objetos/assets/objeto-cria.jpg" width="70%">
+</p>
+
+
+**Hereditariedade**
+
+
+<p align="center">
+  <img alt="...." src="../Se%C3%A7%C3%A3o%209%20-%20PHP%208%20Orientado%20a%20Objetos/assets/ed.jpg" width="70%">
+</p>
+
+
+
+- Exemplo
+  - php-poo_02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
