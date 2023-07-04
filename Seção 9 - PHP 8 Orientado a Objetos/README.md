@@ -113,7 +113,10 @@ OOP - Object Oriented Programming (POO)
   - php-poo_04
 
 
+### 346 - Constructor
 
+- Exemplo
+  - php-poo_05
 
 
 
