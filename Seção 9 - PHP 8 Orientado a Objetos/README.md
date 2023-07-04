@@ -119,7 +119,10 @@ OOP - Object Oriented Programming (POO)
   - php-poo_05
 
 
+### 347 - Destructor
 
+- Exemplo
+  - php-poo_06
 
 
 
