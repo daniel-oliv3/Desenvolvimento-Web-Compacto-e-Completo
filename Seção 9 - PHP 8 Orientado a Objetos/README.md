@@ -126,8 +126,11 @@ OOP - Object Oriented Programming (POO)
 
 
 
+### 348 - Hereditariedade
 
 
+- Exemplo
+  - php-poo_07
 
 
 
