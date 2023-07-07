@@ -140,9 +140,10 @@ OOP - Object Oriented Programming (POO)
 
 
 
+### 350 - Impedir Herança de Classe ou Método
 
-
-
+- Exemplo
+  - php-poo_09
 
 
 
