@@ -133,6 +133,12 @@ OOP - Object Oriented Programming (POO)
   - php-poo_07
 
 
+### 349 - Sobreposição De Métodos Herdados
+
+- Exemplo
+  - php-poo_08
+
+
 
 
 
