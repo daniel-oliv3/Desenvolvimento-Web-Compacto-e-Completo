@@ -1,46 +1,64 @@
 <?php
 
-// CLASSES ABSTRATAS
+// CRIAÇÃO DE CLASSES A PARTIR DE INTERFACES
 
-/* 
-Ao herdar de uma classe abstracta, o método da classe filha
-deve ser definido com o mesmo nome, e um access modifier com restrição
-igual ou menor. 
-
-Por exemplo, se o método abstracto for definido como protected, 
-o método da classe filha deve ser definido como protected ou public.
-Não pode ser privado.
-
-Além disso, o tipo e o número de argumentos exigidos devem ser os mesmos.
-No entanto, as classes filhas podem ter argumentos opcionais.
-
-Assim, quando uma classe filha é herdada de uma classe abstracta, temos as seguintes regras:
-
-> O método da classe filha deve ser definido com o mesmo nome;
-> O método da classe filha deve ser definido com o mesmo access modifier ou outro menos restrito;
-> O número de argumentos necessários deve ser o mesmo. 
-  No entanto, a classe filha pode ter argumentos opcionais adicionais
+/*
+Pegando no exemplo anterior, o interface Animal
+declara a função vocalizar. Cada animal tem uma forma diferente
+de vocalizar. Então podemos ter o seguinte:
 */
 
-abstract class Pessoa
-{
-    abstract public function falar($mensagem);
+interface Animal {
+    public function vocalizar();
 }
 
-class Cliente extends Pessoa
-{
-    public function falar($mensagem, $autor = 'joao')
+class Cao implements Animal {
+    public function vocalizar()
     {
-        echo "$mensagem - $autor";
+        echo "Ladrar...";
     }
 }
 
-$cliente = new Cliente();
-$cliente->falar('mensagem de teste', 'carlos');
+class Gato implements Animal {
+    public function vocalizar()
+    {
+        echo "Miar...";
+    }
+}
 
-// IMPORTANTE: a assinatura do método em Cliente, tem que ser igual à
-// assinatura do método na class abstrata. Contudo, ao adicionar um parâmetro
-// opcional, podemos passar informação adicional para o interior da função.
+class Lobo implements Animal {
+    public function vocalizar()
+    {
+        echo "Uivar...";
+    }
+}
+
+$cao = new Cao();
+$cao->vocalizar();
+echo '<br>';
+$gato = new Gato();
+$gato->vocalizar();
+echo '<br>';
+$lobo = new Lobo();
+$lobo->vocalizar();
+
+/* 
+Em forma de conclusão, enquanto as classes são modelos para a
+criação de objetos, os interfaces podem ser usados como modelos
+para a criação de classes. Funcionam como um contrato no qual o
+programador, para implementar uma determinada classe, compromete-se
+a desenvolver essa classe a partir de um interface, logo, mantendo
+a estrutura de métodos que esse interface declara, independentemente
+da implementação de código que esses métodos depois vão ter dentro
+da classe.
+IMPORTANTE: Estes conceitos são centrais no âmbito da programação
+orientada a objetos, mas isso não quer dizer que tens que os aplicar
+em todos os teus projetos.
+Aliás, na maior parte dos casos, estes conceitos são aplicados no
+desenvolvimento de frameworks que depois tu vais aproveitar para
+construir as tuas aplicações.
+*/
+
 
 
 

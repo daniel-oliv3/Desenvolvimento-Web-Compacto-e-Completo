@@ -1,55 +1,62 @@
 <?php
 
-// CLASSES ABSTRATAS
+// CRIAÇÃO DE CLASSES A PARTIR DE INTERFACES
 
-/* 
-Um outro conceito muito importante na Programação Orientada a Objetos
-é o conceito de classes abstratas.
+/*
+Em programação orientada a objetos, o conceito de Interfaces
+é semelhante ao de uma classe abstrata. Vamos ver as diferenças.
 
-Uma classe abstrata, com métodos abstratos, implica que a classe
-tenha métodos que estão declarados, mas cuja funcionalidade vai ter que ser
-implementada nas classes derivadas.
+Interfaces permitem especificar métodos que as classes vão ter que
+implementar nas suas estruturas.
 
-Vejamos um exemplo:
+Quando várias classes têm que implementar um conjunto de métodos
+semelhantes, estamos a entrar num conceito muito importante da
+programação orientada a objetos que é o Polimorfismo.
+
+Vejamos um exemplo de um interface
 */
 
-abstract class Pessoa
-{
-    abstract public function identificar();
-    abstract public function falar();
-    abstract public function saltar();
+interface Animal {
+    public function vocalizar($vezes);
+    public function identificar();
+    public function executar_movimento($direção);
 }
 
-// Como podes ver, os métodos estão declarados, mas não têm implementação.
-// As classes derivadas vão ter que definir essa implementação.
+/* 
+principais diferenças entre interfaces e classes abstratas:
 
-class Cliente1 extends Pessoa
-{
-    // Fatal error: Class Cliente1 contains 3 abstract methods 
-    // and must therefore be declared abstract or implement the remaining methods
-}
+    > Os interfaces não podem conter propriedades. 
+      As classes abstratas podem.
+    > Todos os métodos dos interfaces são public.
+      Nas classes abstratas, são public ou protected
+    > Todos os métodos dos interfaces são abstratos por natureza.
+      Não podem ter implementação dentro do interface.
+      O uso do termo abstract não é necessário. Está implícito.
+    > As classes podem implementar um interface e herdar de outra classe
+      ao mesmo tempo.
+*/
 
-class Cliente2 extends Pessoa
-{
+class Cao implements Animal {
+    public function vocalizar($vezes)
+    {
+        // ...
+    }
+
     public function identificar()
     {
         // ...
     }
 
-    public function falar()
-    {
-        // ...
-    }
-
-    public function saltar()
+    public function executar_movimento($direção)
     {
         // ...
     }
 }
 
-// A classe Cliente2 contém todas as implementações
-// que a classe Pessoa 'obriga' a implementar devido ao uso
-// da expressão ABSTRACT
+$cao = new Cao();
+$cao->vocalizar(3);
+$cao->identificar();
+$cao->executar_movimento("para cima");
 
 
 
