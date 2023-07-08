@@ -152,7 +152,10 @@ OOP - Object Oriented Programming (POO)
   - php-poo_10
 
 
+### 352 - Criação de Classes a Partir de Interfaces
 
+- Exemplo
+  - php-poo_11
 
 
 
