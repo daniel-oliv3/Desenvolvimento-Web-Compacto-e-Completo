@@ -158,6 +158,10 @@ OOP - Object Oriented Programming (POO)
   - php-poo_11
 
 
+### 353 - O que são Traits & como Utilizar
+
+- Exemplo
+  - php-poo_12
 
 
 
