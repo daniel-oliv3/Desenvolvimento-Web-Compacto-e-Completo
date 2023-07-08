@@ -165,8 +165,11 @@ OOP - Object Oriented Programming (POO)
 
 
 
+### 354 - Métodos Estáticos
 
 
+- Exemplo
+  - php-poo_13
 
 
 
