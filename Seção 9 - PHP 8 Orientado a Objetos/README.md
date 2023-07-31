@@ -173,7 +173,11 @@ OOP - Object Oriented Programming (POO)
 
 
 
+### 355 - Propriedades Estáticas
 
+
+- Exemplo
+  - php-poo_14
 
 
 
