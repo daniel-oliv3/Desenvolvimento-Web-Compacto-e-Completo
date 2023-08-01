@@ -386,6 +386,9 @@ anterior a 2015, inclusive.*/
 
 
 
+### 365 - Constantes Dentro de uma Classe
 
+- Exemplo
+  - php-poo_24
 
 
