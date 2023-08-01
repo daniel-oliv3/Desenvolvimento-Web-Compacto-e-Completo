@@ -354,7 +354,9 @@ e uma lista não ordenada para cada frase.
 ### 361 - Exercício 4
 
 ```php
-
+/* Partindo do código do exercício anterior, neste exercício
+deves apresentar todos os veículos cujo ano de fabrico seja
+anterior a 2015, inclusive.*/
 ```
 
 - Exemplo
@@ -363,6 +365,10 @@ e uma lista não ordenada para cada frase.
 
 
 
+### 362 - Declaração Strict Types
+
+- Exemplo
+  - php-poo_21
 
 
 
