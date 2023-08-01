@@ -187,7 +187,46 @@ OOP - Object Oriented Programming (POO)
   - php-poo_15
 
 
+### 357 - Principais Conceitos de POO em Resumo
 
+
+*Já vimos os principais conceitos de POO*
+
+**Abstração**
+
+As classes disponibilizam métodos e propriedades simples de usar mais que podem esconder elevada complexidade nos bastidores.
+Sabemos todos ligar uma TV, mas não temos que saber o que acontece no interior do equipamento para que possamos ligar e desligar
+
+
+**Encapsulamento**
+
+A criação de propriedades privadas cujos valores só então acessiveis através de métodos que vão permitir controlar / validar o valor dessas variáveis.
+É uma barreira de proteção para os dados.
+
+
+**Hereditariedade**
+
+A possibilidade de criar estruturas de classes que dirivam umas das outras, permitindo reaproveitamento de código ao máximo nível e consistência.
+
+
+
+**Polimorfismo**
+
+A possibilidade de criar classes com diferentes funcionalidades a partir de interfaces,.
+A implementação de um método definido num interface pode ser uma, na classe A, e outra na classe B.
+Em outras linguagens de programação, o conceito abrange outras situações relacionadas com *overriding* e *overloading*
+
+
+- IMPORTANTE:
+
+Entender como escrever código organizado por classes e objetos, é imperativo para qualquer programador moderno.
+O PHP, tal como outras linguagens de programação, já contém no seu *core* um coinjunto vasto de classes que podemos usar nas nossas aplicações.
+
+
+- Sem Projeto
+
+- Exemplo
+  - php-poo_16
 
 
 
