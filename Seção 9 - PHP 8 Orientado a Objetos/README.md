@@ -379,7 +379,10 @@ anterior a 2015, inclusive.*/
 
 
 
+### 364 - Como Chamar o Construtor de uma Classe Pai
 
+- Exemplo
+  - php-poo_23
 
 
 
