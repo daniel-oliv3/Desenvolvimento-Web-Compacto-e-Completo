@@ -399,7 +399,10 @@ anterior a 2015, inclusive.*/
 
 
 
+### 367 - Funções Úteis para Verificação de Classes
 
+- Exemplo
+  - php-poo_26
 
 
 
