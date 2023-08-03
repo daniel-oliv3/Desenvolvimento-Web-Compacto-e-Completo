@@ -97,7 +97,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/bases-de-dados.jpg.jpg" width="70%">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/bases-de-dados.jpg" width="70%">
 </p>
 
 **O que é uma Base de Dados Relacional ?**
