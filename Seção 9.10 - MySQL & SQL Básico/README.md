@@ -86,11 +86,52 @@
 
 
 
+### 341 - O que é o MySQL ?
+
+**O que é o MySQL ?**
+
+- É um sistema de gestão de **Bases de Dados Relacionais**.
+- É suportado pela Oracle e é *open-source*
+- Podemos usar livremente a nível particular ou comercial.
+- É um dos sistemas mais populares para bases de dados na web.
 
 
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/bases-de-dados.jpg.jpg" width="70%">
+</p>
+
+**O que é uma Base de Dados Relacional ?**
+
+- É uma das arquiteturas de bases de dados
+- Os dados são armazenados em **tabelas**.
+- As tabelas podem ter relações entre si através de **chaves**
+- A comunicação com a base de dados é feita com **SQL**.
+
+**O que é SQL ?**
 
 
+- SQL = Structured Query Language
+- Linguagem usada para contruir **queries**
+- As **queries** são intruções para comunicação com a base de dados.
 
+- Com o **SQL** podemos pesquisar, inserir, atualizar e eliminar dados, bem como alterar a estrutura da nossa base de dados.
+
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/exemplode-tabela-simples.jpg" width="70%">
+</p>
+
+- Vamos perceber com mais detalhes o que é o **SQL**
+- E como podemos comunicar com a base de dados
+
+
+- NOTA: 
+
+
+- Sem Projeto
+
+- Exemplo:
+  - mysql-sql_03
 
 
 
