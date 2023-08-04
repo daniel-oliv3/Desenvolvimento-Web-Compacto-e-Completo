@@ -318,3 +318,173 @@ SELECT * FROM Clientes ORDER BY nome ASC
 
 - Exemplo:
   - mysql-sql_05
+
+
+
+
+
+
+### 344 - Schema de Base de Dados & Data Types
+
+**O que é um Schema de uma base de dados e dos Datatypes?**
+
+O *Schema* não é mais do que a estrutura das tabelas e as suas relações, Serve para definir as tabelas, as suas colunas, os tipod de dados de cada coluna entre características, as relações entre as tabelas, etc...
+
+
+Os *Data Types* são tipos de dados que cada coluna de cada tabela vai permitir armazenar, Por exmplo, uma coluna pode armazenar valores numéricos, outra pode receber valores string e outro pode receber valores do tipo data e hora
+
+**O que é necessário para criar uma base de dados MySQL ?**
+
+- Em primeiro lugar vamos necessitar do servidor de MySQL.
+- Existem várias formas de criar bases de dados. As principais são:
+  - Utilizando SQL diretamente através de uma linguagem de programação
+  - Recorrer a uma aplicação que, visualmente, permite a gestão
+  - Através de mecanismos de importação de bases de dados existentes
+
+
+**HeidiSQL** 
+
+- Para criar bases de dados
+- Site:
+  - https://www.heidisql.com/
+
+
+**Data Type**
+
+- O **Data Type** de uma coluna define que valor essa coluna vai permitir
+- Existem mais de 30 data types, mas na maior parte dos casos, não vai usar todos. Apenas alguns dos quais podemos destacar:
+  - **Integer** - Valores numéricos inteiros
+  - **Float** - Valores numéricos com casas decimais
+  - **Varchar** - Valores alfanuméricos (Strings)
+  - **DateTime** - Valores relacionados com datas e horas
+
+
+- Sem Projeto
+
+- Exemplo:
+  - mysql-sql_06
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
