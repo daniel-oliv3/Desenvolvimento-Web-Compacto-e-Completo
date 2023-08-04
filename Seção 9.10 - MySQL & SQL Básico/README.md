@@ -148,7 +148,7 @@
 **Vamos entender melhor com um exemplo**
 
 <p align="center">
-  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/tabela.jpg" width="70%">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/tabela.jpg" width="40%">
 </p>
 
 - Desafios:
@@ -167,7 +167,7 @@ SELECT * FROM Clientes
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/selectallfrom.jpg" width="70%">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/selectallfrom.jpg" width="40%">
 </p>
 
 
@@ -202,7 +202,7 @@ SELECT * FROM Clientes ORDER BY nome ASC
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/nomes-asc.jpg" width="70%">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/nomes-asc.jpg" width="40%">
 </p>
 
 
