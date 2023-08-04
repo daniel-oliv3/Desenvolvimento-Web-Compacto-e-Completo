@@ -381,6 +381,14 @@ Os *Data Types* são tipos de dados que cada coluna de cada tabela vai permitir 
   - Site: https://laragon.org/
   - Downloads: https://laragon.org/download/
 
+
+**Base de Dados**
+
+- Criação da base de dados `contatos`
+```sql
+CREATE DATABASE `contatos` /*!40100 COLLATE 'utf8_unicode_ci' */
+```
+
 - Sem Projeto
 
 - Exemplo:
@@ -389,8 +397,49 @@ Os *Data Types* são tipos de dados que cada coluna de cada tabela vai permitir 
 
 
 
+### 346 - Criação de Tabelas da Base de Dados
+
+**Base de Dados**
+
+- contatos
+
+- Criação da tabela `amigos` 
+```sql
+CREATE TABLE `amigos` (
+	`id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+	`nome` VARCHAR(50) NULL DEFAULT NULL COLLATE 'utf8_unicode_ci',
+	`created_at` DATETIME NULL DEFAULT NULL,
+	`updated_at` DATETIME NULL DEFAULT NULL,
+	`deleted_at` DATETIME NULL DEFAULT NULL,
+	PRIMARY KEY (`id`) USING BTREE
+)
+COLLATE='utf8_unicode_ci'
+ENGINE=InnoDB
+;
+```
 
 
+- Criação da tabela `telefones` 
+```sql
+CREATE TABLE `telefones` (
+	`id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+	`id_amigo` INT(10) UNSIGNED NULL DEFAULT NULL,
+	`numero` VARCHAR(30) NULL DEFAULT NULL COLLATE 'utf8_unicode_ci',
+	`created_at` DATETIME NULL DEFAULT NULL,
+	`updated_at` DATETIME NULL DEFAULT NULL,
+	`deleted_at` DATETIME NULL DEFAULT NULL,
+	PRIMARY KEY (`id`) USING BTREE
+)
+COLLATE='utf8_unicode_ci'
+ENGINE=InnoDB
+;
+
+```
+
+- Sem Projeto
+
+- Exemplo:
+  - mysql-sql_08
 
 
 
