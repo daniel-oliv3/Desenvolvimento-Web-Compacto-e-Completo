@@ -280,6 +280,40 @@ SELECT * FROM Clientes ORDER BY nome ASC
 </p>
 
 
+**Relação de muitos para muitos**
+
+- É a relação em que uma tabela A tem vários registros relacionados com uma tabela B e vice-versa
+
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/relacionamento-03.jpg" width="50%">
+</p>
+
+
+
+**Relação de uma para um**
+
+- A tabela A tem vários registros todos diferentes, e a tabela B só tem um registro relacionado com cada registro da tabela A
+
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/relacionamento-04.jpg" width="50%">
+</p>
+
+
+##
+
+- Estruturar corretamente uma base de dados é fundamental
+- Saber usar ferramentas de gestão, também é importante
+  - Vamos criar um *schema* de uma base de dados
+  - Criar essa base de dados em diferentes **aplicações**
+  - Perceber que **data types** podemos usar
+  - Como criar chaves primárias e estrangeiras
+  - Como criar relações entre tabelas
+  - Aprender instruções básicas de SQL
+
+
+
 - Sem Projeto
 
 - Exemplo:
