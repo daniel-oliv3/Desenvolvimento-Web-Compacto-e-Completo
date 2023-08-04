@@ -368,11 +368,23 @@ Os *Data Types* são tipos de dados que cada coluna de cada tabela vai permitir 
 
 
 
+### 345 - Criar uma Base de Dados com HeidySQL
 
+**HeidiSQL** 
 
+- HeidiSQL
+  - Site: https://www.heidisql.com/
 
+**Laragon**
 
+- Laragon
+  - Site: https://laragon.org/
+  - Downloads: https://laragon.org/download/
 
+- Sem Projeto
+
+- Exemplo:
+  - mysql-sql_07
 
 
 
