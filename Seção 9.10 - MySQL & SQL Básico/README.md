@@ -191,7 +191,7 @@ SELECT nome FROM Clientes
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/nomes-tabela-pesquisa.jpg" width="20%">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/nomes-tabela-pesquisa.jpg" width="10%">
 </p>
 
 
@@ -224,3 +224,63 @@ SELECT * FROM Clientes ORDER BY nome ASC
 
 
 
+
+
+
+### 343 - Conceitos & Termos Principais nas Bases de Dados Relacionais
+
+**Quais são os conceitos e termos principais a saber ?**
+
+**Base de dados relacional**
+
+- Base de dados organizado em tabelas e onde podem existir relações de dados entre essas tabelas
+
+**Tabela**
+
+- Uma estrutura de dados constituida por **linhas** e **colunas**
+
+**Query**
+
+- Expressão de SQL para comunicar com a base de dados
+
+**Data Typer**
+
+- Cada coluna tem um tipo de dados próprio. Ainda não vimos esse aspecto. Podem conter inteiros, strings, datas, etc...
+
+
+##
+
+
+**Relações**
+
+- Duas tabelas podem estar interligadas, Exemplo:
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/relacionamento-01.jpg" width="50%">
+</p>
+
+
+**Primary Key (PK)**
+
+- A chave primária é um valor único usado para relacionar dados entre tabelas. Só podem existir uma PK por cada tabela
+
+
+**Foreign Key (FK)**
+
+- A chave estrageira é um valor que dá suporte a chave primária na execução de queries que devolvem resultados relacionais
+
+
+
+**Relação de um para muitos**
+
+- É a relação mais comun numa base de dados relacional. Uma tabela de pessoas, por exemplo, e outra tabela com os emails das pessoas, Cada pessoa pode ter mais do que um email
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/relacionamento-02.jpg" width="50%">
+</p>
+
+
+- Sem Projeto
+
+- Exemplo:
+  - mysql-sql_05
