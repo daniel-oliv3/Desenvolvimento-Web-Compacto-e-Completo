@@ -136,11 +136,88 @@
 
 
 
+### 342 - A Structured Query Language (SQL)
+
+**O que é SQL ?**
+
+- SQL = Structured Query Language
+- Linguagem usada para comunicar com bases de dados relacionais.
+- A comunicação processa-se através de **queries**.
+- As **queries** permitem pesquisdar, inserir, atualizar e eliminar dados, bem como alterar a estrutura da nossa base de dados.
+
+**Vamos entender melhor com um exemplo**
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/tabela.jpg" width="70%">
+</p>
+
+- Desafios:
+  - Como Conseguir obter todos os dados da tabela?
+  - Como conseguir obter os dados apenas do cliente cujo **id** é igual a 5?
+  - Como conseguir obter apenas os nomes dos meus clientes?
+  - Como obtenho todos os dados dos clientes ordenados por ordem alfabética do nome?
+
+
+**Exemplos Desafio**
+
+- Como Conseguir obter todos os dados da tabela?
+
+```sql
+SELECT * FROM Clientes
+```
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/selectallfrom.jpg" width="70%">
+</p>
+
+
+- Como conseguir obter os dados apenas do cliente cujo **id** é igual a 5?
+
+
+```sql
+SELECT * FROM Clientes WHERE id = 5
+```
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/id=5.jpg" width="50%">
+</p>
 
 
 
+- Como conseguir obter apenas os nomes dos meus clientes?
+
+```sql
+SELECT nome FROM Clientes
+```
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/nomes-tabela-pesquisa.jpg" width="70%">
+</p>
 
 
+- Como obtenho todos os dados dos clientes ordenados por ordem alfabética do nome?
+
+```sql
+SELECT * FROM Clientes ORDER BY nome ASC
+```
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/nomes-asc.jpg" width="70%">
+</p>
+
+
+**Resumo**
+
+- Esta foi apenas uma *visão muito introdutória* sobre SQL.
+- SQL é o padrão para comunicar com as bases de dados relacionais
+- Com poucas diferenças, o SQL é usado em qualquer SGBD relacional
+- Iremos aprender com muito detalhe como escrever Queries de SQL
+
+
+- Sem Projeto
+
+- Exemplo:
+  - mysql-sql_04
 
 
 
