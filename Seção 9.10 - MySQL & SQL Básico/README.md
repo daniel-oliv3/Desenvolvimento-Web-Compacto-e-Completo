@@ -191,7 +191,7 @@ SELECT nome FROM Clientes
 ```
 
 <p align="center">
-  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/nomes-tabela-pesquisa.jpg" width="70%">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/nomes-tabela-pesquisa.jpg" width="50%">
 </p>
 
 
