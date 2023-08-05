@@ -464,7 +464,6 @@ CREATE TABLE `telefones` (
 COLLATE='utf8_unicode_ci'
 ENGINE=InnoDB
 ;
-
 ```
 
 - Sem Projeto
@@ -476,7 +475,44 @@ ENGINE=InnoDB
 
 
 
+### 348 - Inserção de Registos na Base de Dados Via SQL
 
+- Como inserir um registro
+
+```sql
+INSERT INTO amigos VALUES(0, "Joaquim", "2030-10-01 12:30:10", "2030-10-01 12:30:10", NULL)
+```
+
+- Como adicionar um telefone a um id especifico
+
+```sql
+INSERT INTO telefones VALUES(0, 4, "35813142", NOW(), NOW(), NULL)
+```
+
+- Como adicionar dois telefones a um id especifico
+
+```sql
+INSERT INTO telefones VALUES(0, 2, "2215202", NOW(), NOW(), NULL);
+INSERT INTO telefones VALUES(0, 2, "2215555", NOW(), NOW(), NULL);
+```
+
+- Como selecionar todos os números de telefones
+
+```sql
+SELECT * FROM telefones
+```
+
+- Como deletar um telefone de um id especifico
+
+```sql
+DELETE FROM amigos WHERE id = 4
+```
+
+
+- Sem Projeto
+
+- Exemplo:
+  - mysql-sql_10
 
 
 
