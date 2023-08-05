@@ -445,10 +445,32 @@ ENGINE=InnoDB
 
 
 
+### 347 - Definição de Chaves & Relações dentro da Base de Dados
 
+- Chave estrangeira
 
+```sql
+CREATE TABLE `telefones` (
+	`id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+	`id_amigo` INT(10) UNSIGNED NULL DEFAULT NULL,
+	`numero` VARCHAR(30) NULL DEFAULT NULL COLLATE 'utf8_unicode_ci',
+	`created_at` DATETIME NULL DEFAULT NULL,
+	`updated_at` DATETIME NULL DEFAULT NULL,
+	`deleted_at` DATETIME NULL DEFAULT NULL,
+	PRIMARY KEY (`id`) USING BTREE,
+	INDEX `FK_telefones_amigos` (`id_amigo`) USING BTREE,
+	CONSTRAINT `FK_telefones_amigos` FOREIGN KEY (`id_amigo`) REFERENCES `contatos`.`amigos` (`id`) ON UPDATE RESTRICT ON DELETE CASCADE
+)
+COLLATE='utf8_unicode_ci'
+ENGINE=InnoDB
+;
 
+```
 
+- Sem Projeto
+
+- Exemplo:
+  - mysql-sql_09
 
 
 
