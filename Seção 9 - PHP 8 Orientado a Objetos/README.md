@@ -441,23 +441,3 @@ quando quiseres desenvolver as tuas aplicações.
   - php-poo_27
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
