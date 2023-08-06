@@ -534,8 +534,11 @@ DELETE FROM amigos WHERE id = 4
 
 
 
+### 350 - Introdução às Instruções de SQL - Parte 1
 
 
+- Exemplo:
+  - mysql-sql_12
 
 
 
