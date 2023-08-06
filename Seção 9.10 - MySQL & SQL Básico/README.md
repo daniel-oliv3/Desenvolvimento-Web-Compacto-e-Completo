@@ -536,6 +536,91 @@ DELETE FROM amigos WHERE id = 4
 
 ### 350 - Introdução às Instruções de SQL - Parte 1
 
+- Dump
+  - base_dados_contactos.sql
+
+**Consultas SQL**
+
+- Lista todos os dados da tabela de amigos
+
+```sql
+SELECT * FROM amigos
+```
+
+- Lista apenas os nomes dos amigos
+
+```sql
+SELECT nome FROM amigos
+```
+
+- Lista os nomes dos amigos por ordem alfabética
+
+```sql
+SELECT nome FROM amigos ORDER BY nome ASC
+```
+
+- Lista apenas o amigo cujo id = 2
+
+```sql
+SELECT * FROM amigos WHERE id = 2
+```
+
+
+- Lista todos os telefones do amigo cujo id = 5
+
+```sql
+SELECT * FROM telefones WHERE id_amigo = 5
+```
+
+```sql
+-- Neste resultado a tabela apresenta os telefones, mas não apresenta 
+-- o nome do amigo, quero apenas o nome do amigo e os respectivos telefones
+```
+
+- Solução
+
+```sql
+SELECT amigos.nome, telefone.numero
+FROM amigos, telefones
+WHERE amigos.id = telefones.id_amigo
+AND telefones.id_amigo = 5
+```
+
+
+- Quero apenas os telefones da amiga chamada Cristina
+
+```sql
+SELECT amigos.nome, telefones.numero FROM amigos, telefones
+WHERE amigos.id = telefones.id_amigo
+AND amigos.nome = "Cristina"
+```
+
+
+- Quero a mesma query, mas com o nome da coluna igual ao nome da Cristina
+
+```sql
+SELECT telefones.numero 'Cristina' FROM amigos, telefones
+WHERE amigos.id = telefones.id_amigo
+AND amigos.nome = "Cristina"
+```
+
+- Quero a mesma query, mas com o nome da coluna igual ao nome da Cristina
+
+```sql
+-- Exemplo 2
+SELECT telefones.numero AS 'Cristina' FROM amigos, telefones
+WHERE amigos.id = telefones.id_amigo
+AND amigos.nome = "Cristina"
+```
+
+
+**NOTA**: 
+
+- Comentários em SQL
+
+```sql
+-- SELECT * FROM amigos
+```
 
 - Exemplo:
   - mysql-sql_12
