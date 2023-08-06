@@ -523,9 +523,14 @@ DELETE FROM amigos WHERE id = 4
 
 
 
+### 349 - Como Eliminar & Importar Bases de Dados
 
 
+- Dump
+  - base_dados_contactos.sql
 
+- Exemplo:
+  - mysql-sql_11
 
 
 
