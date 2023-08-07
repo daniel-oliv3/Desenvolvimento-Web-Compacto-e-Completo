@@ -636,11 +636,109 @@ AND amigos.nome = "Cristina"
 
 
 
+### 351 - Introdução às Instruções de SQL - Parte 2
+
+- Dump
+  - base_dados_contactos.sql
+
+```sql
+-- Vamos executar queries de atualização, inserção e eliminação de dados.
+
+-- C R U D
+
+-- Create
+-- Read (Select)
+-- Update
+-- Delete
+```
+
+**Consultas SQL**
+
+- Atualizar o nome de Cristina para Maria
+
+```sql
+UPDATE amigos SET nome = "Maria" WHERE nome = "Cristina"
+```
+
+- Atualizar todos os telefones que começam pelo algarismo 5 e vão passar a ser iniciados por 10 mais o número que ja existe
+
+```sql
+UPDATE telefones SET numero = (10, numero) WHERE numero LIKE '5%'
+```
+
+- Selecionar número começado por 5
+
+```sql
+SELECT *FROM telefones WHERE numero LIKE '5%'
+```
+
+- Atualizar todos os telefones do joao para que fiquem apenas com dois últimos algarismos 
+
+```sql
+UPDATE telefones SET numero = SUBSTRING(numero, 2, 2)
+WHERE telefones.id_amigo = (SELECT id FROM amigos WHERE nome = 'Joao')
+-- SubQueries
+```
+
+
+- Adicionar mais 1 amigo (apenas o nome)
+
+```sql
+INSERT INTO amigos(nome) VALUES('Hugo')
+```
+
+
+- Adicionar mais 3 amigo numa única query
+
+```sql
+INSERT INTO amigos VALUES
+(7, 'Daniel', NOW(), NOW(), NULL),
+(8, 'Priscila', NOW(), NOW(), NULL),
+(9, 'Damasceno', NOW(), NOW(), NULL),
+```
+
+- Deletar o amigo cujo id e igual 2
+
+```sql
+DELETE FROM amigos WHERE id = 2
+```
+
+```sql
+-- O mecanismo elimina o amigo e todos os
+-- Telefones relacionados (integridade referencial)
+```
+
+- Deletar todos os amigos cujos nomes começam pela letra 'D'
+
+```sql
+DELETE FROM amigos WHERE nome LIKE 'D%'
+```
+
+
+- Deletar todos os registros das duas tabelas
+
+```sql
+DELETE FROM amigos 
+```
+
+```sql
+-- Vai aparecer uma mensagem indicando que esta operação vai 
+-- ser arriscada porque não tem uma cláusula  WHERE
+```
+
+##
+
+- Alterar o auto incremento da tabela
+
+```sql
+ALTER TABLE amigos AUTO_INCREMENT = 1;
+ALTER TABLE telefones AUTO_INCREMENT = 1;
+```
 
 
 
-
-
+- Exemplo:
+  - mysql-sql_13
 
 
 
