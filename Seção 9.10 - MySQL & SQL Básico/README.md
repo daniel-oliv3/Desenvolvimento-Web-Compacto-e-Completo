@@ -899,25 +899,3 @@ SELECT nome_cliente FROM loja_online.clientes;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
