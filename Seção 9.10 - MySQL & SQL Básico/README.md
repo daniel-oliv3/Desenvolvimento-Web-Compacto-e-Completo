@@ -802,7 +802,7 @@ SELECT nome_cliente FROM loja_online.clientes;
 
 
 
-### 353 - Criar uma Base de Dados com PhpMyAdmin
+### 354 - Criar uma Base de Dados com PhpMyAdmin
 
 **PhpMyAdmin**
 
@@ -827,8 +827,75 @@ SELECT nome_cliente FROM loja_online.clientes;
 
 
 
+### 355 - SQL Puro vs Query Builder vs ORM
+
+- As bases de dados são ponto central quando o assunto é guardar informação
+- A forma como nosso código tem acesso a essas bases de dados é fundamental para o desenvolvimento cuidado da nossa aplicaçãao
+- A forma mais direta é recorrendo ao SQL (Structured Query Language) puro
+- Existem outras formas: usando um **query builder** ou um **ORM**, por exemplo
+- Vamos ver o que significa cada uma destas formas, vantagens e desvantagens
+
+**SQL PURO - Raw SQL**
+
+- Por vezes designado por SQL nativo
+- A forma de acesso aos dados mais direto e de baixo nível
+- O SQL é bastante poderoso, mais do que a maioria dos programadores pensa
+- Devemos seguir a máximo: *tudo o que der para fazer do lado o SGBD, deve ser feito do lado do SGBD*
 
 
+**SQL PURO - Vantagens**
+
+- Muito mais rápido
+- Linguagem standard que pode ser usada em diferentes contextos
+- Pode ser usada co código e nas ferramentas de gestão das bases de dados
+- Permite um entendimento mais aprofundado sobre a comunicação com as bases de dados
+
+**SQL PURO - Desvantagens**
+
+- É uma linguagem dentro de outra linguagem
+- Quando mal usada pode comprometer a segurança (SQL Injection)
+- Destinada a bases de dados relacionais
+- Mais sucetível a erros de escrita
+
+
+**Query Builder**
+
+- São bibliotecas que criam um layer mais "compreensível" por cima do SQL
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/sql-01.jpg" width="50%">
+</p>
+
+- A escrita das *queries* fica mais intuitiva
+- Como existem diversas soluções, existe o custo de estudar cada uma delas
+
+
+**ORM - Object-Relational Mapping**
+
+- Sistema que cria um cenário dentro da aplicação em que cada tabela da base de dados passa a ser considerada como um objeto com propriedades e métodos intrínsecos a essa estrutura
+
+
+<p align="center">
+  <img alt="...." src="../Seção 9.10 - MySQL & SQL Básico/assets/orm.jpg" width="50%">
+</p>
+
+- Permite integração mais estruturadas
+- Existem várias soluções, cada uma delas com uma curva de aprendizagem
+
+**PHP ORMs**
+
+- Eloquent ORM
+- Doctrine ORM
+- RedBeanPHP
+- Propel
+
+- Medoo
+- Solr
+- Cycle ORM
+- Sheep ORM
+
+- Exemplo:
+  - mysql-sql_17
 
 
 
