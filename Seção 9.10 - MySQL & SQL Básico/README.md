@@ -759,7 +759,44 @@ ALTER TABLE telefones AUTO_INCREMENT = 1;
 
 ### 353 - Criar uma Base de Dados com MySQL Workbench
 
+- MySQL Workbench
+  - Site: https://dev.mysql.com/downloads/workbench/
 
+**SQL**
+
+- Criação de uma nova base de dados
+
+```sql
+CREATE SCHEMA `loja_online` ;
+```
+
+- Criação da tabela loja_online
+
+```sql
+CREATE TABLE `loja_online`.`clientes` (
+  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `nome_cliente` VARCHAR(55) NULL,
+  `created_at` DATETIME NULL,
+  PRIMARY KEY (`id`));
+```
+
+- Inserindo registros a tabela
+
+```sql
+INSERT INTO `loja_online`.`clientes` (`nome_cliente`, `created_at`) VALUES ('Daniel', '2030-01-10 12:30:10');
+INSERT INTO `loja_online`.`clientes` (`nome_cliente`, `created_at`) VALUES ('Priscila', '2030-01-10 12:30:10');
+INSERT INTO `loja_online`.`clientes` (`nome_cliente`, `created_at`) VALUES ('Carlos', '2030-01-10 12:30:10');
+```
+
+- Selecionar dados
+
+```sql
+SELECT nome_cliente FROM loja_online.clientes;
+```
+
+
+- Exemplo:
+  - mysql-sql_15
 
 
 
