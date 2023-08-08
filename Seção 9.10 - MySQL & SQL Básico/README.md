@@ -802,7 +802,25 @@ SELECT nome_cliente FROM loja_online.clientes;
 
 
 
-### Criar uma Base de Dados com PhpMyAdmin
+### 353 - Criar uma Base de Dados com PhpMyAdmin
+
+**PhpMyAdmin**
+
+- PhpMyAdmin
+  - Site: https://www.phpmyadmin.net/
+  - Dowmloads: https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.zip
+
+- Copiar o arquivo baixado (phpMyAdmin) na pasta `C:\laragon\etc\apps`
+
+- Fazer uma copia e alterar essa copia do arquivo `config.sample.inc.php`, para `config.inc.php`
+- Editar o ficheiro `config.inc.php`
+
+
+- PhpMyAdmin 
+  - Localhost: http://localhost/phpmyadmin/
+
+
+**Criação da Base de Dados**
 
 - Exemplo:
   - mysql-sql_16
