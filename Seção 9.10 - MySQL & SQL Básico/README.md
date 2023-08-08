@@ -802,9 +802,10 @@ SELECT nome_cliente FROM loja_online.clientes;
 
 
 
+### Criar uma Base de Dados com PhpMyAdmin
 
-
-
+- Exemplo:
+  - mysql-sql_16
 
 
 
