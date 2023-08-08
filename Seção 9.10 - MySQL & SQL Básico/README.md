@@ -736,7 +736,6 @@ ALTER TABLE telefones AUTO_INCREMENT = 1;
 ```
 
 
-
 - Exemplo:
   - mysql-sql_13
 
@@ -751,13 +750,14 @@ ALTER TABLE telefones AUTO_INCREMENT = 1;
 
 
 
+### 352 - Exportar & Importar Bases De Dados no HeidiSQL
+
+- Exemplo:
+  - mysql-sql_14
 
 
 
-
-
-
-
+### 353 - Criar uma Base de Dados com MySQL Workbench
 
 
 
