@@ -5,12 +5,12 @@
 
 
 <p align="left">
-  <img alt="...." src="../Seção 9.11 - PHP 8 e Conexão com MySQL/assets/PHP-logo.svg.png" width="30%">
+  <img alt="...." src="../Seção 9.11 - PHP 8 e Conexão com MySQL/assets/PHP-logo.svg.png" width="40%">
 </p>
 
 
 <p align="right">
-  <img alt="...." src="../Seção 9.11 - PHP 8 e Conexão com MySQL/assets/mysql.png" width="30%">
+  <img alt="...." src="../Seção 9.11 - PHP 8 e Conexão com MySQL/assets/mysql.png" width="40%">
 </p>
 
 
@@ -39,8 +39,8 @@
 **Como Funciona a relação entre PHP e o MySQL**
 
 
-<p align="right">
-  <img alt="...." src="../Seção 9.11 - PHP 8 e Conexão com MySQL/assets/php-mysql.jpg" width="50%">
+<p align="center">
+  <img alt="...." src="../Seção 9.11 - PHP 8 e Conexão com MySQL/assets/php-mysql.jpg" width="70%">
 </p>
 
 
@@ -58,18 +58,6 @@
 - É gratuito, desenvolvido e suportado pela *Oracle Corporation*
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 **Links**
 
 - Visual Studio Code
@@ -79,7 +67,10 @@
 - HeidiSQL
   - Downloads: https://www.heidisql.com/download.php
 
+- Sem projeto
 
+- Exemplo:
+  - php-mysql_01
 
 
 
