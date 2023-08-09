@@ -75,15 +75,61 @@
 
 
 
+### 357 - PHP MySQLi ou PDO
+
+
+- O PHP tem duas formas de ser conectar com o MySQL
+  - Com a extenção **MySQLi** - *MySQL improved*
+  - **PDO** - PHP Data Object
+
+- Ambas são aceites e têm vantagens e desvantagens
+- Vamos ver quais, rapidamente
+
+
+**MySQL - MySQL improved**
+
+
+**Vantagens**
+
+- Pode ser usada de forma procedural ou orientada a objetos
+- Tem um bom desempenho
+- Sintaxe simples
+
+
+**Desvantagens**
+
+- Só permite conexão com MySQL
+- Queries parametrizadas não têm parâmetros nomeados
+
+
+
+**PDO - PHP Data Objects**
+
+
+**Vantagens**
+
+- Totalmente orientada a objetos
+- Tem parâmetros nomeados
+- Permite a conexão com 12 tipos de bases de dados
+
+**Desvantagens**
+
+- Não é tão performativo como MySQLi
+
+
+**A nossa decisão**
+
+- Iremos construir todos os exercícios recorrendo a **PDO**
+- Trata-se de uma forma mais recente e a tendência é a de abondonar um dia o MySQLi e ficar apenas com PDO
+- Aprender PDO também facilitará se quiserres ver como conectar via MySQLi
 
 
 
 
+- Sem projeto
 
-
-
-
-
+- Exemplo:
+  - php-mysql_02
 
 
 
