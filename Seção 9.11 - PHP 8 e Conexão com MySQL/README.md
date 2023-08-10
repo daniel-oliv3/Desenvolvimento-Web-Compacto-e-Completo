@@ -135,15 +135,31 @@
 
 
 
+### 358 - Importação de Base de Dados e Requisitos do PDO
+
+- Importar a base de dados
+
+- NAKOHoG5
+
+**Prompt**
+
+- Verifica a versão do PHP
+```
+php -v
+```
+
+- Verifica as extensões ativas
+```
+php -m
+```
+
+- PDO
+- pdo_mysql
 
 
 
-
-
-
-
-
-
+- Exemplo:
+  - php-mysql_03
 
 
 
