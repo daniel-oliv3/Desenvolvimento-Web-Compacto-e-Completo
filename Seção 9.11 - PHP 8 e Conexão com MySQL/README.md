@@ -180,8 +180,10 @@ php -m
 
 
 
+### 361 - Obter Dados em Diferentes Formatos
 
-
+- Exemplo:
+  - php-mysql_06
 
 
 
