@@ -171,10 +171,11 @@ php -m
 
 
 
+### 360 - Obter Resultados com Execução de Queries
 
 
-
-
+- Exemplo:
+  - php-mysql_05
 
 
 
