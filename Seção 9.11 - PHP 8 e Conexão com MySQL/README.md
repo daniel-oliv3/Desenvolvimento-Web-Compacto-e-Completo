@@ -186,9 +186,10 @@ php -m
   - php-mysql_06
 
 
+### 362 - Apresentar Dados a Partir de uma Query
 
-
-
+- Exemplo:
+  - php-mysql_07
 
 
 
