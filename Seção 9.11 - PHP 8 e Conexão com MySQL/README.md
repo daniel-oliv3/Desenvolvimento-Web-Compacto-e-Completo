@@ -163,9 +163,10 @@ php -m
 
 
 
+### 359 - Conectar Via PDO & Controlo de Erros
 
-
-
+- Exemplo:
+  - php-mysql_04
 
 
 
