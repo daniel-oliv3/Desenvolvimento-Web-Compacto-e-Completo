@@ -192,9 +192,10 @@ php -m
   - php-mysql_07
 
 
+### 363 - Apresentar os Dados numa Tabela de HTML
 
-
-
+- Exemplo:
+  - php-mysql_08
 
 
 
