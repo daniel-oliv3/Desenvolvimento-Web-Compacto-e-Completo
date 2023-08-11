@@ -194,6 +194,13 @@ php -m
 
 ### 363 - Apresentar os Dados numa Tabela de HTML
 
+
+- seleciona os 20 primeiros clientes da tabela 
+
+```sql
+SELECT * FROM clientes LIMIT 20
+```
+
 - Exemplo:
   - php-mysql_08
 
@@ -202,9 +209,10 @@ php -m
 
 
 
+### 364 - SQL Injection - O Problema de Segurança
 
-
-
+- Exemplo:
+  - php-mysql_09
 
 
 
