@@ -211,12 +211,18 @@ SELECT * FROM clientes LIMIT 20
 
 ### 364 - SQL Injection - O Problema de Segurança
 
+- exp sql inject
+- password: ' or ''='
+
 - Exemplo:
   - php-mysql_09
 
 
 
 
+### 365 - Mais Segurança com Consultas Parametrizadas
 
+- Exemplo:
+  - php-mysql_10
 
 
