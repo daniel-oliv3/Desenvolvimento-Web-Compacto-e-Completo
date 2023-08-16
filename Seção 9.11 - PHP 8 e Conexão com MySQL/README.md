@@ -265,7 +265,11 @@ SELECT * FROM clientes LIMIT 20
 
 
 
+### 371 - Apresentação de Dados do Exercício Anterior
 
+
+- Exemplo:
+  - php-mysql_16
 
 
 
