@@ -274,7 +274,13 @@ SELECT * FROM clientes LIMIT 20
 
 
 
+### 372 - Conclusões & Exercício Prático de CRUD
 
+
+- Sem projeto
+
+- Exemplo:
+  - php-mysql_17
 
 
 
