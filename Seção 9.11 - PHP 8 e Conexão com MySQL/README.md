@@ -283,7 +283,13 @@ SELECT * FROM clientes LIMIT 20
   - php-mysql_17
 
 
+### 373 - Memória Descritiva a Aplicação
 
+
+- Sem projeto
+
+- Exemplo:
+  - php-mysql_18
 
 
 
