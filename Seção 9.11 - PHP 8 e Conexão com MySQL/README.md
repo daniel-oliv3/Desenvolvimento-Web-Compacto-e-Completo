@@ -226,3 +226,44 @@ SELECT * FROM clientes LIMIT 20
   - php-mysql_10
 
 
+### 366 - Controlar Comunicações com Transações
+
+- Exemplo:
+  - php-mysql_11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
