@@ -241,7 +241,11 @@ SELECT * FROM clientes LIMIT 20
 
 
 
+### 368 - Criar Classe para Gestão de MySQL Através de PDO
 
+
+- Exemplo:
+  - php-mysql_13
 
 
 
