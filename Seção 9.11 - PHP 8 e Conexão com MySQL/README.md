@@ -277,8 +277,6 @@ SELECT * FROM clientes LIMIT 20
 ### 372 - Conclusões & Exercício Prático de CRUD
 
 
-- Sem projeto
-
 - Exemplo:
   - php-mysql_17
 
@@ -286,7 +284,6 @@ SELECT * FROM clientes LIMIT 20
 ### 373 - Memória Descritiva a Aplicação
 
 
-- Sem projeto
 
 - Exemplo:
   - php-mysql_18
@@ -294,7 +291,12 @@ SELECT * FROM clientes LIMIT 20
 
 
 
+### 374 - Apresentação do HTML da Aplicação
 
+
+
+- Exemplo:
+  - php-mysql_19
 
 
 
