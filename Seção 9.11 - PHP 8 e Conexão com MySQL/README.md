@@ -309,8 +309,11 @@ SELECT * FROM clientes LIMIT 20
   - php-mysql_20
 
 
+### 376 - Desenvolvimento das Regras de Negócio - Parte 2
 
 
+- Exemplo:
+  - php-mysql_21
 
 
 
