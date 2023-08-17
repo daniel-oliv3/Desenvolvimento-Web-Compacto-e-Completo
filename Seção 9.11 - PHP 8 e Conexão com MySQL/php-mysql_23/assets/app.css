@@ -1,0 +1,8 @@
+/* meu css */
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.yes-no-width {
+    width: 150px;
+}
