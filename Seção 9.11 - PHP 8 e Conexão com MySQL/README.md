@@ -300,5 +300,68 @@ SELECT * FROM clientes LIMIT 20
 
 
 
+### 375 - Desenvolvimento das Regras de Negócio - Parte 1
+
+- pswd-1: NAKOHoG5
+- pswd-2: d6VONaXIN8vA3ab5mogI3uYizuseFO
+
+- Exemplo:
+  - php-mysql_20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
