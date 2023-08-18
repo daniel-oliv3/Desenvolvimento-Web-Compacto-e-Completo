@@ -47,7 +47,7 @@
 
     <div class="wrapper">
         <p class="text-center">REGISTO DE CLIENTES</p>
-        <form action="tratar.php" method="post">
+        <form action="tratar_original.php" method="post">
             <div>
                 <label>Nome:</label>
                 <input type="text" name="text_nome" required>
@@ -75,5 +75,5 @@
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    16/08/2023
+    18/08/2023
 -->

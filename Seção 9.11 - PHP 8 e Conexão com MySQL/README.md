@@ -234,6 +234,33 @@ SELECT * FROM clientes LIMIT 20
 
 ### 367 - Conclusão Sobre o que Vimos Até Agora
 
+- Já aprendemos a conectar o PHP com o MySQL via PDO
+- Habitualmente, vamos desenvolver aplicações recorrendo a **Frameworks** PHP
+  - CodeIgniter
+  - CokePHP
+  - Symfony
+  - Laravel
+
+- Podemos usar estes conhecimentos para pequenos projetos
+  - Automações que executam tarefas simples
+  - Execução de processos para alimentação de bases de dados
+
+- A construção de uma classe pode contribuir para diminuir o tempo de desenvolvimento destas pequenas soluções
+
+
+**Exemplos**
+
+- Vamos desenvolver um conjunto de scripts que carregam dados de um ficheiro CSV e atualizam ou esmagam informação numa base de dados
+
+- Vamos criar uma API simples que não requer frameworks
+
+- Vamos criar um pequeno sistema que recolhe informações de uma base de dados eexporta essa informação para um ficheiro
+
+- Vamos colocar em prática o nosso conhecimento de PHP
+
+- Vamos criar uma classe para executar as nossas operações crud
+
+
 - Sem projeto
 
 - Exemplo:
@@ -243,6 +270,8 @@ SELECT * FROM clientes LIMIT 20
 
 ### 368 - Criar Classe para Gestão de MySQL Através de PDO
 
+- Importar base de dados
+  - db_stock
 
 - Exemplo:
   - php-mysql_13
@@ -260,10 +289,23 @@ SELECT * FROM clientes LIMIT 20
 ### 370 - Submissão de Dados de um Formulário para uma Base de Dados
 
 
+- Criar a base de dados
+- Criação da tabela
+```sql
+CREATE TABLE `clientes` (
+	`id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+	`nome` VARCHAR(50) NULL DEFAULT NULL COLLATE 'utf8_unicode_ci',
+	`email` VARCHAR(50) NULL DEFAULT NULL COLLATE 'utf8_unicode_ci',
+	`created_at` DATETIME NULL DEFAULT NULL,
+	PRIMARY KEY (`id`) USING BTREE
+)
+COLLATE='utf8_unicode_ci'
+ENGINE=InnoDB
+;
+```
+
 - Exemplo:
   - php-mysql_15
-
-
 
 ### 371 - Apresentação de Dados do Exercício Anterior
 
@@ -354,7 +396,7 @@ SELECT * FROM clientes LIMIT 20
 - Sem projeto
 
 - Exemplo:
-  - php-mysql_25
+  - php-mysql_26
 
 
 
