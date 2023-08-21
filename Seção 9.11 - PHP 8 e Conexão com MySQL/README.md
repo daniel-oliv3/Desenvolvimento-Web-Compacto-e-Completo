@@ -317,8 +317,6 @@ ENGINE=InnoDB
 ```
 
 
-
-
 - Exemplo:
   - php-mysql_15
 
@@ -334,11 +332,70 @@ ENGINE=InnoDB
 ### 372 - Conclusões & Exercício Prático de CRUD
 
 
+- Este módulo serviu para mostrar como ligar o **PHP** ao **MySQL** via *PDO*
+- Habitualmente, vamos recorrer a **frameworks** de PHP para a criação de aplicações mais complexas
+- Entender os conceitos deste módulo e importante para percerber como a comunicação com a base de dados funciona
+- Existem várias soluções já testatas para a substituir a "nossa" classe **Database**
+- Vamos concluir este módulo com um exercício de **CRUD**.
+
+- **CRUD** - Create, Read, Update e Delete
+- Funcionalidades da aplicação:
+- Gerir uma lista de contatos com **nomes** e **telefones**
+  - Permitir **adicionar, editar** e **remover** contatos
+  - Impedir **telefones** duplicados
+  - Permitir pesquisa por nome e/ou telefone
+  - Funcionalidade para **exportação dos dados** para CSV.
+
+
+- **IMPORTANTE**: É apenas um exercício prático
+- Em cenários profissionais, teríamos que olhar para varias questões
+  - Segurança da aplicação
+  - Múltiplas validações dos dados
+  - Encriptação de dados pessoais na base de dados
+  - Controle de rotas muito apurada
+  - Vários outros aspectos
+
+- O objetivo é colocar em prática algumas logicas de programação
+- **Não deves usar este execício num cenário de produção**
+
+- Alguns recursos ja vão estar disponiveis para poderes avançar no desenvolvimento da solução
+
+
+- Sem projeto
+
 - Exemplo:
   - php-mysql_17
 
 
 ### 373 - Memória Descritiva a Aplicação
+
+**PHP PDO Contactos**
+
+**Memória descritiva**
+
+- **Enquadramento**:
+  - Desenvolver uma aplicação PHP com acesso a base de dados MySQL que permite efetuar a gestão de contactos telefónicos com base no binómio NOME e TELEFONE.
+
+- **Normas obrigatórias**:
+  - Os nomes estão limitados a um mínimo de 3 e máximo 50 letras.
+  - Os telefones estão limitados e um mínimo de 3 e máximo de 12 letras.
+  - Os nomes podem surgir repetidos.
+  - Os números de telefone são únicos.
+  - O sistema deve conter um mecanismo de inserção, edição e eliminação de registos, bem como um espaço para pesquisa por nome e/ou telefone.
+  - Por razões de operacionalidade e testagem, o sistema deverá ter uma funcionalidade para limpeza completa dos registos existentes.
+  - Ao lado do sistema enunciado anteriormente, deve existir um link para download de toda a informação em formato CSV.
+
+- **Descrição da aplicação**:
+- A página inicial deverá apresentar um campo de pesquisa do lado esquerdo e do lado direito um botão para adição de novos registos.
+- Imediatamente abaixo, deverá ser apresentado o resultado da pesquisa, ou todos os registos se não houver pesquisa, em formato de tabela.
+- Deverá ser apresentada uma informação no caso de não existirem registos.
+- A tabela deverá apresentar 4 colunas: Nome, Telefone, Editar e Eliminar.
+- A tabela deverá, quando apresentada, mostrar o total de registos apresentados.
+- A funcionalidade de adição de novos registos deverá obrigar a definir nome e telefone. O telefone deve ser único, não sendo permitido guardar um número de telefone que tenha sido anteriormente atribuído a outro registo.
+- A funcionalidade de edição de registos existentes deve apresentar os dados a editar no formulário, deve permitir que ambos sejam editáveis e não permitir que o telefone seja alterado para um número que já exista na base de dados associado a outro registo.
+- A eliminação de cada registo deve ser objeto de confirmação.
+- A eliminação de todos os registos deve ser objeto de confirmação.
+
 
 
 
