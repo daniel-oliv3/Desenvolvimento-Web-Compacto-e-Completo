@@ -28,5 +28,5 @@ ou não e agir em conformidade.
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    16/08/2023
+    21/08/2023
 -->

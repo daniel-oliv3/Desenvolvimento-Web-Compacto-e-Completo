@@ -304,6 +304,21 @@ ENGINE=InnoDB
 ;
 ```
 
+- Pass 
+  - user_meus_clientes: 45tA873IwA8a8aYIg53ud6lA6aQiTO
+
+- “\”
+- “/”
+
+```php
+<?php ?>
+
+<?= ?>
+```
+
+
+
+
 - Exemplo:
   - php-mysql_15
 
