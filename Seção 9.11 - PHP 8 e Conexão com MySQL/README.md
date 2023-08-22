@@ -397,7 +397,7 @@ ENGINE=InnoDB
 - A eliminação de todos os registos deve ser objeto de confirmação.
 
 
-
+- Sem projeto
 
 - Exemplo:
   - php-mysql_18
@@ -407,7 +407,7 @@ ENGINE=InnoDB
 
 ### 374 - Apresentação do HTML da Aplicação
 
-
+- Projeto Inicial
 
 - Exemplo:
   - php-mysql_19
@@ -415,6 +415,10 @@ ENGINE=InnoDB
 
 
 ### 375 - Desenvolvimento das Regras de Negócio - Parte 1
+
+- Base de dados: php_pdo_contactos
+- Username: user_php_pdo_contactos
+
 
 - pswd-1: NAKOHoG5
 - pswd-2: d6VONaXIN8vA3ab5mogI3uYizuseFO
@@ -464,6 +468,25 @@ ENGINE=InnoDB
 
 
 ### 381 - Conclusões
+
+
+- Será que a nossa aplicação está pronta para **Produção**?
+- **Obviamente que NÃO**
+- Faltam vários mecanismos de segurança e gestão do fluxo
+  - Validação dos formulários do lado do servidor
+  - Definição de rotas restritas
+  - Uma organização mais cuidada do projeto
+  - Algumas otimizações do código
+
+- Efetuar este tipo de exercícios permite perceber a complexidade do desenvolvimento de uma aplicação web
+
+- Como foi referido neste módulo, na maior parte dos casos iremos desenvolver as nossas aplicações recorrendo a uma **Framework**
+
+
+- Perceber como podemos desenvolver um sistema pequeno com PDO é fundamental para criar automatismos e pequenos projetos
+
+
+- Com PDO e MySQL é fundamental saber **SQL**
 
 - Sem projeto
 
