@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/sql-fun.jpg" width="40%">
+  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/sql-fun.jpg" width="60%">
 </p>
 
 
@@ -57,7 +57,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/arrays-assc.jpg" width="40%">
+  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/arrays-assc.jpg" width="60%">
 </p>
 
 
