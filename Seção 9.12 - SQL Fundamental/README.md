@@ -154,14 +154,27 @@ Not
 
 
 
+### 386 - Algumas Notas Sobre a Sintaxe Do SQL
+
+- Antes de avançar com os exemplos, apenas algumas notas sobre a sintaxe do **SQL**
+
+
+- As palavras reservadas são case-insensitive
+```sql
+SELECT = select
+```
+
+- Podemos criar **queries** numa linha ou múltiplas linhas
+- Podemos efetuar imensas operações numa BD através de SQL
+- Nem todas as funlçoes de SQL estão disponíveis de igual modo em diferentes Sistemas de Gestão de Bases de Dados
 
 
 
 
+- Sem projeto
 
-
-
-
+- Exemplo:
+    - sql-fundamental_05
 
 
 
