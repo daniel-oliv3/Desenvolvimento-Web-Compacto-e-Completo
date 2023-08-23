@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/sql-fun.jpg" width="60%">
+  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/sql-fun.jpg" width="70%">
 </p>
 
 
@@ -57,7 +57,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/arrays-assc.jpg" width="60%">
+  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/arrays-assc.jpg" width="70%">
 </p>
 
 
@@ -73,18 +73,19 @@
     - udemy_loja_online
 
 
-**Laragon**
-    - Downloads: https://laragon.org/download/index.html
+- **Laragon**
+  - Downloads: https://laragon.org/download/index.html
 
-**HeidiSQL**
-    - Downloads: https://www.heidisql.com/download.php
+- **HeidiSQL**
+  - Downloads: https://www.heidisql.com/download.php
 
-**MySQL Workbench**
+- **MySQL Workbench**
+  - Downloads: https://dev.mysql.com/downloads/workbench/
 
-**PHPMyAdmin**
+- **PHPMyAdmin**
+  - Localhost: 
 
-
-**Visual Studio Code**
+- **Visual Studio Code**
   - Downloads: https://code.visualstudio.com/download
 
 
@@ -92,6 +93,137 @@
 
 - Exemplo:
     - sql-fundamental_01
+
+
+### 383 - Importação da Base de Dados & Utilização no HeidiSQL
+
+- Sem projeto
+
+- Comandos SQL
+
+- Selecionar todos os clientes 
+
+```sql
+SELECT * FROM clientes
+```
+
+- Exemplo:
+    - sql-fundamental_02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
