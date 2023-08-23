@@ -97,15 +97,16 @@
 
 ### 383 - Importação da Base de Dados & Utilização no HeidiSQL
 
-- Sem projeto
 
-- Comandos SQL
+**Comandos SQL**
 
 - Selecionar todos os clientes 
 
 ```sql
 SELECT * FROM clientes
 ```
+
+- Sem projeto
 
 - Exemplo:
     - sql-fundamental_02
@@ -114,10 +115,25 @@ SELECT * FROM clientes
 
 
 
+### 384 - Importação da Base de Dados & Utilização no MySQL Workbench
 
 
 
+- **DICAS**
 
+```txt
+
+Como deixar o Workbenche no Tema Escuro
+
+Abra o MySQL Workbench. No menu superior, clique em "Edit" (Editar) e selecione "Preferences" (Preferências). Na janela de preferências, localize e clique em "Appearance" (Aparência) no painel esquerdo. No painel direito, você deve encontrar a opção "Interface Theme" (Tema da Interface).
+
+Not
+```
+
+- Sem projeto
+
+- Exemplo:
+    - sql-fundamental_03
 
 
 
