@@ -190,9 +190,10 @@ SELECT = select
 
 
 
+### 388 - Ordenar Dados com ORDER BY
 
-
-
+- Exemplo:
+    - sql-fundamental_07
 
 
 
