@@ -181,13 +181,11 @@ SELECT = select
 
 
 
+### 387 - Introdução ao SELECT
 
 
-
-
-
-
-
+- Exemplo:
+    - sql-fundamental_06
 
 
 
