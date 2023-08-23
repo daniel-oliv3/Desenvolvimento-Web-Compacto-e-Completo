@@ -83,7 +83,7 @@
   - Downloads: https://dev.mysql.com/downloads/workbench/
 
 - **PHPMyAdmin**
-  - Localhost: 
+  - Localhost: http://localhost/phpmyadmin/
 
 - **Visual Studio Code**
   - Downloads: https://code.visualstudio.com/download
@@ -138,14 +138,19 @@ Not
 
 
 
+### 385 - Importação da Base de Dados & Utilização no PhpMyAdmin
+
+- Clicar no btn direito no Laragon MySQL/PhpMyAdmin
+
+- PhpMyAdmin
+  - Localhost: http://localhost/phpmyadmin/
 
 
 
+- Sem projeto
 
-
-
-
-
+- Exemplo:
+    - sql-fundamental_04
 
 
 
