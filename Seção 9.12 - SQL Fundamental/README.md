@@ -290,7 +290,10 @@ SELECT = select
     - sql-fundamental_20
 
 
+### 402 - Funções de Agregação - COUNT
 
+- Exemplo:
+    - sql-fundamental_21
 
 
 
