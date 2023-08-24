@@ -264,7 +264,10 @@ SELECT = select
 
 
 
+### 398 - Organização das Instruções de uma Query
 
+- Exemplo:
+    - sql-fundamental_17
 
 
 
