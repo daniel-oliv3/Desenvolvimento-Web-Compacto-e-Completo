@@ -327,7 +327,10 @@ SELECT = select
     - sql-fundamental_26
   
 
+### 408 - UNION & UNION ALL
 
+- Exemplo:
+    - sql-fundamental_27
 
 
 
