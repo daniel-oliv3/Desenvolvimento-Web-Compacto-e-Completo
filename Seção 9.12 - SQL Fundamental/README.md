@@ -447,7 +447,10 @@ SELECT = select
 
 
 
+### 425 - Funções do SQL que Podem Ser Úteis - Datas & Horas
 
+- Exemplo:
+    - sql-fundamental_45
 
 
 
