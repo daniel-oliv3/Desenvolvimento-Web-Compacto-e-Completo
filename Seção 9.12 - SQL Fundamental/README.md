@@ -218,7 +218,10 @@ SELECT = select
 
 
 
+### 392 - Operadores de Comparação
 
+- Exemplo:
+    - sql-fundamental_11
 
 
 
