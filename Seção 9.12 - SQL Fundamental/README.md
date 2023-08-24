@@ -400,7 +400,10 @@ SELECT = select
     - sql-fundamental_37
 
 
+### 419 - Exercícios com a Loja Online - Parte 2
 
+- Exemplo:
+    - sql-fundamental_38
 
 
 
