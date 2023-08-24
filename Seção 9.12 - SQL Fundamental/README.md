@@ -447,13 +447,16 @@ SELECT = select
 
 
 
-### 425 - Funções do SQL que Podem Ser Úteis - Datas & Horas
+### 426 - Funções do SQL que Podem Ser Úteis - Datas & Horas
 
 - Exemplo:
     - sql-fundamental_45
 
 
+### 427 - Considerações Finais do Módulo
 
+- Exemplo:
+    - sql-fundamental_46
 
 
 
