@@ -339,7 +339,10 @@ SELECT = select
     - sql-fundamental_28
 
 
+### 410 - INSERT
 
+- Exemplo:
+    - sql-fundamental_29
 
 
 
