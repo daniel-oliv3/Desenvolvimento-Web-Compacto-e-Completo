@@ -204,9 +204,10 @@ SELECT = select
 
 
 
+### 390 - Obter Dados Únicos com DISTINCT
 
-
-
+- Exemplo:
+    - sql-fundamental_09
 
 
 
