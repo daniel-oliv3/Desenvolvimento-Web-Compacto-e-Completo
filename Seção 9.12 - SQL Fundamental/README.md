@@ -211,7 +211,10 @@ SELECT = select
 
 
 
+### 391 - Introdução à Cláusula WHERE
 
+- Exemplo:
+    - sql-fundamental_10
 
 
 
