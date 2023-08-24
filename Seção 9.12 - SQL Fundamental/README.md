@@ -369,12 +369,15 @@ SELECT = select
 
 ### 414 - CREATE TABLE
 
-
 - Exemplo:
     - sql-fundamental_33
 
 
 
+### 415 - Primary Key & Foreing Key
+
+- Exemplo:
+    - sql-fundamental_34
 
 
 
