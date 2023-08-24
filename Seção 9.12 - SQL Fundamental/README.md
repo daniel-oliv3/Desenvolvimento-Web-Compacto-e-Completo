@@ -367,7 +367,11 @@ SELECT = select
     - sql-fundamental_32
 
 
+### 414 - CREATE TABLE
 
+
+- Exemplo:
+    - sql-fundamental_33
 
 
 
