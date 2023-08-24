@@ -381,7 +381,10 @@ SELECT = select
 
 
 
+### 416 - ALTER TABLE
 
+- Exemplo:
+    - sql-fundamental_35
 
 
 
