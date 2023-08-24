@@ -388,7 +388,10 @@ SELECT = select
 
 
 
+### 417 - DROP TABLE & TRUNCATE Table
 
+- Exemplo:
+    - sql-fundamental_36
 
 
 
