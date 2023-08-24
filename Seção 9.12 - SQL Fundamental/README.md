@@ -226,9 +226,10 @@ SELECT = select
 
 
 
+### 393 - Operadores Lógicos - Parte 1
 
-
-
+- Exemplo:
+    - sql-fundamental_12
 
 
 
