@@ -440,7 +440,10 @@ SELECT = select
 
 
 
+### 425 - Funções do SQL que Podem Ser Úteis - Números
 
+- Exemplo:
+    - sql-fundamental_44
 
 
 
