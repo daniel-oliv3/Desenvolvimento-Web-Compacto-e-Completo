@@ -413,7 +413,10 @@ SELECT = select
 
 
 
+### 421 - Inserir uma Nova Encomenda na Loja Online
 
+- Exemplo:
+    - sql-fundamental_40
 
 
 
