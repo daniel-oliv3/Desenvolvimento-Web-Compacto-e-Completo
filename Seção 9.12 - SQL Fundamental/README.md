@@ -303,7 +303,10 @@ SELECT = select
     - sql-fundamental_22
 
 
+### 404 - Funções de Agregação - AVG & SUM
 
+- Exemplo:
+    - sql-fundamental_23
 
 
 
