@@ -197,9 +197,10 @@ SELECT = select
 
 
 
+### 389 - Limitar o Número de Registos com LIMIT & OFFSET
 
-
-
+- Exemplo:
+    - sql-fundamental_08
 
 
 
