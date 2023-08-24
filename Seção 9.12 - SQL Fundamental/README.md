@@ -420,7 +420,10 @@ SELECT = select
 
 
 
+### 422 - Eliminar uma Nova Encomenda na Loja Online
 
+- Exemplo:
+    - sql-fundamental_41
 
 
 
