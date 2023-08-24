@@ -333,7 +333,10 @@ SELECT = select
     - sql-fundamental_27
 
 
+### 409 - Simples Case & Searched Case
 
+- Exemplo:
+    - sql-fundamental_28
 
 
 
