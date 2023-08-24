@@ -297,6 +297,11 @@ SELECT = select
 
 
 
+### 403 - Funções de Agregação - MIN & MAX
+
+- Exemplo:
+    - sql-fundamental_22
+
 
 
 
