@@ -257,7 +257,10 @@ SELECT = select
     - sql-fundamental_15
 
 
+### 397 - CONCAT & CONCAT_WS
 
+- Exemplo:
+    - sql-fundamental_16
 
 
 
