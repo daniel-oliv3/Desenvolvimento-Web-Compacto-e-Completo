@@ -315,7 +315,10 @@ SELECT = select
     - sql-fundamental_24
 
 
+### 406 - GROUP BY com Mais Exemplos
 
+- Exemplo:
+    - sql-fundamental_25
 
 
 
