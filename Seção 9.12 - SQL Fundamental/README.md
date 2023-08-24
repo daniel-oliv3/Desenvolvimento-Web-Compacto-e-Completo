@@ -426,7 +426,10 @@ SELECT = select
     - sql-fundamental_41
 
 
+### 423 - Funções do SQL que Podem Ser Úteis - Strings - Parte 1
 
+- Exemplo:
+    - sql-fundamental_42
 
 
 
