@@ -277,7 +277,10 @@ SELECT = select
     - sql-fundamental_18
 
 
+### 400 - Exercícios Práticos com JOINS - Parte 1
 
+- Exemplo:
+    - sql-fundamental_19
 
 
 
