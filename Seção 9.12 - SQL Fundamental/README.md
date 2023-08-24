@@ -271,7 +271,10 @@ SELECT = select
 
 
 
+### 399 - Introdução as JOINS
 
+- Exemplo:
+    - sql-fundamental_18
 
 
 
