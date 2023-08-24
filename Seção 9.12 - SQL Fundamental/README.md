@@ -309,8 +309,10 @@ SELECT = select
     - sql-fundamental_23
 
 
+### 405 - Introdução ao Uso de Subqueries & GROUP BY
 
-
+- Exemplo:
+    - sql-fundamental_24
 
 
 
