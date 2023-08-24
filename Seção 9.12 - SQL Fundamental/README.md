@@ -359,6 +359,12 @@ SELECT = select
     - sql-fundamental_31
 
 
+### 413 - SQL Data Type
+
+- Sem projeto
+
+- Exemplo:
+    - sql-fundamental_32
 
 
 
