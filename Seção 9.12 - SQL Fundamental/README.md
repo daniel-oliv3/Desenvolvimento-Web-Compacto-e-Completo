@@ -241,10 +241,11 @@ SELECT = select
 
 
 
+### 395 - IS NULL & IS NOT NULL
 
 
-
-
+- Exemplo:
+    - sql-fundamental_14
 
 
 
