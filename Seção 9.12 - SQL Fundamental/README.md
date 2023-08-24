@@ -179,8 +179,6 @@ SELECT = select
 
 
 
-
-
 ### 387 - Introdução ao SELECT
 
 
