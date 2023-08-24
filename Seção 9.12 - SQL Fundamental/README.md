@@ -353,7 +353,10 @@ SELECT = select
 
 
 
+### 412 - DELETE
 
+- Exemplo:
+    - sql-fundamental_31
 
 
 
