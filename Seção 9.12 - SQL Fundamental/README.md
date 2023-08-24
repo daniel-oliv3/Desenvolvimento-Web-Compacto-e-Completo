@@ -433,7 +433,10 @@ SELECT = select
 
 
 
+### 424 - Funções do SQL que Podem Ser Úteis - Strings - Parte 2
 
+- Exemplo:
+    - sql-fundamental_43
 
 
 
