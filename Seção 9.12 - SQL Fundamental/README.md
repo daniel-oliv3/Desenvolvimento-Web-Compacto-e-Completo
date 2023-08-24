@@ -346,7 +346,10 @@ SELECT = select
 
 
 
+### 411 - UPDATE
 
+- Exemplo:
+    - sql-fundamental_30
 
 
 
