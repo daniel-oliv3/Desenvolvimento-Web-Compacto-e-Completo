@@ -251,9 +251,10 @@ SELECT = select
 
 
 
+### 396 - Alias
 
-
-
+- Exemplo:
+    - sql-fundamental_15
 
 
 
