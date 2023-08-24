@@ -321,7 +321,10 @@ SELECT = select
     - sql-fundamental_25
 
 
+### 407 - HAVING
 
+- Exemplo:
+    - sql-fundamental_26
   
 
 
