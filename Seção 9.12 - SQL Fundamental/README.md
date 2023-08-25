@@ -179,6 +179,8 @@ SELECT = select
 
 
 
+
+
 ### 387 - Introdução ao SELECT
 
 
@@ -270,6 +272,22 @@ SELECT = select
 
 
 ### 399 - Introdução as JOINS
+
+- **(INNER) JOIN**: 
+    - Registros de retorno que têm valores correspondentes em ambas as tabelas
+- **LEFT (OUTER) JOIN**: 
+    - Retorna todos os registros da tabela da esquerda, e os registros combinados da tabela da direita
+- **RIGHT (OUTER) JOIN**: 
+    - Retorna todos os registros da tabela da direita, e os registros combinados da tabela da esquerda
+- **FULL (OUTER) JOIN**:
+    - Devolve todos os registros quando há uma correspobdência na tabela da esquerda ou da direita
+
+**Tipos diferentes de JOINS**
+
+<p align="center">
+  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/SQL-JOIN.jpg" width="70%">
+</p>
+
 
 - Exemplo:
     - sql-fundamental_18
@@ -455,6 +473,11 @@ SELECT = select
 
 - Exemplo:
     - sql-fundamental_46
+
+
+
+
+
 
 
 
