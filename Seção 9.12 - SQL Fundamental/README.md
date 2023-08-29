@@ -377,6 +377,44 @@ SELECT = select
 
 ### 413 - SQL Data Type
 
+
+- Numa base de dados, cada coluna aceita um tipo de dado específico
+- O tipo de dados são designados por **Data Types**
+- Uma coluna pode aceitar números, textos, datas, etc.
+- Cada SGBD tem um vasto conjunto de **Data Types**
+- A maior parte dos Data Types são comuns aos SGDBs relacionais
+- Vamos conhecer os Data Types mais significativos no MySQL
+
+**Data Types de Texto**
+
+<p align="center">
+  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/datatype_01.jpg" width="70%">
+</p>
+
+
+**Data Types de Números**
+
+<p align="center">
+  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/datatype_02.jpg" width="70%">
+</p>
+
+
+**Data Types de Datas e Horas**
+
+<p align="center">
+  <img alt="...." src="../Seção 9.12 - SQL Fundamental/assets/datatype_03.jpg" width="70%">
+</p>
+
+
+- Os **Datas Types** têm particular importâncias nas seguintes situações:
+    - Quando estamos a construir ou alterar uma tabela
+    - Quando vamos inserir ou atualizar dados
+
+- Podemos contruir tabelas usando as aplicações de gestão
+- Podemos contruir tabelas usando **SQL**
+- É isso ai 
+
+
 - Sem projeto
 
 - Exemplo:
