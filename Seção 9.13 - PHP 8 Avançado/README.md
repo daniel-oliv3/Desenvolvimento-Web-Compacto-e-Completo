@@ -1,57 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##
 ### Seção 13 - PHP 8 Avançado
 ##
@@ -249,7 +195,7 @@
 - Tens um projeto que depende de várias bibliotecas e algumas dessas bibliotecas dependem de outra
 
 
-- **Com o Coposer**:
+- **Com o Composer**:
     - Permite definir que biblioteca são necessárias para o projeto
     - Faz o download das bibliotecas de forma inteligente
     - Permite atualizar essas bibliotecas apenas com um comando
@@ -275,10 +221,26 @@
     - php-avancado_04
 
 
+### 432 - Criação da Estrutura Inicial do Projeto
+
+**Bootstrap 5**
+  - Link: https://getbootstrap.com/
+
+**Font Awesome**
+  - Link: https://fontawesome.com/
 
 
 
+**Comandos Terminal VSCode**
 
+- Iniciar o composer
+```
+composer init
+```
+
+
+- Exemplo
+    - php-avancado_05
 
 
 

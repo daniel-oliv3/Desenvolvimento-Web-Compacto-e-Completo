@@ -1,0 +1,11 @@
+{
+    "name": "sys4soft/bng",
+    "description": "Aplicação para gestão de name gathering",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Daniel Oliveira"
+        }
+    ],
+    "require": {}
+}
