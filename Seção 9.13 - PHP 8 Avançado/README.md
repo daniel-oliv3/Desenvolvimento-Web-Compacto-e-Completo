@@ -151,7 +151,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/php-avan-02.jpg" width="50%">
+  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/php-avan-03.jpg" width="70%">
 </p>
 
 
