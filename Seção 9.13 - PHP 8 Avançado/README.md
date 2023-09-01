@@ -264,9 +264,23 @@ composer dump-autoload -o
 
 
 
+### 434 - O Sistema de Roteamento
 
 
+- Autoload 
+```
+composer dump-autoload -o
+```
 
+**URLs**
+
+- http://localhost/avancado/php-avancado_07/public/?ct=novo
+- http://localhost/avancado/php-avancado_07/public/?ct=novo&mt=executar
+- http://localhost/avancado/php-avancado_07/public/?ct=novo&mt=executar&id=100
+- http://localhost/avancado/php-avancado_07/public/?ct=novo&id=100&operacao=acao
+
+- Exemplo
+    - php-avancado_07
 
 
 
