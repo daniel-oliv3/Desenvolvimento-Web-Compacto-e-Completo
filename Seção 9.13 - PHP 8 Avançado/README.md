@@ -230,8 +230,6 @@
 
 
 
-
-
 - Sem Exemplo
 
 - Exemplo
@@ -239,20 +237,42 @@
 
 
 
+### 431 - O que é o Composer e Como Instalar
+
+- O que é o Composer ?
+
+- Gestor de dependências de projetos PHP
+- Permite gerir dependências ao nível de cada projeto
+
+- **Exemplo**:
+
+- Tens um projeto que depende de várias bibliotecas e algumas dessas bibliotecas dependem de outra
 
 
+- **Com o Coposer**:
+    - Permite definir que biblioteca são necessárias para o projeto
+    - Faz o download das bibliotecas de forma inteligente
+    - Permite atualizar essas bibliotecas apenas com um comando
+
+<p align="center">
+  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/composer-01.jpg" width="50%">
+</p>
 
 
+**Como insstalamos o Composer** ?
+
+- Podes instaklar em qualquer sistema
+- Vamos ver como instalar para Windows
 
 
+- Composer
+    - Link: https://getcomposer.org/
 
 
+- Sem Exemplo
 
-
-
-
-
-
+- Exemplo
+    - php-avancado_04
 
 
 
