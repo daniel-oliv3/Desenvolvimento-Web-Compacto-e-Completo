@@ -96,17 +96,17 @@
 **Downloads**
 
 - **Laragon**
-  - Downloads: https://laragon.org/download/index.html
+  - Link: https://laragon.org/download/index.html
 
 - **Visual Studio Code**
-  - Downloads: https://code.visualstudio.com/download
+  - Link: https://code.visualstudio.com/download
 
 - **HeidiSQL**
-  - Downloads: https://www.heidisql.com/download.php
+  - Link: https://www.heidisql.com/download.php
 
 
 
-**Algumas notas importantes**:
+**Algumas Notas Importantes**:
 
 
 - Na maior parte dos casos vais usar uma **Framework**
@@ -170,6 +170,137 @@
 
 - Exemplo
     - php-avancado_02
+
+
+
+### 430 - A Aplicação que Vamos Criar
+
+- Ao longo do módulo, vamos desenvolver uma aplicação
+- **Objetivo**: aplicar conceitos básicos, intermédios e avançados de PHP
+- Criae uma **estrutura MVC** do zero e a aplicação web por cima dessa estrutura
+    - PHP funcional
+    - PHP Orientados a Objetos
+    - Acesso a base de dados via PDO
+    - Registos de logs
+    - Queries de SQL
+    - Uso de bibliotecas de JavaScript
+    - Envio de emails
+    - Encriptação e segurança de dados
+    - Criação de PDFs
+    - Importação e exploração de ficheiros (CSV e XLSX)
+
+**BNG - Basic Name Gathering**
+
+- Trata-se de uma empresa que angaria clientes para vendas de produtos
+- Tem um conjunto de colaboradores que contactam diretamente as pessoas e recolhem os seus dados pessoais
+    - nome
+    - sexo
+    - data de nascimento
+    - email
+    - telefone
+    - áreas de interesse
+
+- Os colaboradores têm acesso a uma plataforma atraves de **username** e **password**
+
+
+- Cada colaboradores pode gerir os dados dos seus clientes
+    - Adicionar clientes
+    - Editar dados dos clientes
+    - Eliminar clientes
+
+- Cada colaborador só tem acesso aos seus clientes
+
+
+**BNG - Basic Name Gathering**
+
+- Existe um administrador que tem acesso a todos os dados e estatísticas
+- O administrador é responsável po gerir os seus colaboradores
+
+- A plataforma será uma estrura MVC e deverá:
+    - Disponibilizar funcionalidades para gestão dos clientes para cada colaborador
+    - Permitir ao administrador a gestão dos colaboradores
+    - Permitir ainda:
+        - A obtenção de dados estatísticos
+        - importação e exportação de ficheiros
+        - ter um registro de *logs* sobre todos os movimentos efetuados
+        - acesso a *report* em PDF
+        - análise dos colaboradores mais ativos
+
+- Entre outras funcionalidades...
+
+
+
+
+
+- Sem Exemplo
+
+- Exemplo
+    - php-avancado_03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
