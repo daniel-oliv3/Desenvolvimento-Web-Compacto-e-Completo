@@ -59,7 +59,7 @@
 
 
 <p align="center">
-  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/PHP-logo.svg.png" width="50%">
+  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/PHP-logo.svg.png" width="70%">
 </p>
 
 
@@ -119,14 +119,29 @@
     - Implementações de segurança
     - Middleware e imensas classes
 
+- Sem Exemplo
+
+- Exemplo
+    - php-avancado_01
 
 
 
+### 429 - As Frameworks de PHP
+
+- Existem **Frameworks** e **bibliotecas** nas linguagens para web
+- São **kits** com **estrutura** e **funcionalidades** para criar aplicações web
 
 
 
+<p align="center">
+  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/php-avan-01.jpg" width="70%">
+</p>
 
 
+- Sem Exemplo
+
+- Exemplo
+    - php-avancado_02
 
 
 
