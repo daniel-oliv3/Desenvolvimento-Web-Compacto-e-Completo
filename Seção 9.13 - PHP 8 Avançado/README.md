@@ -201,11 +201,11 @@
     - Permite atualizar essas bibliotecas apenas com um comando
 
 <p align="center">
-  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/composer-01.jpg" width="50%">
+  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/composer-01.jpg" width="30%">
 </p>
 
 
-**Como insstalamos o Composer** ?
+**Como instalamos o Composer** ?
 
 - Podes instaklar em qualquer sistema
 - Vamos ver como instalar para Windows
@@ -244,13 +244,22 @@ composer init
 
 
 
+### 433 - Autoload com Composer
+
+- **Extensões VSCode**
+  - `Fold/unfold all icone`
+  - `PHP INtelephense`
+  - `Random String Generator`
 
 
+- Autoload `vendor`
+```
+composer dump-autoload -o
+```
 
 
-
-
-
+- Exemplo
+    - php-avancado_06
 
 
 
