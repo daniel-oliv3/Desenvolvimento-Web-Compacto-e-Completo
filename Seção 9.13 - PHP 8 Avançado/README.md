@@ -132,10 +132,38 @@
 - São **kits** com **estrutura** e **funcionalidades** para criar aplicações web
 
 
-
 <p align="center">
   <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/php-avan-01.jpg" width="70%">
 </p>
+
+- O PHP tem várias **frameworks** para desenvolvimento web
+
+<p align="center">
+  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/php-avan-02.jpg" width="70%">
+</p>
+
+
+- A maioria das várias **frameworks** é baseada no **padrão MVC**
+- **MVC**
+    - **M**odel
+    - **V**iew
+    - **C**ontroller
+
+
+<p align="center">
+  <img alt="...." src="../Seção 9.13 - PHP 8 Avançado/assets/php-avan-02.jpg" width="50%">
+</p>
+
+
+- Que framework vamos escolher para o resto do módulo ?
+
+- NENHUMA
+
+- Vamos explorar **conceitos mais avançados** de PHP com exemplos
+- Muitos dos conceitos vais usar no interior das frameworks
+- Durante o módulo, vamos **desenvolver um projeto MVC**
+- Vai ser mais fácil escolher a framework e desenvolver web apps com toda a **segurança**, **performance** e **escalabilidade**
+
 
 
 - Sem Exemplo
