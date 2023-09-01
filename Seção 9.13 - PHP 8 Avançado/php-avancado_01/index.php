@@ -5,7 +5,6 @@
 
 
 
-
 ?>
 
 
@@ -14,5 +13,5 @@
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas/Brasil
-    24/08/2023
+    01/09/2023
 -->
