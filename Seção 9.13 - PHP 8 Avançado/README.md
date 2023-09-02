@@ -278,16 +278,24 @@ composer dump-autoload -o
 - http://localhost/avancado/php-avancado_07/public/?ct=novo&mt=executar
 - http://localhost/avancado/php-avancado_07/public/?ct=novo&mt=executar&id=100
 - http://localhost/avancado/php-avancado_07/public/?ct=novo&id=100&operacao=acao
+- http://localhost/avancado/php-avancado_07/public/novo/100/acao
 
 - Exemplo
     - php-avancado_07
 
 
 
+### 435 - Teste ao Roteamento de Controladores
 
 
+**URLs**
+
+- http://localhost/avancado/php-avancado_08/public/?ct=main&mt=index&id=10
+- http://localhost/avancado/php-avancado_08/public/?ct=main&mt=teste
 
 
+- Exemplo
+    - php-avancado_08
 
 
 
