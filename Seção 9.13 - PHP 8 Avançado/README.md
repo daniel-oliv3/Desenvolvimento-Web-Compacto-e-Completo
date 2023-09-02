@@ -300,10 +300,19 @@ composer dump-autoload -o
 
 
 
+### 436 - Vamos Adicionar um Ficheiro com Funções
 
+**URLs**
 
+- http://localhost/avancado/php-avancado_09/public/
 
+- Autoload 
+```
+composer dump-autoload -o
+```
 
+- Exemplo
+    - php-avancado_09
 
 
 
