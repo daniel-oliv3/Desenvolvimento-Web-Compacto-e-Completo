@@ -287,6 +287,9 @@ composer dump-autoload -o
 
 ### 435 - Teste ao Roteamento de Controladores
 
+- ct
+- mt
+- id
 
 **URLs**
 
@@ -315,10 +318,15 @@ composer dump-autoload -o
     - php-avancado_09
 
 
+### 437 - Criar Uma Função para Debug de Resultados
+
+**URLs**
+
+- http://localhost/avancado/php-avancado_10/public/
 
 
-
-
+- Exemplo
+    - php-avancado_10
 
 
 
