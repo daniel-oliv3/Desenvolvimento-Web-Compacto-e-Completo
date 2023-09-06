@@ -1,0 +1,21 @@
+{
+    "name": "sys4soft/bng",
+    "description": "Aplicação para gestão de name gathering",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Daniel Oliveira"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "bng\\Controllers\\":["app/controllers"],
+            "bng\\System\\":["app/system"]
+        },
+        "files":[
+            "app/config.php",
+            "app/helpers/functions.php"
+        ]
+    }
+}
