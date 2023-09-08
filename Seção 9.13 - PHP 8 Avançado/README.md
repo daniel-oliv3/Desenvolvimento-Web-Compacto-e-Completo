@@ -341,9 +341,10 @@ composer dump-autoload -o
 
 
 
+### 439 - Visualização de Dados na Nossa Aplicação
 
-
-
+- Exemplo
+    - php-avancado_12
 
 
 
