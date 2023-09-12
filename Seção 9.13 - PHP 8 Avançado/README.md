@@ -343,6 +343,10 @@ composer dump-autoload -o
 
 ### 439 - Visualização de Dados na Nossa Aplicação
 
+**URLs**
+
+- http://localhost/avancado/php-avancado_12/public/
+
 - Exemplo
     - php-avancado_12
 
@@ -350,5 +354,118 @@ composer dump-autoload -o
 
 ### 440 - É Hora de Adicionar Suporte para MySQL
 
+**URLs**
+
+- http://localhost/avancado/php-avancado_13/public/
+
+
+- Autoload
+```
+composer dump-autoload -o
+```
+
+
 - Exemplo
     - php-avancado_13
+
+
+### 441 - Finalização da Nossa Framework
+
+```sql
+TRUNCATE agents
+```
+
+- Exemplo
+    - php-avancado_14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
