@@ -390,8 +390,14 @@ TRUNCATE agents
 
 
 
+### 443 - BNG - Início do Desenvolvimento da Aplicação
 
+```sql
+TRUNCATE agents; TRUNCATE persons;
+```
 
+- Exemplo
+    - php-avancado_16
 
 
 

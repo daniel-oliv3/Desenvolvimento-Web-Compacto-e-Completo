@@ -1,0 +1,38 @@
+/* my custom css */
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+body {
+    min-height: 100%;
+    background: radial-gradient(at top, rgb(200, 3, 182) 0%, rgb(0, 15, 61) 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bng-navbar {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+}
+
+.home-option {
+    background-color: white;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.home-option:hover {
+    background-color: rgb(221, 165, 213);
+}
+
+.unlink,
+.unlink:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: rgb(17, 14, 19);
+    color: white;
+}
