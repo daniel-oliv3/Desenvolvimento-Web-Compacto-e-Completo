@@ -375,6 +375,10 @@ composer dump-autoload -o
 TRUNCATE agents
 ```
 
+**URLs**
+
+- http://localhost/avancado/php-avancado_14/public/
+
 - Exemplo
     - php-avancado_14
 
@@ -384,6 +388,9 @@ TRUNCATE agents
 
 ### 442 - A Framework com Todas As Views
 
+**URLs**
+
+- http://localhost/avancado/php-avancado_15/public/
 
 - Exemplo
     - php-avancado_15
@@ -396,6 +403,10 @@ TRUNCATE agents
 TRUNCATE agents; TRUNCATE persons;
 ```
 
+**URLs**
+
+- http://localhost/avancado/php-avancado_16/public/
+
 - Exemplo
     - php-avancado_16
 
@@ -403,16 +414,29 @@ TRUNCATE agents; TRUNCATE persons;
 
 ### 444 - BNG - Validação do Formulário de Login
 
+**URLs**
+
+- http://localhost/avancado/php-avancado_17/public/
 
 - Exemplo
     - php-avancado_17
 
 
 
+### 445 - BNG - Verificação do Login na Base de Dados
 
+**URLs**
 
+- http://localhost/avancado/php-avancado_18/public/
 
+**Users**
 
+- admin@bng.com - Aa123456
+- agent1@bng.com - Aa123456
+- agent2@bng.com - Aa123456
+
+- Exemplo
+    - php-avancado_18
 
 
 
