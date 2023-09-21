@@ -445,6 +445,8 @@ TRUNCATE agents; TRUNCATE persons;
 
 ### 446 - Validação de Valores com filter_var
 
+- Documentação: https://www.php.net/manual/en/filter.filters.validate.php 
+
 - Exemplo
     - php-avancado_19
 
