@@ -451,9 +451,10 @@ TRUNCATE agents; TRUNCATE persons;
     - php-avancado_19
 
 
+### 447 - Encriptação de Dados com AES_ENCRYPT & AES_DECRYPT No SQL
 
-
-
+- Exemplo
+    - php-avancado_20
 
 
 
