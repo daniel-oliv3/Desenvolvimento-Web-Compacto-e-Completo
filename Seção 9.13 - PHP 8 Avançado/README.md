@@ -459,9 +459,10 @@ TRUNCATE agents; TRUNCATE persons;
 
 
 
+### 448 - Encriptação & Verificação de Passwords
 
-
-
+- Exemplo
+    - php-avancado_28
 
 
 
